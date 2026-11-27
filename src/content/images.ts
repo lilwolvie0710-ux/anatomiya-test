@@ -26,6 +26,9 @@ export function imageInfo(id: string | undefined): ImageInfo | undefined {
 
 /** URL картинки: id из реестра или data:-URL (картинки из редактора зон). */
 export function imageSrc(id: string): string {
+  // офлайн-файл для Telegram: картинки встроены как data:-URL
+  const inlined = (globalThis as { __INLINE_IMAGES?: Record<string, string> }).__INLINE_IMAGES;
+  if (inlined?.[id]) return inlined[id];
   const info = byId.get(id);
   if (info) return import.meta.env.BASE_URL + info.file;
   return id;

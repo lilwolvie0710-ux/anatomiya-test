@@ -1,6 +1,5 @@
 import { useMemo, useState } from 'react';
-import { TOPICS } from '../content/topics';
-import { questionsForTraining } from '../content/bank';
+import { activeTopics, questionsForTraining } from '../content/bank';
 import { useI18n } from '../i18n';
 import { navigate } from '../router';
 import { Screen } from '../components/Layout';
@@ -50,7 +49,7 @@ export function TrainingScreen() {
       >
         <h2>{t('chooseTopic')}</h2>
         <div className="stack">
-          {TOPICS.map((tp) => {
+          {activeTopics().map((tp) => {
             const n = questionsForTraining([tp.id]).length;
             return (
               <button

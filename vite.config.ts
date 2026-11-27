@@ -40,6 +40,8 @@ export default defineConfig({
         globPatterns: ['**/*.{js,css,html,svg,png,jpg,jpeg,webp,wasm,json,woff2}'],
         maximumFileSizeToCacheInBytes: 8 * 1024 * 1024,
         navigateFallback: 'index.html',
+        // офлайн-файл и инструкция — для скачивания, в кэш приложения не нужны
+        globIgnores: ['**/Anatomiya_oflayn.html', '**/qollanma.pdf'],
         cleanupOutdatedCaches: true,
       },
       devOptions: { enabled: false },

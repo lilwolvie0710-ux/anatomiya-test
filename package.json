@@ -13,7 +13,9 @@
     "xlsx2json": "node scripts/xlsx-to-json.mjs",
     "template": "node scripts/make-template.mjs",
     "validate": "node scripts/validate-bank.mjs",
-    "guide": "node scripts/make-student-guide.mjs"
+    "guide": "node scripts/make-student-guide.mjs",
+    "offline": "vite build -c vite.offline.config.ts && node -e \"const f=require('fs');f.copyFileSync('dist-offline/offline.html','docs/Anatomiya_oflayn.html');f.copyFileSync('dist-offline/offline.html','public/Anatomiya_oflayn.html')\"",
+    "exam": "node scripts/make-exam.mjs"
   },
   "dependencies": {
     "barcode-detector": "^3.2.5",
@@ -37,6 +39,7 @@
     "typescript": "^7.0.2",
     "vite": "^8.4.0",
     "vite-plugin-pwa": "^2.0.0",
+    "vite-plugin-singlefile": "^2.3.4",
     "vitest": "^5.1.2"
   }
 }

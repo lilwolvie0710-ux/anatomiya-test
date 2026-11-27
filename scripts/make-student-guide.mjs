@@ -96,6 +96,13 @@ ${section('🦴', '3. Mashq (tayyorgarlik)', '3. Тренировка (подг�
   ['<b>«Statistika»</b>da natijalaringiz, zaif mavzular va rivojlanish grafigi ko‘rinadi.', 'В <b>«Статистике»</b> — ваши результаты, слабые темы и график прогресса.'],
 ]))}
 
+${section('📎', '3a. Internetsiz mashq: Telegram fayli', '3a. Тренажёр-файл из Telegram (без интернета)', `
+${steps([
+  ['O‘qituvchi guruhga <b>Anatomiya_oflayn.html</b> faylini yuboradi (yoki saytdan: …/Anatomiya_oflayn.html). Uni yuklab oling.', 'Преподаватель присылает в группу файл <b>Anatomiya_oflayn.html</b> (или скачайте с сайта: …/Anatomiya_oflayn.html).'],
+  ['<b>Android:</b> faylni bosing → «Chrome» bilan oching. <b>iPhone:</b> Telegram ichidagi ko‘rishda tugmalar ishlamasligi mumkin — bunday holda yuqoridagi ilovadan foydalaning (u ham internetsiz ishlaydi).', '<b>Android:</b> нажмите на файл → откройте в Chrome. <b>iPhone:</b> во встроенном просмотре Telegram кнопки могут не работать — тогда пользуйтесь приложением (оно тоже работает без интернета).'],
+  ['Ichida: <b>Mashq</b> (izohlar bilan) va <b>Sinov testi</b> (30 savol, 40 daqiqa, ball 0–2.0). Bu — tayyorgarlik uchun, rasmiy imtihon emas.', 'Внутри: <b>Тренировка</b> (с объяснениями) и <b>Пробный тест</b> (30 вопросов, 40 минут, балл 0–2.0). Это для подготовки, не официальный экзамен.'],
+])}`)}
+
 ${section('✍️', '4. Savol turlari — qanday javob berish', '4. Типы заданий — как отвечать', `
 <table>
 <tr><th style="width:27%">Turi / Тип</th><th>Qanday javob beriladi</th><th>Как отвечать</th></tr>

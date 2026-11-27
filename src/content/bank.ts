@@ -1,5 +1,6 @@
 import type { Question } from '../types';
 import { imageAspect } from './images';
+import { TOPICS, type Topic } from './topics';
 
 // Все файлы банка: src/content/bank/topic-XX.json
 const modules = import.meta.glob<{ default: Question[] }>('./bank/*.json', { eager: true });
@@ -17,6 +18,12 @@ export function withAspect(q: Question): Question {
     if (a) return { ...q, aspect: a };
   }
   return q;
+}
+
+/** Темы, по которым в банке есть вопросы (остальные скрыты, пока не наполнены). */
+export function activeTopics(extraTopicIds: number[] = []): Topic[] {
+  const ids = new Set([...BANK.map((q) => q.topic), ...extraTopicIds]);
+  return TOPICS.filter((t) => ids.has(t.id));
 }
 
 export function questionsForTraining(topics: number[]): Question[] {

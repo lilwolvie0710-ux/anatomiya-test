@@ -1,5 +1,7 @@
 import { useEffect, useState } from 'react';
-import { TOPICS } from '../content/topics';
+import { useLiveQuery } from 'dexie-react-hooks';
+import { activeTopics } from '../content/bank';
+import { db } from '../db';
 import { Screen } from '../components/Layout';
 import { availableQuestions, buildTest, DEFAULT_RULES, DEFAULT_SCORING } from './logic';
 import { FINAL_EXAM_SCORING } from '../core/scoring';
@@ -30,6 +32,8 @@ export function BuilderScreen() {
   const [includeMine, setIncludeMine] = useState(true);
   const [avail, setAvail] = useState(0);
   const [result, setResult] = useState<TeacherTest | null>(null);
+  const myTopicIds = useLiveQuery(async () => [...new Set((await db.myQuestions.toArray()).map((m) => m.q.topic))], []);
+  const shownTopics = activeTopics(myTopicIds ?? []);
   const [error, setError] = useState('');
   const [busy, setBusy] = useState(false);
 
@@ -48,7 +52,7 @@ export function BuilderScreen() {
 
   const finalPreset = () => {
     setTitle(L('Yakuniy nazorat', 'Итоговый контроль'));
-    setTopics(TOPICS.map((x) => x.id));
+    setTopics(shownTopics.map((x) => x.id));
     setCount(35);
     setDuration(50);
     setMode('points');
@@ -130,7 +134,7 @@ export function BuilderScreen() {
       </label>
       <div className="card stack">
         <h3>{L('Mavzular', 'Темы')}</h3>
-        {TOPICS.map((tp) => (
+        {shownTopics.map((tp) => (
           <label key={tp.id} className="check">
             <input type="checkbox" checked={topics.includes(tp.id)} onChange={() => toggleTopic(tp.id)} />
             <span className="small">
