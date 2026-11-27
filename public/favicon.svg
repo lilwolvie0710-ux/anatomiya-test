@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="96" fill="#0f1115"/>
+  <g fill="none" stroke="#5eead4" stroke-width="22" stroke-linecap="round" stroke-linejoin="round">
+    <!-- стилизованный позвонок -->
+    <ellipse cx="256" cy="210" rx="92" ry="58"/>
+    <path d="M196 252 L170 330 M316 252 L342 330"/>
+    <path d="M170 330 Q256 380 342 330"/>
+    <path d="M256 380 L256 450"/>
+    <path d="M150 300 L84 286 M362 300 L428 286"/>
+  </g>
+  <circle cx="256" cy="300" r="26" fill="#5eead4"/>
+</svg>

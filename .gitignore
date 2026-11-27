@@ -1,0 +1,16 @@
+node_modules/
+dist/
+dev-dist/
+test-results/
+playwright-report/
+*.log
+.DS_Store
+# личные данные преподавателя — не публиковать
+backups/
+private/
+*.backup.json
+anatomiya-backup-*.json
+.claude/settings.local.json
+# силлабус (фамилии, подписи) и локальные настройки агента не публикуем
+syllabus/*.pdf
+.claude/

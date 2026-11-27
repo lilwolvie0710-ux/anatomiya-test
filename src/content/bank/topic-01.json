@@ -1,0 +1,816 @@
+[
+  {
+    "id": "t01-001",
+    "topic": 1,
+    "type": "single",
+    "status": "draft",
+    "prompt": { "uz": "Odamda nechta bo‘yin umurtqasi bor?", "ru": "Сколько шейных позвонков у человека?" },
+    "options": [
+      { "id": "a", "text": "5" },
+      { "id": "b", "text": "7" },
+      { "id": "c", "text": "12" },
+      { "id": "d", "text": "4" }
+    ],
+    "correct": "b",
+    "explanation": {
+      "uz": "Vertebrae cervicales — 7 ta (C1–C7). Ko‘krak — 12, bel — 5, dumg‘aza — 5, dum — 3–5.",
+      "ru": "Vertebrae cervicales — 7 (C1–C7). Грудных — 12, поясничных — 5, крестцовых — 5, копчиковых — 3–5."
+    }
+  },
+  {
+    "id": "t01-002",
+    "topic": 1,
+    "type": "single",
+    "status": "draft",
+    "prompt": { "uz": "Qaysi umurtqaning tanasi yo‘q?", "ru": "У какого позвонка нет тела?" },
+    "options": [
+      { "id": "a", "text": "atlas (C1)" },
+      { "id": "b", "text": "axis (C2)" },
+      { "id": "c", "text": "vertebra prominens (C7)" },
+      { "id": "d", "text": "vertebra lumbalis I" }
+    ],
+    "correct": "a",
+    "explanation": {
+      "uz": "Atlantning tanasi rivojlanishda axis bilan qo‘shilib, uning tishini (dens axis) hosil qiladi. Atlant oldingi va orqa ravoqlar hamda lateral massalardan iborat.",
+      "ru": "Тело атланта в развитии прирастает к осевому позвонку и образует его зуб (dens axis). Атлант состоит из передней и задней дуг и латеральных масс."
+    }
+  },
+  {
+    "id": "t01-003",
+    "topic": 1,
+    "type": "single",
+    "status": "draft",
+    "prompt": {
+      "uz": "Tanani o‘ng va chap yarmlarga ajratuvchi tekislik qaysi?",
+      "ru": "Какая плоскость делит тело на правую и левую части?"
+    },
+    "options": [
+      { "id": "a", "text": "planum sagittale" },
+      { "id": "b", "text": "planum frontale" },
+      { "id": "c", "text": "planum horizontale" },
+      { "id": "d", "text": "axis longitudinalis" }
+    ],
+    "correct": "a",
+    "explanation": {
+      "uz": "Sagittal tekislik tanani o‘ng va chap qismlarga, frontal — oldingi va orqa, gorizontal — yuqori va pastki qismlarga ajratadi.",
+      "ru": "Сагиттальная плоскость делит тело на правую и левую части, фронтальная — на переднюю и заднюю, горизонтальная — на верхнюю и нижнюю."
+    }
+  },
+  {
+    "id": "t01-004",
+    "topic": 1,
+    "type": "single",
+    "status": "draft",
+    "prompt": {
+      "uz": "Faqat bo‘yin umurtqalariga xos belgi qaysi?",
+      "ru": "Какой признак характерен только для шейных позвонков?"
+    },
+    "options": [
+      { "id": "a", "text": "foramen transversarium" },
+      { "id": "b", "text": "fovea costalis" },
+      { "id": "c", "text": "processus mamillaris" },
+      { "id": "d", "text": "processus spinosus" }
+    ],
+    "correct": "a",
+    "explanation": {
+      "uz": "Ko‘ndalang o‘simta teshigi (foramen transversarium) faqat bo‘yin umurtqalarida bo‘ladi; undan umurtqa arteriyasi o‘tadi.",
+      "ru": "Отверстие поперечного отростка (foramen transversarium) есть только у шейных позвонков; через него проходит позвоночная артерия."
+    }
+  },
+  {
+    "id": "t01-005",
+    "topic": 1,
+    "type": "single",
+    "status": "draft",
+    "prompt": {
+      "uz": "Ko‘krak umurtqalarining tanasi va ko‘ndalang o‘simtalarida nima bor?",
+      "ru": "Что имеется на телах и поперечных отростках грудных позвонков?"
+    },
+    "options": [
+      { "id": "a", "text": "foveae costales" },
+      { "id": "b", "text": "foramina transversaria" },
+      { "id": "c", "text": "dens" },
+      { "id": "d", "text": "processus accessorii" }
+    ],
+    "correct": "a",
+    "explanation": {
+      "uz": "Qovurg‘a chuqurchalari (foveae costales) qovurg‘a boshchasi va bo‘rtig‘i bilan bo‘g‘im hosil qiladi.",
+      "ru": "Рёберные ямки (foveae costales) служат для сочленения с головкой и бугорком рёбер."
+    }
+  },
+  {
+    "id": "t01-006",
+    "topic": 1,
+    "type": "single",
+    "status": "draft",
+    "prompt": {
+      "uz": "“De humani corporis fabrica” (1543) asarining muallifi kim?",
+      "ru": "Кто автор труда «De humani corporis fabrica» (1543)?"
+    },
+    "options": [
+      { "id": "a", "text": { "uz": "Andreas Vezaliy", "ru": "Андреас Везалий" } },
+      { "id": "b", "text": { "uz": "Galen", "ru": "Гален" } },
+      { "id": "c", "text": { "uz": "Uilyam Garvey", "ru": "Уильям Гарвей" } },
+      { "id": "d", "text": { "uz": "Abu Ali ibn Sino", "ru": "Абу Али ибн Сина" } }
+    ],
+    "correct": "a",
+    "explanation": {
+      "uz": "A. Vezaliy (1514–1564) — ilmiy anatomiya asoschisi; 7 kitobdan iborat “Odam tanasining tuzilishi haqida”ni yozgan.",
+      "ru": "А. Везалий (1514–1564) — основоположник научной анатомии, автор семи книг «О строении человеческого тела»."
+    }
+  },
+  {
+    "id": "t01-007",
+    "topic": 1,
+    "type": "single",
+    "status": "draft",
+    "prompt": {
+      "uz": "Suyakni tashqi tomondan (bo‘g‘im yuzalaridan tashqari) qoplab turuvchi parda qanday ataladi?",
+      "ru": "Как называется оболочка, покрывающая кость снаружи (кроме суставных поверхностей)?"
+    },
+    "options": [
+      { "id": "a", "text": "periosteum" },
+      { "id": "b", "text": "endosteum" },
+      { "id": "c", "text": "perichondrium" },
+      { "id": "d", "text": "cartilago articularis" }
+    ],
+    "correct": "a",
+    "explanation": {
+      "uz": "Suyak usti pardasi (periosteum) suyakni oziqlantiradi va uning yo‘g‘onlashib o‘sishini ta’minlaydi. Bo‘g‘im yuzalari tog‘ay bilan qoplangan.",
+      "ru": "Надкостница (periosteum) питает кость и обеспечивает её рост в толщину. Суставные поверхности покрыты хрящом."
+    }
+  },
+  {
+    "id": "t01-008",
+    "topic": 1,
+    "type": "single",
+    "status": "draft",
+    "prompt": { "uz": "Uzun suyakning diafizi — bu…", "ru": "Диафиз длинной кости — это…" },
+    "options": [
+      { "id": "a", "text": { "uz": "suyakning tanasi (o‘rta qismi)", "ru": "тело (средняя часть) кости" } },
+      { "id": "b", "text": { "uz": "suyakning yo‘g‘onlashgan uchi", "ru": "утолщённый конец кости" } },
+      { "id": "c", "text": { "uz": "tana va uch orasidagi qism", "ru": "участок между телом и концом" } },
+      { "id": "d", "text": { "uz": "mushak birikadigan bo‘rtiq", "ru": "выступ для прикрепления мышц" } }
+    ],
+    "correct": "a",
+    "explanation": {
+      "uz": "Diaphysis — tana, epiphysis — uchlar, metaphysis — ular orasidagi qism, apophysis — mushak birikadigan bo‘rtiq.",
+      "ru": "Diaphysis — тело, epiphysis — концы, metaphysis — участок между ними, apophysis — выступ для прикрепления мышц."
+    }
+  },
+  {
+    "id": "t01-009",
+    "topic": 1,
+    "type": "single",
+    "status": "draft",
+    "prompt": {
+      "uz": "Katta yoshli odamda qizil suyak ko‘migi asosan qayerda joylashadi?",
+      "ru": "Где у взрослого человека в основном находится красный костный мозг?"
+    },
+    "options": [
+      {
+        "id": "a",
+        "text": {
+          "uz": "yassi suyaklar va epifizlarning g‘ovak moddasida",
+          "ru": "в губчатом веществе плоских костей и эпифизов"
+        }
+      },
+      { "id": "b", "text": { "uz": "diafizlarning ko‘mik bo‘shlig‘ida", "ru": "в костномозговой полости диафизов" } },
+      { "id": "c", "text": { "uz": "suyak usti pardasida", "ru": "в надкостнице" } },
+      { "id": "d", "text": { "uz": "bo‘g‘im tog‘ayida", "ru": "в суставном хряще" } }
+    ],
+    "correct": "a",
+    "explanation": {
+      "uz": "Kattalarda diafiz bo‘shlig‘ida sariq ko‘mik (medulla ossium flava), qizil ko‘mik (medulla ossium rubra) esa g‘ovak moddada bo‘ladi.",
+      "ru": "У взрослых в полости диафиза — жёлтый костный мозг (medulla ossium flava), а красный (medulla ossium rubra) — в губчатом веществе."
+    }
+  },
+  {
+    "id": "t01-010",
+    "topic": 1,
+    "type": "single",
+    "status": "draft",
+    "prompt": {
+      "uz": "Umurtqa shakli bo‘yicha qaysi guruhga kiradi?",
+      "ru": "К какой группе по форме относится позвонок?"
+    },
+    "options": [
+      { "id": "a", "text": "os irregulare" },
+      { "id": "b", "text": "os longum" },
+      { "id": "c", "text": "os breve" },
+      { "id": "d", "text": "os planum" }
+    ],
+    "correct": "a",
+    "explanation": {
+      "uz": "Umurtqalar aralash (noto‘g‘ri shakldagi) suyaklar — ossa irregularia — guruhiga kiradi.",
+      "ru": "Позвонки относятся к смешанным (неправильной формы) костям — ossa irregularia."
+    }
+  },
+  {
+    "id": "t01-011",
+    "topic": 1,
+    "type": "single",
+    "status": "draft",
+    "prompt": {
+      "uz": "“Turtib chiqqan umurtqa” (vertebra prominens) qaysi?",
+      "ru": "Какой позвонок называют «выступающим» (vertebra prominens)?"
+    },
+    "options": [
+      { "id": "a", "text": "C1" },
+      { "id": "b", "text": "C2" },
+      { "id": "c", "text": "C6" },
+      { "id": "d", "text": "C7" }
+    ],
+    "correct": "d",
+    "explanation": {
+      "uz": "VII bo‘yin umurtqasining o‘tkir o‘simtasi uzun va ikkiga bo‘linmagan, teri ostida yaxshi seziladi.",
+      "ru": "У VII шейного позвонка длинный нераздвоенный остистый отросток, который хорошо прощупывается под кожей."
+    }
+  },
+  {
+    "id": "t01-012",
+    "topic": 1,
+    "type": "single",
+    "status": "draft",
+    "prompt": {
+      "uz": "Uyqu bo‘rtig‘i (tuberculum caroticum) qaysi umurtqada joylashgan?",
+      "ru": "На каком позвонке находится сонный бугорок (tuberculum caroticum)?"
+    },
+    "options": [
+      { "id": "a", "text": "C1" },
+      { "id": "b", "text": "C4" },
+      { "id": "c", "text": "C6" },
+      { "id": "d", "text": "C7" }
+    ],
+    "correct": "c",
+    "explanation": {
+      "uz": "VI bo‘yin umurtqasi ko‘ndalang o‘simtasining oldingi bo‘rtig‘i yirik; qon ketganda umumiy uyqu arteriyasi unga bosiladi.",
+      "ru": "Передний бугорок поперечного отростка VI шейного позвонка крупный; к нему прижимают общую сонную артерию при кровотечении."
+    }
+  },
+  {
+    "id": "t01-013",
+    "topic": 1,
+    "type": "single",
+    "status": "draft",
+    "prompt": {
+      "uz": "Tipik umurtqada nechta birlamchi suyaklanish nuqtasi paydo bo‘ladi?",
+      "ru": "Сколько первичных точек окостенения появляется в типичном позвонке?"
+    },
+    "options": [
+      { "id": "a", "text": "1" },
+      { "id": "b", "text": "2" },
+      { "id": "c", "text": "3" },
+      { "id": "d", "text": "5" }
+    ],
+    "correct": "c",
+    "explanation": {
+      "uz": "Bitta nuqta tanada va ikkitasi ravoqning ikki yarmida paydo bo‘ladi.",
+      "ru": "Одна точка — в теле и по одной — в каждой половине дуги."
+    }
+  },
+  {
+    "id": "t01-014",
+    "topic": 1,
+    "type": "multi",
+    "status": "draft",
+    "prompt": {
+      "uz": "Umurtqa pog‘onasining qaysi bo‘limlari lordoz hosil qiladi?",
+      "ru": "Какие отделы позвоночного столба образуют лордоз?"
+    },
+    "options": [
+      { "id": "a", "text": { "uz": "bo‘yin", "ru": "шейный" } },
+      { "id": "b", "text": { "uz": "ko‘krak", "ru": "грудной" } },
+      { "id": "c", "text": { "uz": "bel", "ru": "поясничный" } },
+      { "id": "d", "text": { "uz": "dumg‘aza", "ru": "крестцовый" } }
+    ],
+    "correct": ["a", "c"],
+    "explanation": {
+      "uz": "Lordoz — oldinga qavariq egilish (bo‘yin va bel), kifoz — orqaga qavariq (ko‘krak va dumg‘aza).",
+      "ru": "Лордоз — изгиб выпуклостью вперёд (шейный и поясничный), кифоз — выпуклостью назад (грудной и крестцовый)."
+    }
+  },
+  {
+    "id": "t01-015",
+    "topic": 1,
+    "type": "multi",
+    "status": "draft",
+    "prompt": {
+      "uz": "Umurtqa ravog‘idan qaysi o‘simtalar chiqadi?",
+      "ru": "Какие отростки отходят от дуги позвонка?"
+    },
+    "options": [
+      { "id": "a", "text": "processus spinosus" },
+      { "id": "b", "text": "processus transversus" },
+      { "id": "c", "text": "processus articularis superior" },
+      { "id": "d", "text": "dens" },
+      { "id": "e", "text": "processus articularis inferior" }
+    ],
+    "correct": ["a", "b", "c", "e"],
+    "explanation": {
+      "uz": "Ravoqdan 7 ta o‘simta chiqadi: 1 o‘tkir, 2 ko‘ndalang, 2 yuqori va 2 pastki bo‘g‘im o‘simtasi. Dens — axis tanasining o‘simtasi.",
+      "ru": "От дуги отходят 7 отростков: 1 остистый, 2 поперечных, 2 верхних и 2 нижних суставных. Dens — отросток тела осевого позвонка."
+    }
+  },
+  {
+    "id": "t01-016",
+    "topic": 1,
+    "type": "multi",
+    "status": "draft",
+    "prompt": { "uz": "Qaysilari yassi suyaklar (ossa plana)?", "ru": "Какие из перечисленных — плоские кости (ossa plana)?" },
+    "options": [
+      { "id": "a", "text": "os parietale" },
+      { "id": "b", "text": "sternum" },
+      { "id": "c", "text": "scapula" },
+      { "id": "d", "text": "femur" },
+      { "id": "e", "text": "os capitatum" }
+    ],
+    "correct": ["a", "b", "c"],
+    "explanation": {
+      "uz": "Tepa suyagi, to‘sh suyagi va kurak — yassi; son suyagi — uzun (naysimon); boshchali suyak — kalta.",
+      "ru": "Теменная кость, грудина и лопатка — плоские; бедренная — длинная (трубчатая); головчатая — короткая."
+    }
+  },
+  {
+    "id": "t01-017",
+    "topic": 1,
+    "type": "multi",
+    "status": "draft",
+    "prompt": {
+      "uz": "Qaysi atamalar “boshga yaqinroq” degan ma’noni bildiradi?",
+      "ru": "Какие термины означают «ближе к голове»?"
+    },
+    "options": [
+      { "id": "a", "text": "cranialis" },
+      { "id": "b", "text": "superior" },
+      { "id": "c", "text": "caudalis" },
+      { "id": "d", "text": "distalis" },
+      { "id": "e", "text": "dorsalis" }
+    ],
+    "correct": ["a", "b"],
+    "explanation": {
+      "uz": "Cranialis va superior — yuqoriroq (boshga yaqin); caudalis va inferior — pastroq; distalis — tanadan uzoq; dorsalis — orqa.",
+      "ru": "Cranialis и superior — выше (ближе к голове); caudalis и inferior — ниже; distalis — дальше от туловища; dorsalis — задний."
+    }
+  },
+  {
+    "id": "t01-018",
+    "topic": 1,
+    "type": "multi",
+    "status": "draft",
+    "prompt": { "uz": "Bel umurtqalariga xos belgilarni tanlang", "ru": "Выберите признаки поясничных позвонков" },
+    "options": [
+      { "id": "a", "text": "processus mamillaris" },
+      { "id": "b", "text": "processus accessorius" },
+      { "id": "c", "text": "foramen transversarium" },
+      { "id": "d", "text": "fovea costalis" }
+    ],
+    "correct": ["a", "b"],
+    "explanation": {
+      "uz": "Bel umurtqalarida tanasi yirik, so‘rg‘ichsimon va qo‘shimcha o‘simtalar bor; ko‘ndalang teshik va qovurg‘a chuqurchalari yo‘q.",
+      "ru": "У поясничных позвонков массивное тело, есть сосцевидные и добавочные отростки; нет поперечных отверстий и рёберных ямок."
+    }
+  },
+  {
+    "id": "t01-019",
+    "topic": 1,
+    "type": "truefalse",
+    "status": "draft",
+    "prompt": {
+      "uz": "Umurtqa pog‘onasining ko‘krak bo‘limida 12 ta umurtqa bor.",
+      "ru": "В грудном отделе позвоночного столба 12 позвонков."
+    },
+    "correct": true,
+    "explanation": { "uz": "To‘g‘ri: Th1–Th12.", "ru": "Верно: Th1–Th12." }
+  },
+  {
+    "id": "t01-020",
+    "topic": 1,
+    "type": "truefalse",
+    "status": "draft",
+    "prompt": { "uz": "Atlantda tish (dens) bor.", "ru": "У атланта есть зуб (dens)." },
+    "correct": false,
+    "explanation": {
+      "uz": "Noto‘g‘ri: tish II bo‘yin umurtqasida (axis). Atlantda tish chuqurchasi (fovea dentis) bor.",
+      "ru": "Неверно: зуб есть у II шейного позвонка (axis). У атланта есть ямка зуба (fovea dentis)."
+    }
+  },
+  {
+    "id": "t01-021",
+    "topic": 1,
+    "type": "truefalse",
+    "status": "draft",
+    "prompt": {
+      "uz": "Suyak usti pardasi suyakning yo‘g‘onlashib o‘sishini ta’minlaydi.",
+      "ru": "Надкостница обеспечивает рост кости в толщину."
+    },
+    "correct": true,
+    "explanation": {
+      "uz": "To‘g‘ri. Uzunasiga o‘sish esa metafizar (epifizar) tog‘ay hisobiga bo‘ladi.",
+      "ru": "Верно. Рост в длину идёт за счёт метаэпифизарного хряща."
+    }
+  },
+  {
+    "id": "t01-022",
+    "topic": 1,
+    "type": "truefalse",
+    "status": "draft",
+    "prompt": {
+      "uz": "Frontal tekislik tanani oldingi va orqa qismlarga ajratadi.",
+      "ru": "Фронтальная плоскость делит тело на переднюю и заднюю части."
+    },
+    "correct": true,
+    "explanation": {
+      "uz": "To‘g‘ri: frontal tekislik peshonaga parallel o‘tadi.",
+      "ru": "Верно: фронтальная плоскость проходит параллельно лбу."
+    }
+  },
+  {
+    "id": "t01-023",
+    "topic": 1,
+    "type": "truefalse",
+    "status": "draft",
+    "prompt": {
+      "uz": "Ko‘krak kifozi oldinga qavariq bo‘ladi.",
+      "ru": "Грудной кифоз обращён выпуклостью вперёд."
+    },
+    "correct": false,
+    "explanation": {
+      "uz": "Noto‘g‘ri: kifoz orqaga qavariq; oldinga qavariq egilish — lordoz.",
+      "ru": "Неверно: кифоз обращён выпуклостью назад; выпуклостью вперёд — лордоз."
+    }
+  },
+  {
+    "id": "t01-024",
+    "topic": 1,
+    "type": "truefalse",
+    "status": "draft",
+    "prompt": {
+      "uz": "Dumg‘aza suyagi 5 ta dumg‘aza umurtqasining qo‘shilishidan hosil bo‘ladi.",
+      "ru": "Крестец образован сращением 5 крестцовых позвонков."
+    },
+    "correct": true,
+    "explanation": {
+      "uz": "To‘g‘ri: os sacrum 18–25 yoshlarda S1–S5 qo‘shilishidan shakllanadi.",
+      "ru": "Верно: os sacrum формируется из S1–S5 к 18–25 годам."
+    }
+  },
+  {
+    "id": "t01-025",
+    "topic": 1,
+    "type": "truefalse",
+    "status": "draft",
+    "prompt": {
+      "uz": "Uzun suyaklar diafizi asosan g‘ovak moddadan tuzilgan.",
+      "ru": "Диафиз длинных костей построен в основном из губчатого вещества."
+    },
+    "correct": false,
+    "explanation": {
+      "uz": "Noto‘g‘ri: diafiz zich (kompakt) moddadan, epifizlar g‘ovak moddadan iborat.",
+      "ru": "Неверно: диафиз построен из компактного вещества, эпифизы — из губчатого."
+    }
+  },
+  {
+    "id": "t01-026",
+    "topic": 1,
+    "type": "latin",
+    "status": "draft",
+    "prompt": { "uz": "Lotincha yozing: o‘tkir o‘simta", "ru": "Напишите по-латыни: остистый отросток" },
+    "accepted": ["processus spinosus"],
+    "explanation": { "uz": "Processus spinosus.", "ru": "Processus spinosus." }
+  },
+  {
+    "id": "t01-027",
+    "topic": 1,
+    "type": "latin",
+    "status": "draft",
+    "prompt": { "uz": "Lotincha yozing: umurtqa teshigi", "ru": "Напишите по-латыни: позвоночное отверстие" },
+    "accepted": ["foramen vertebrale"],
+    "explanation": {
+      "uz": "Foramen vertebrale — tana va ravoq orasidagi teshik.",
+      "ru": "Foramen vertebrale — отверстие между телом и дугой."
+    }
+  },
+  {
+    "id": "t01-028",
+    "topic": 1,
+    "type": "latin",
+    "status": "draft",
+    "prompt": { "uz": "Lotincha yozing: umurtqa tanasi", "ru": "Напишите по-латыни: тело позвонка" },
+    "accepted": ["corpus vertebrae", "corpus vertebræ"],
+    "explanation": { "uz": "Corpus vertebrae.", "ru": "Corpus vertebrae." }
+  },
+  {
+    "id": "t01-029",
+    "topic": 1,
+    "type": "latin",
+    "status": "draft",
+    "prompt": { "uz": "Lotincha yozing: umurtqa kanali", "ru": "Напишите по-латыни: позвоночный канал" },
+    "accepted": ["canalis vertebralis"],
+    "explanation": {
+      "uz": "Canalis vertebralis — barcha umurtqa teshiklaridan hosil bo‘ladi, unda orqa miya joylashadi.",
+      "ru": "Canalis vertebralis образован всеми позвоночными отверстиями, в нём лежит спинной мозг."
+    }
+  },
+  {
+    "id": "t01-030",
+    "topic": 1,
+    "type": "latin",
+    "status": "draft",
+    "prompt": { "uz": "Lotincha yozing: umurtqalararo teshik", "ru": "Напишите по-латыни: межпозвоночное отверстие" },
+    "accepted": ["foramen intervertebrale"],
+    "explanation": {
+      "uz": "Foramen intervertebrale — qo‘shni umurtqalarning pastki va yuqori o‘ymalaridan hosil bo‘ladi; undan orqa miya nervlari chiqadi.",
+      "ru": "Foramen intervertebrale образовано нижней и верхней вырезками соседних позвонков; через него выходят спинномозговые нервы."
+    }
+  },
+  {
+    "id": "t01-031",
+    "topic": 1,
+    "type": "latin",
+    "status": "draft",
+    "prompt": { "uz": "Lotincha yozing: II bo‘yin umurtqasi", "ru": "Напишите по-латыни: II шейный позвонок" },
+    "accepted": ["axis", "vertebra cervicalis II", "epistropheus"],
+    "explanation": { "uz": "Axis (eskicha epistropheus).", "ru": "Axis (устар. epistropheus)." }
+  },
+  {
+    "id": "t01-032",
+    "topic": 1,
+    "type": "latin",
+    "status": "draft",
+    "prompt": { "uz": "Lotincha yozing: suyak usti pardasi", "ru": "Напишите по-латыни: надкостница" },
+    "accepted": ["periosteum"],
+    "explanation": { "uz": "Periosteum.", "ru": "Periosteum." }
+  },
+  {
+    "id": "t01-033",
+    "topic": 1,
+    "type": "matching",
+    "status": "draft",
+    "prompt": {
+      "uz": "Umurtqa pog‘onasi bo‘limi va unga xos belgini moslang",
+      "ru": "Сопоставьте отдел позвоночного столба и характерный признак"
+    },
+    "pairs": [
+      { "left": "vertebrae cervicales", "right": "foramen transversarium" },
+      { "left": "vertebrae thoracicae", "right": "foveae costales" },
+      { "left": "vertebrae lumbales", "right": "processus mamillaris" },
+      { "left": "os sacrum", "right": "promontorium" }
+    ],
+    "explanation": {
+      "uz": "Promontorium — dumg‘azaning (S1 tanasining) oldinga turtib chiqqan qirrasi.",
+      "ru": "Promontorium — мыс, выступающий вперёд край тела S1 (крестца)."
+    }
+  },
+  {
+    "id": "t01-034",
+    "topic": 1,
+    "type": "matching",
+    "status": "draft",
+    "prompt": { "uz": "Atama va ma’nosini moslang", "ru": "Сопоставьте термин и его значение" },
+    "pairs": [
+      { "left": "medialis", "right": { "uz": "o‘rta tekislikka yaqin", "ru": "ближе к срединной плоскости" } },
+      { "left": "lateralis", "right": { "uz": "o‘rta tekislikdan uzoq", "ru": "дальше от срединной плоскости" } },
+      { "left": "proximalis", "right": { "uz": "gavdaga yaqin", "ru": "ближе к туловищу" } },
+      { "left": "distalis", "right": { "uz": "gavdadan uzoq", "ru": "дальше от туловища" } },
+      { "left": "ventralis", "right": { "uz": "oldingi (qorin tomon)", "ru": "передний (брюшной)" } }
+    ]
+  },
+  {
+    "id": "t01-035",
+    "topic": 1,
+    "type": "matching",
+    "status": "draft",
+    "prompt": { "uz": "Uzun suyak qismi va uning tavsifini moslang", "ru": "Сопоставьте часть длинной кости и её описание" },
+    "pairs": [
+      { "left": "diaphysis", "right": { "uz": "suyak tanasi", "ru": "тело кости" } },
+      { "left": "epiphysis", "right": { "uz": "suyakning uchi", "ru": "конец кости" } },
+      { "left": "metaphysis", "right": { "uz": "diafiz va epifiz oralig‘i", "ru": "участок между диафизом и эпифизом" } },
+      { "left": "apophysis", "right": { "uz": "mushak birikadigan bo‘rtiq", "ru": "выступ для прикрепления мышц" } }
+    ]
+  },
+  {
+    "id": "t01-036",
+    "topic": 1,
+    "type": "ordering",
+    "status": "draft",
+    "prompt": {
+      "uz": "Umurtqa pog‘onasi bo‘limlarini yuqoridan pastga tartiblang",
+      "ru": "Расположите отделы позвоночного столба сверху вниз"
+    },
+    "items": ["vertebrae cervicales", "vertebrae thoracicae", "vertebrae lumbales", "os sacrum", "os coccygis"]
+  },
+  {
+    "id": "t01-037",
+    "topic": 1,
+    "type": "ordering",
+    "status": "draft",
+    "prompt": {
+      "uz": "Diafiz devori qavatlarini tashqaridan ichkariga tartiblang",
+      "ru": "Расположите слои стенки диафиза снаружи внутрь"
+    },
+    "items": ["periosteum", "substantia compacta", "endosteum", "cavitas medullaris"],
+    "explanation": {
+      "uz": "Suyak usti pardasi → zich modda → endost → ko‘mik bo‘shlig‘i.",
+      "ru": "Надкостница → компактное вещество → эндост → костномозговая полость."
+    }
+  },
+  {
+    "id": "t01-038",
+    "topic": 1,
+    "type": "ordering",
+    "status": "draft",
+    "prompt": {
+      "uz": "Olimlarni yashagan davri bo‘yicha tartiblang (eng qadimgisidan)",
+      "ru": "Расположите учёных по времени жизни (от самого раннего)"
+    },
+    "items": [
+      { "uz": "Gippokrat", "ru": "Гиппократ" },
+      { "uz": "Galen", "ru": "Гален" },
+      { "uz": "Abu Ali ibn Sino", "ru": "Абу Али ибн Сина" },
+      { "uz": "Andreas Vezaliy", "ru": "Андреас Везалий" },
+      { "uz": "Uilyam Garvey", "ru": "Уильям Гарвей" }
+    ],
+    "explanation": {
+      "uz": "Gippokrat (mil. av. V asr), Galen (II asr), Ibn Sino (980–1037), Vezaliy (1514–1564), Garvey (1578–1657).",
+      "ru": "Гиппократ (V в. до н. э.), Гален (II в.), Ибн Сина (980–1037), Везалий (1514–1564), Гарвей (1578–1657)."
+    }
+  },
+  {
+    "id": "t01-039",
+    "topic": 1,
+    "type": "cloze",
+    "status": "draft",
+    "prompt": { "uz": "Lotincha atamalarni yozing", "ru": "Впишите латинские термины" },
+    "text": {
+      "uz": "Umurtqa tanasi (lot. {{1}}) va umurtqa ravog‘i (lot. {{2}}) umurtqa teshigini chegaralaydi.",
+      "ru": "Тело позвонка (лат. {{1}}) и дуга позвонка (лат. {{2}}) ограничивают позвоночное отверстие."
+    },
+    "blanks": [
+      ["corpus vertebrae", "corpus"],
+      ["arcus vertebrae", "arcus"]
+    ]
+  },
+  {
+    "id": "t01-040",
+    "topic": 1,
+    "type": "cloze",
+    "status": "draft",
+    "prompt": { "uz": "Lotincha atamalarni yozing", "ru": "Впишите латинские термины" },
+    "text": {
+      "uz": "Umurtqa teshiklari birgalikda umurtqa kanalini (lot. {{1}}) hosil qiladi, unda orqa miya (lot. {{2}}) joylashadi.",
+      "ru": "Позвоночные отверстия вместе образуют позвоночный канал (лат. {{1}}), в котором лежит спинной мозг (лат. {{2}})."
+    },
+    "blanks": [["canalis vertebralis"], ["medulla spinalis"]]
+  },
+  {
+    "id": "t01-041",
+    "topic": 1,
+    "type": "cloze",
+    "status": "draft",
+    "prompt": { "uz": "Lotincha atamalarni yozing", "ru": "Впишите латинские термины" },
+    "text": {
+      "uz": "I bo‘yin umurtqasi {{1}}, II bo‘yin umurtqasi {{2}} deb ataladi.",
+      "ru": "I шейный позвонок называется {{1}}, II шейный позвонок — {{2}}."
+    },
+    "blanks": [["atlas"], ["axis", "epistropheus"]]
+  },
+  {
+    "id": "t01-042",
+    "topic": 1,
+    "type": "hotspot",
+    "status": "draft",
+    "prompt": { "uz": "Rasmda bel umurtqalarini toping", "ru": "Найдите на рисунке поясничные позвонки" },
+    "image": "gray111-column",
+    "zones": [
+      { "id": "lumbar", "kind": "polygon", "points": [[36, 63.5], [84, 63.5], [84, 87.5], [36, 87.5]] }
+    ],
+    "correct": ["lumbar"],
+    "explanation": { "uz": "Bel bo‘limi — L1–L5.", "ru": "Поясничный отдел — L1–L5." }
+  },
+  {
+    "id": "t01-043",
+    "topic": 1,
+    "type": "hotspot",
+    "status": "draft",
+    "prompt": {
+      "uz": "Rasmda turtib chiqqan umurtqani (vertebra prominens) toping",
+      "ru": "Найдите на рисунке выступающий позвонок (vertebra prominens)"
+    },
+    "image": "gray111-column",
+    "zones": [{ "id": "c7", "kind": "circle", "cx": 52, "cy": 21.8, "r": 11 }],
+    "correct": ["c7"],
+    "explanation": { "uz": "Bu C7 — bo‘yin bo‘limining oxirgi umurtqasi.", "ru": "Это C7 — последний позвонок шейного отдела." }
+  },
+  {
+    "id": "t01-044",
+    "topic": 1,
+    "type": "hotspot",
+    "status": "draft",
+    "prompt": { "uz": "Ko‘krak umurtqasida umurtqa teshigini toping", "ru": "Найдите на грудном позвонке позвоночное отверстие" },
+    "image": "gray82-thoracic",
+    "zones": [{ "id": "foramen", "kind": "circle", "cx": 50.2, "cy": 49.8, "r": 8 }],
+    "correct": ["foramen"],
+    "explanation": { "uz": "Foramen vertebrale.", "ru": "Foramen vertebrale." }
+  },
+  {
+    "id": "t01-045",
+    "topic": 1,
+    "type": "hotspot",
+    "status": "draft",
+    "prompt": { "uz": "Ko‘krak umurtqasida o‘tkir o‘simtani toping", "ru": "Найдите на грудном позвонке остистый отросток" },
+    "image": "gray82-thoracic",
+    "zones": [
+      { "id": "spinous", "kind": "polygon", "points": [[44, 68], [55, 68], [53, 99], [46, 99]] }
+    ],
+    "correct": ["spinous"],
+    "explanation": { "uz": "Processus spinosus orqaga va pastga yo‘nalgan.", "ru": "Processus spinosus направлен назад и вниз." }
+  },
+  {
+    "id": "t01-046",
+    "topic": 1,
+    "type": "hotspot",
+    "status": "draft",
+    "prompt": {
+      "uz": "Bo‘yin umurtqasida ko‘ndalang o‘simta teshigini toping",
+      "ru": "Найдите на шейном позвонке отверстие поперечного отростка"
+    },
+    "image": "gray84-cervical",
+    "zones": [
+      { "id": "left", "kind": "circle", "cx": 34.4, "cy": 23.8, "r": 4.5 },
+      { "id": "right", "kind": "circle", "cx": 68, "cy": 20.6, "r": 5 }
+    ],
+    "correct": ["left", "right"],
+    "explanation": {
+      "uz": "Foramen transversarium — o‘ng yoki chap tomondagisi qabul qilinadi.",
+      "ru": "Foramen transversarium — засчитывается любое из двух (правое или левое)."
+    }
+  },
+  {
+    "id": "t01-047",
+    "topic": 1,
+    "type": "hotspot",
+    "status": "draft",
+    "prompt": { "uz": "II bo‘yin umurtqasining tishini toping", "ru": "Найдите зуб II шейного позвонка" },
+    "image": "gray87-axis",
+    "zones": [
+      { "id": "dens", "kind": "polygon", "points": [[29, 6], [47, 6], [48, 29], [28, 29]] }
+    ],
+    "correct": ["dens"],
+    "explanation": {
+      "uz": "Dens axis — atlantning oldingi ravog‘i bilan bo‘g‘im hosil qiladi.",
+      "ru": "Dens axis сочленяется с передней дугой атланта."
+    }
+  },
+  {
+    "id": "t01-048",
+    "topic": 1,
+    "type": "hotspot",
+    "status": "draft",
+    "prompt": { "uz": "Atlantning orqa ravog‘ini toping", "ru": "Найдите заднюю дугу атланта" },
+    "image": "gray86-atlas",
+    "zones": [
+      {
+        "id": "post-arch",
+        "kind": "polygon",
+        "points": [[28, 62], [36, 74], [46, 80], [56, 80], [64, 73], [70, 62], [72, 72], [64, 88], [50, 97], [37, 91], [26, 74]]
+      }
+    ],
+    "correct": ["post-arch"],
+    "explanation": { "uz": "Arcus posterior atlantis.", "ru": "Arcus posterior atlantis." }
+  },
+  {
+    "id": "t01-049",
+    "topic": 1,
+    "type": "labels",
+    "status": "draft",
+    "prompt": {
+      "uz": "Umurtqa pog‘onasi bo‘limlarining nomlarini joylashtiring",
+      "ru": "Расставьте названия отделов позвоночного столба"
+    },
+    "image": "gray111-column",
+    "targets": [
+      { "id": "c", "x": 52, "y": 10, "label": "vertebrae cervicales" },
+      { "id": "t", "x": 62, "y": 40, "label": "vertebrae thoracicae" },
+      { "id": "l", "x": 55, "y": 75, "label": "vertebrae lumbales" },
+      { "id": "s", "x": 62, "y": 91, "label": "os sacrum" },
+      { "id": "co", "x": 68, "y": 98, "label": "os coccygis" }
+    ]
+  },
+  {
+    "id": "t01-050",
+    "topic": 1,
+    "type": "labels",
+    "status": "draft",
+    "prompt": { "uz": "Ko‘krak umurtqasi qismlarini belgilang", "ru": "Подпишите части грудного позвонка" },
+    "image": "gray82-thoracic",
+    "targets": [
+      { "id": "body", "x": 50, "y": 22, "label": "corpus vertebrae" },
+      { "id": "foramen", "x": 50, "y": 50, "label": "foramen vertebrale" },
+      { "id": "spinous", "x": 49, "y": 88, "label": "processus spinosus" },
+      { "id": "transverse", "x": 22, "y": 66, "label": "processus transversus" },
+      { "id": "artsup", "x": 62, "y": 61, "label": "processus articularis superior" }
+    ],
+    "distractors": ["foramen transversarium", "dens"]
+  }
+]
