@@ -51,7 +51,7 @@ export function ExamResult() {
           {p.n} · {p.g}
         </div>
         <div className="big-grade" data-testid="grade">
-          {p.b / 100}
+          {(p.b / 100).toFixed(1)}
         </div>
         <div className="stats-grid">
           <div className="stat">

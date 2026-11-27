@@ -16,11 +16,11 @@ export function BuilderScreen() {
   const { tr } = useI18n();
   const [title, setTitle] = useState('');
   const [topics, setTopics] = useState<number[]>([1]);
-  const [count, setCount] = useState(20);
+  const [count, setCount] = useState(30);
   const [pool, setPool] = useState(0);
-  const [duration, setDuration] = useState(30);
+  const [duration, setDuration] = useState(40);
   const [rules, setRules] = useState<ViolationRules>(DEFAULT_RULES);
-  const [mode, setMode] = useState<ScoringMode>('thresholds');
+  const [mode, setMode] = useState<ScoringMode>('linear');
   const [t2, setT2] = useState(86);
   const [t1, setT1] = useState(56);
   const [step, setStep] = useState(0.1);

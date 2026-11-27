@@ -1,0 +1,1110 @@
+[
+  {
+    "id": "t02-001",
+    "topic": 2,
+    "type": "single",
+    "status": "draft",
+    "prompt": {
+      "uz": "Nechta juft haqiqiy qovurg‘a bor?",
+      "ru": "Сколько пар истинных рёбер?"
+    },
+    "explanation": {
+      "uz": "Costae verae — I–VII juftlar, to‘sh suyagiga o‘z tog‘ayi bilan birikadi.",
+      "ru": "Costae verae — I–VII пары, соединяются с грудиной собственным хрящом."
+    },
+    "options": [
+      {
+        "id": "a",
+        "text": "5"
+      },
+      {
+        "id": "b",
+        "text": "7"
+      },
+      {
+        "id": "c",
+        "text": "10"
+      },
+      {
+        "id": "d",
+        "text": "12"
+      }
+    ],
+    "correct": "b"
+  },
+  {
+    "id": "t02-002",
+    "topic": 2,
+    "type": "single",
+    "status": "draft",
+    "prompt": {
+      "uz": "Qaysi qovurg‘alar tebranuvchi (erkin) hisoblanadi?",
+      "ru": "Какие рёбра называют колеблющимися?"
+    },
+    "explanation": {
+      "uz": "Costae fluctuantes — XI va XII qovurg‘alar, oldingi uchlari mushaklar orasida erkin tugaydi.",
+      "ru": "Costae fluctuantes — XI и XII рёбра, их передние концы свободно лежат в мышцах."
+    },
+    "options": [
+      {
+        "id": "a",
+        "text": {
+          "uz": "I–II",
+          "ru": "I–II"
+        }
+      },
+      {
+        "id": "b",
+        "text": {
+          "uz": "VIII–X",
+          "ru": "VIII–X"
+        }
+      },
+      {
+        "id": "c",
+        "text": {
+          "uz": "XI–XII",
+          "ru": "XI–XII"
+        }
+      },
+      {
+        "id": "d",
+        "text": {
+          "uz": "VI–VII",
+          "ru": "VI–VII"
+        }
+      }
+    ],
+    "correct": "c"
+  },
+  {
+    "id": "t02-003",
+    "topic": 2,
+    "type": "single",
+    "status": "draft",
+    "prompt": {
+      "uz": "To‘sh suyagining yuqori qismi qanday ataladi?",
+      "ru": "Как называется верхняя часть грудины?"
+    },
+    "explanation": {
+      "uz": "To‘sh suyagi dastasi (manubrium), tanasi (corpus) va xanjarsimon o‘simtadan (processus xiphoideus) iborat.",
+      "ru": "Грудина состоит из рукоятки (manubrium), тела (corpus) и мечевидного отростка (processus xiphoideus)."
+    },
+    "options": [
+      {
+        "id": "a",
+        "text": "manubrium sterni"
+      },
+      {
+        "id": "b",
+        "text": "corpus sterni"
+      },
+      {
+        "id": "c",
+        "text": "processus xiphoideus"
+      },
+      {
+        "id": "d",
+        "text": "angulus sterni"
+      }
+    ],
+    "correct": "a"
+  },
+  {
+    "id": "t02-004",
+    "topic": 2,
+    "type": "single",
+    "status": "draft",
+    "prompt": {
+      "uz": "To‘sh burchagi (angulus sterni) qaysi qovurg‘a tog‘ayining birikish joyiga to‘g‘ri keladi?",
+      "ru": "Угол грудины (angulus sterni) соответствует месту прикрепления хряща какого ребра?"
+    },
+    "explanation": {
+      "uz": "Angulus sterni dastaning tanaga qo‘shilgan joyi; II qovurg‘a sanash uchun mo‘ljal bo‘ladi.",
+      "ru": "Angulus sterni — место соединения рукоятки с телом; ориентир II ребра при подсчёте рёбер."
+    },
+    "options": [
+      {
+        "id": "a",
+        "text": "I"
+      },
+      {
+        "id": "b",
+        "text": "II"
+      },
+      {
+        "id": "c",
+        "text": "III"
+      },
+      {
+        "id": "d",
+        "text": "IV"
+      }
+    ],
+    "correct": "b"
+  },
+  {
+    "id": "t02-005",
+    "topic": 2,
+    "type": "single",
+    "status": "draft",
+    "prompt": {
+      "uz": "Kurak suyagining qaysi o‘simtasi o‘mrov suyagi bilan bo‘g‘im hosil qiladi?",
+      "ru": "Какой отросток лопатки сочленяется с ключицей?"
+    },
+    "explanation": {
+      "uz": "Akromion — kurak qirrasining lateral davomi, o‘mrov suyagining akromial uchi bilan bo‘g‘im hosil qiladi.",
+      "ru": "Акромион — латеральное продолжение ости лопатки, сочленяется с акромиальным концом ключицы."
+    },
+    "options": [
+      {
+        "id": "a",
+        "text": "acromion"
+      },
+      {
+        "id": "b",
+        "text": "processus coracoideus"
+      },
+      {
+        "id": "c",
+        "text": "spina scapulae"
+      },
+      {
+        "id": "d",
+        "text": "cavitas glenoidalis"
+      }
+    ],
+    "correct": "a"
+  },
+  {
+    "id": "t02-006",
+    "topic": 2,
+    "type": "single",
+    "status": "draft",
+    "prompt": {
+      "uz": "Yelka suyagining qaysi qismi singanda ko‘pincha sinadi (xirurgik bo‘yin)?",
+      "ru": "Как называется место частых переломов плечевой кости ниже бугорков?"
+    },
+    "explanation": {
+      "uz": "Collum chirurgicum — do‘mboqlardan pastda, diafizga o‘tish joyi.",
+      "ru": "Collum chirurgicum — ниже бугорков, на переходе в диафиз."
+    },
+    "options": [
+      {
+        "id": "a",
+        "text": "collum chirurgicum"
+      },
+      {
+        "id": "b",
+        "text": "collum anatomicum"
+      },
+      {
+        "id": "c",
+        "text": "tuberositas deltoidea"
+      },
+      {
+        "id": "d",
+        "text": "trochlea humeri"
+      }
+    ],
+    "correct": "a"
+  },
+  {
+    "id": "t02-007",
+    "topic": 2,
+    "type": "single",
+    "status": "draft",
+    "prompt": {
+      "uz": "Bilak nervi egati (sulcus nervi radialis) qaysi suyakda?",
+      "ru": "На какой кости находится борозда лучевого нерва?"
+    },
+    "explanation": {
+      "uz": "Egat yelka suyagi tanasining orqa yuzasida spiral shaklida o‘tadi.",
+      "ru": "Борозда спирально проходит по задней поверхности тела плечевой кости."
+    },
+    "options": [
+      {
+        "id": "a",
+        "text": "humerus"
+      },
+      {
+        "id": "b",
+        "text": "radius"
+      },
+      {
+        "id": "c",
+        "text": "ulna"
+      },
+      {
+        "id": "d",
+        "text": "scapula"
+      }
+    ],
+    "correct": "a"
+  },
+  {
+    "id": "t02-008",
+    "topic": 2,
+    "type": "single",
+    "status": "draft",
+    "prompt": {
+      "uz": "Tirsak suyagining proksimal uchida orqada joylashgan yirik o‘simta qaysi?",
+      "ru": "Какой крупный отросток находится сзади на проксимальном конце локтевой кости?"
+    },
+    "options": [
+      {
+        "id": "a",
+        "text": "olecranon"
+      },
+      {
+        "id": "b",
+        "text": "processus coronoideus"
+      },
+      {
+        "id": "c",
+        "text": "processus styloideus"
+      },
+      {
+        "id": "d",
+        "text": "caput ulnae"
+      }
+    ],
+    "correct": "a"
+  },
+  {
+    "id": "t02-009",
+    "topic": 2,
+    "type": "single",
+    "status": "draft",
+    "prompt": {
+      "uz": "Bilakuzuk suyaklarining proksimal qatoridagi eng lateral suyak qaysi?",
+      "ru": "Какая кость самая латеральная в проксимальном ряду запястья?"
+    },
+    "explanation": {
+      "uz": "Proksimal qator (lateraldan medialga): qayiqsimon, yarimoysimon, uchqirrali, no‘xatsimon.",
+      "ru": "Проксимальный ряд (латерально → медиально): ладьевидная, полулунная, трёхгранная, гороховидная."
+    },
+    "options": [
+      {
+        "id": "a",
+        "text": "os scaphoideum"
+      },
+      {
+        "id": "b",
+        "text": "os lunatum"
+      },
+      {
+        "id": "c",
+        "text": "os triquetrum"
+      },
+      {
+        "id": "d",
+        "text": "os pisiforme"
+      }
+    ],
+    "correct": "a"
+  },
+  {
+    "id": "t02-010",
+    "topic": 2,
+    "type": "single",
+    "status": "draft",
+    "prompt": {
+      "uz": "Qaysi suyakning distal uchida ilmoq (hamulus) bor?",
+      "ru": "У какой кости запястья есть крючок (hamulus)?"
+    },
+    "options": [
+      {
+        "id": "a",
+        "text": "os hamatum"
+      },
+      {
+        "id": "b",
+        "text": "os capitatum"
+      },
+      {
+        "id": "c",
+        "text": "os trapezium"
+      },
+      {
+        "id": "d",
+        "text": "os trapezoideum"
+      }
+    ],
+    "correct": "a"
+  },
+  {
+    "id": "t02-011",
+    "topic": 2,
+    "type": "single",
+    "status": "draft",
+    "prompt": {
+      "uz": "Yelka suyagining distal uchidagi qaysi tuzilma tirsak suyagi bilan bo‘g‘im hosil qiladi?",
+      "ru": "Какое образование дистального конца плечевой кости сочленяется с локтевой костью?"
+    },
+    "explanation": {
+      "uz": "G‘altak (trochlea) — tirsak suyagi bilan, boshchacha (capitulum) — bilak suyagi bilan.",
+      "ru": "Блок (trochlea) — с локтевой костью, головочка (capitulum) — с лучевой."
+    },
+    "options": [
+      {
+        "id": "a",
+        "text": "trochlea humeri"
+      },
+      {
+        "id": "b",
+        "text": "capitulum humeri"
+      },
+      {
+        "id": "c",
+        "text": "epicondylus lateralis"
+      },
+      {
+        "id": "d",
+        "text": "fossa radialis"
+      }
+    ],
+    "correct": "a"
+  },
+  {
+    "id": "t02-012",
+    "topic": 2,
+    "type": "multi",
+    "status": "draft",
+    "prompt": {
+      "uz": "Qovurg‘aning orqa uchidagi tuzilmalarni tanlang",
+      "ru": "Выберите образования заднего конца ребра"
+    },
+    "explanation": {
+      "uz": "Orqa uch: boshcha, bo‘yin, do‘mboq. Xanjarsimon o‘simta va bo‘yinturuq o‘ymasi — to‘sh suyagida.",
+      "ru": "Задний конец: головка, шейка, бугорок. Мечевидный отросток и яремная вырезка — на грудине."
+    },
+    "options": [
+      {
+        "id": "a",
+        "text": "caput costae"
+      },
+      {
+        "id": "b",
+        "text": "collum costae"
+      },
+      {
+        "id": "c",
+        "text": "tuberculum costae"
+      },
+      {
+        "id": "d",
+        "text": "processus xiphoideus"
+      },
+      {
+        "id": "e",
+        "text": "incisura jugularis"
+      }
+    ],
+    "correct": [
+      "a",
+      "b",
+      "c"
+    ]
+  },
+  {
+    "id": "t02-013",
+    "topic": 2,
+    "type": "multi",
+    "status": "draft",
+    "prompt": {
+      "uz": "Yelka kamari suyaklari",
+      "ru": "Кости пояса верхней конечности"
+    },
+    "explanation": {
+      "uz": "Yelka kamari — kurak va o‘mrov suyaklari.",
+      "ru": "Пояс верхней конечности — лопатка и ключица."
+    },
+    "options": [
+      {
+        "id": "a",
+        "text": "scapula"
+      },
+      {
+        "id": "b",
+        "text": "clavicula"
+      },
+      {
+        "id": "c",
+        "text": "humerus"
+      },
+      {
+        "id": "d",
+        "text": "sternum"
+      }
+    ],
+    "correct": [
+      "a",
+      "b"
+    ]
+  },
+  {
+    "id": "t02-014",
+    "topic": 2,
+    "type": "multi",
+    "status": "draft",
+    "prompt": {
+      "uz": "Kurak suyagining o‘simtalari",
+      "ru": "Отростки лопатки"
+    },
+    "explanation": {
+      "uz": "Olecranon va processus coronoideus — tirsak suyagida.",
+      "ru": "Olecranon и processus coronoideus — на локтевой кости."
+    },
+    "options": [
+      {
+        "id": "a",
+        "text": "acromion"
+      },
+      {
+        "id": "b",
+        "text": "processus coracoideus"
+      },
+      {
+        "id": "c",
+        "text": "olecranon"
+      },
+      {
+        "id": "d",
+        "text": "processus coronoideus"
+      }
+    ],
+    "correct": [
+      "a",
+      "b"
+    ]
+  },
+  {
+    "id": "t02-015",
+    "topic": 2,
+    "type": "multi",
+    "status": "draft",
+    "prompt": {
+      "uz": "Bilakuzukning distal qatori suyaklari",
+      "ru": "Кости дистального ряда запястья"
+    },
+    "explanation": {
+      "uz": "Os lunatum proksimal qatorda.",
+      "ru": "Os lunatum — в проксимальном ряду."
+    },
+    "options": [
+      {
+        "id": "a",
+        "text": "os trapezium"
+      },
+      {
+        "id": "b",
+        "text": "os trapezoideum"
+      },
+      {
+        "id": "c",
+        "text": "os capitatum"
+      },
+      {
+        "id": "d",
+        "text": "os hamatum"
+      },
+      {
+        "id": "e",
+        "text": "os lunatum"
+      }
+    ],
+    "correct": [
+      "a",
+      "b",
+      "c",
+      "d"
+    ]
+  },
+  {
+    "id": "t02-016",
+    "topic": 2,
+    "type": "multi",
+    "status": "draft",
+    "prompt": {
+      "uz": "Yelka suyagining proksimal uchidagi tuzilmalar",
+      "ru": "Образования проксимального конца плечевой кости"
+    },
+    "options": [
+      {
+        "id": "a",
+        "text": "caput humeri"
+      },
+      {
+        "id": "b",
+        "text": "tuberculum majus"
+      },
+      {
+        "id": "c",
+        "text": "tuberculum minus"
+      },
+      {
+        "id": "d",
+        "text": "epicondylus medialis"
+      },
+      {
+        "id": "e",
+        "text": "capitulum humeri"
+      }
+    ],
+    "correct": [
+      "a",
+      "b",
+      "c"
+    ]
+  },
+  {
+    "id": "t02-017",
+    "topic": 2,
+    "type": "truefalse",
+    "status": "draft",
+    "prompt": {
+      "uz": "I qovurg‘ada o‘mrov osti arteriyasi egati bor.",
+      "ru": "На I ребре есть борозда подключичной артерии."
+    },
+    "explanation": {
+      "uz": "To‘g‘ri: sulcus arteriae subclaviae oldingi narvonsimon mushak do‘mbog‘idan orqada.",
+      "ru": "Верно: sulcus arteriae subclaviae — позади бугорка передней лестничной мышцы."
+    },
+    "correct": true
+  },
+  {
+    "id": "t02-018",
+    "topic": 2,
+    "type": "truefalse",
+    "status": "draft",
+    "prompt": {
+      "uz": "Soxta qovurg‘alar (VIII–X) to‘sh suyagiga bevosita birikadi.",
+      "ru": "Ложные рёбра (VIII–X) прикрепляются непосредственно к грудине."
+    },
+    "explanation": {
+      "uz": "Noto‘g‘ri: ular yuqoridagi qovurg‘a tog‘ayiga birikib, qovurg‘a ravog‘ini hosil qiladi.",
+      "ru": "Неверно: они присоединяются к хрящу вышележащего ребра, образуя рёберную дугу."
+    },
+    "correct": false
+  },
+  {
+    "id": "t02-019",
+    "topic": 2,
+    "type": "truefalse",
+    "status": "draft",
+    "prompt": {
+      "uz": "O‘mrov suyagi — yelka kamarining yagona tana skeletiga bo‘g‘im bilan birikkan suyagi.",
+      "ru": "Ключица — единственная кость пояса, соединённая суставом со скелетом туловища."
+    },
+    "explanation": {
+      "uz": "To‘g‘ri: to‘sh-o‘mrov bo‘g‘imi orqali.",
+      "ru": "Верно: через грудино-ключичный сустав."
+    },
+    "correct": true
+  },
+  {
+    "id": "t02-020",
+    "topic": 2,
+    "type": "truefalse",
+    "status": "draft",
+    "prompt": {
+      "uz": "Bilak suyagining boshchasi distal uchida joylashgan.",
+      "ru": "Головка лучевой кости находится на дистальном конце."
+    },
+    "explanation": {
+      "uz": "Noto‘g‘ri: radius boshchasi proksimalda, ulna boshchasi distalda.",
+      "ru": "Неверно: головка лучевой — проксимально, головка локтевой — дистально."
+    },
+    "correct": false
+  },
+  {
+    "id": "t02-021",
+    "topic": 2,
+    "type": "truefalse",
+    "status": "draft",
+    "prompt": {
+      "uz": "Kurakning bo‘g‘im chuqurchasi yelka suyagining boshchasi bilan bo‘g‘im hosil qiladi.",
+      "ru": "Суставная впадина лопатки сочленяется с головкой плечевой кости."
+    },
+    "correct": true
+  },
+  {
+    "id": "t02-022",
+    "topic": 2,
+    "type": "truefalse",
+    "status": "draft",
+    "prompt": {
+      "uz": "Kaftda 5 ta kaft suyagi va 14 ta falanga bor.",
+      "ru": "В кисти 5 пястных костей и 14 фаланг."
+    },
+    "explanation": {
+      "uz": "To‘g‘ri: I barmoqda 2 ta, qolganlarida 3 tadan falanga.",
+      "ru": "Верно: у I пальца 2 фаланги, у остальных — по 3."
+    },
+    "correct": true
+  },
+  {
+    "id": "t02-023",
+    "topic": 2,
+    "type": "latin",
+    "status": "draft",
+    "prompt": {
+      "uz": "Lotincha yozing: to‘sh suyagi",
+      "ru": "Напишите по-латыни: грудина"
+    },
+    "accepted": [
+      "sternum"
+    ]
+  },
+  {
+    "id": "t02-024",
+    "topic": 2,
+    "type": "latin",
+    "status": "draft",
+    "prompt": {
+      "uz": "Lotincha yozing: qovurg‘a do‘mbog‘i",
+      "ru": "Напишите по-латыни: бугорок ребра"
+    },
+    "accepted": [
+      "tuberculum costae"
+    ]
+  },
+  {
+    "id": "t02-025",
+    "topic": 2,
+    "type": "latin",
+    "status": "draft",
+    "prompt": {
+      "uz": "Lotincha yozing: kurak qirrasi",
+      "ru": "Напишите по-латыни: ость лопатки"
+    },
+    "accepted": [
+      "spina scapulae"
+    ]
+  },
+  {
+    "id": "t02-026",
+    "topic": 2,
+    "type": "latin",
+    "status": "draft",
+    "prompt": {
+      "uz": "Lotincha yozing: o‘mrov suyagi",
+      "ru": "Напишите по-латыни: ключица"
+    },
+    "accepted": [
+      "clavicula"
+    ]
+  },
+  {
+    "id": "t02-027",
+    "topic": 2,
+    "type": "latin",
+    "status": "draft",
+    "prompt": {
+      "uz": "Lotincha yozing: yelka suyagi boshchasi",
+      "ru": "Напишите по-латыни: головка плечевой кости"
+    },
+    "accepted": [
+      "caput humeri"
+    ]
+  },
+  {
+    "id": "t02-028",
+    "topic": 2,
+    "type": "latin",
+    "status": "draft",
+    "prompt": {
+      "uz": "Lotincha yozing: qayiqsimon suyak (bilakuzuk)",
+      "ru": "Напишите по-латыни: ладьевидная кость (запястья)"
+    },
+    "accepted": [
+      "os scaphoideum",
+      "scaphoideum"
+    ]
+  },
+  {
+    "id": "t02-029",
+    "topic": 2,
+    "type": "matching",
+    "status": "draft",
+    "prompt": {
+      "uz": "Qovurg‘alar guruhi va raqamlarini moslang",
+      "ru": "Сопоставьте группу рёбер и их номера"
+    },
+    "pairs": [
+      {
+        "left": "costae verae",
+        "right": {
+          "uz": "I–VII",
+          "ru": "I–VII"
+        }
+      },
+      {
+        "left": "costae spuriae",
+        "right": {
+          "uz": "VIII–X",
+          "ru": "VIII–X"
+        }
+      },
+      {
+        "left": "costae fluctuantes",
+        "right": {
+          "uz": "XI–XII",
+          "ru": "XI–XII"
+        }
+      }
+    ]
+  },
+  {
+    "id": "t02-030",
+    "topic": 2,
+    "type": "matching",
+    "status": "draft",
+    "prompt": {
+      "uz": "Suyak va unga tegishli tuzilmani moslang",
+      "ru": "Сопоставьте кость и её образование"
+    },
+    "pairs": [
+      {
+        "left": "scapula",
+        "right": "acromion"
+      },
+      {
+        "left": "humerus",
+        "right": "tuberositas deltoidea"
+      },
+      {
+        "left": "ulna",
+        "right": "olecranon"
+      },
+      {
+        "left": "radius",
+        "right": "tuberositas radii"
+      },
+      {
+        "left": "sternum",
+        "right": "incisura jugularis"
+      }
+    ]
+  },
+  {
+    "id": "t02-031",
+    "topic": 2,
+    "type": "matching",
+    "status": "draft",
+    "prompt": {
+      "uz": "Yelka suyagi distal uchi tuzilmasi va u bilan bo‘g‘imlashuvchi suyakni moslang",
+      "ru": "Сопоставьте образование дистального конца плечевой кости и кость, с которой оно сочленяется"
+    },
+    "pairs": [
+      {
+        "left": "trochlea humeri",
+        "right": "ulna"
+      },
+      {
+        "left": "capitulum humeri",
+        "right": "radius"
+      }
+    ]
+  },
+  {
+    "id": "t02-032",
+    "topic": 2,
+    "type": "ordering",
+    "status": "draft",
+    "prompt": {
+      "uz": "To‘sh suyagi qismlarini yuqoridan pastga tartiblang",
+      "ru": "Расположите части грудины сверху вниз"
+    },
+    "items": [
+      "manubrium sterni",
+      "corpus sterni",
+      "processus xiphoideus"
+    ]
+  },
+  {
+    "id": "t02-033",
+    "topic": 2,
+    "type": "ordering",
+    "status": "draft",
+    "prompt": {
+      "uz": "Bilakuzukning proksimal qatori suyaklarini lateraldan medialga tartiblang",
+      "ru": "Расположите кости проксимального ряда запястья от латеральной к медиальной"
+    },
+    "items": [
+      "os scaphoideum",
+      "os lunatum",
+      "os triquetrum",
+      "os pisiforme"
+    ]
+  },
+  {
+    "id": "t02-034",
+    "topic": 2,
+    "type": "cloze",
+    "status": "draft",
+    "prompt": {
+      "uz": "Lotincha atamalarni yozing",
+      "ru": "Впишите латинские термины"
+    },
+    "text": {
+      "uz": "Kurak suyagining orqa yuzasini qirra (lot. {{1}}) ikkiga ajratadi; u lateral tomonda {{2}} bilan tugaydi.",
+      "ru": "Ость лопатки (лат. {{1}}) делит её заднюю поверхность на две ямки и латерально заканчивается {{2}}."
+    },
+    "blanks": [
+      [
+        "spina scapulae"
+      ],
+      [
+        "acromion",
+        "acromion scapulae"
+      ]
+    ]
+  },
+  {
+    "id": "t02-035",
+    "topic": 2,
+    "type": "cloze",
+    "status": "draft",
+    "prompt": {
+      "uz": "Lotincha atamalarni yozing",
+      "ru": "Впишите латинские термины"
+    },
+    "text": {
+      "uz": "Yelka suyagining boshchasi va do‘mboqlari orasida {{1}} bo‘yin, do‘mboqlardan pastda {{2}} bo‘yin joylashgan.",
+      "ru": "Между головкой и бугорками плечевой кости — {{1}} шейка, ниже бугорков — {{2}} шейка."
+    },
+    "blanks": [
+      [
+        "collum anatomicum",
+        "anatomicum"
+      ],
+      [
+        "collum chirurgicum",
+        "chirurgicum"
+      ]
+    ]
+  },
+  {
+    "id": "t02-036",
+    "topic": 2,
+    "type": "cloze",
+    "status": "draft",
+    "prompt": {
+      "uz": "Lotincha atamalarni yozing",
+      "ru": "Впишите латинские термины"
+    },
+    "text": {
+      "uz": "Qovurg‘aning pastki qirrasi bo‘ylab ichki yuzasida {{1}} o‘tadi; unda qovurg‘alararo tomir va nervlar yotadi.",
+      "ru": "По нижнему краю внутренней поверхности ребра проходит {{1}}, в которой лежат межрёберные сосуды и нерв."
+    },
+    "blanks": [
+      [
+        "sulcus costae"
+      ]
+    ]
+  },
+  {
+    "id": "t02-037",
+    "topic": 2,
+    "type": "hotspot",
+    "status": "draft",
+    "prompt": {
+      "uz": "To‘sh suyagi dastasini toping",
+      "ru": "Найдите рукоятку грудины"
+    },
+    "explanation": {
+      "uz": "Manubrium sterni.",
+      "ru": "Manubrium sterni."
+    },
+    "image": "gray115-sternum",
+    "zones": [
+      {
+        "id": "manubrium",
+        "kind": "polygon",
+        "points": [
+          [
+            46.6,
+            4.6
+          ],
+          [
+            66.9,
+            4.6
+          ],
+          [
+            63.7,
+            18.2
+          ],
+          [
+            52.3,
+            18.5
+          ]
+        ]
+      }
+    ],
+    "correct": [
+      "manubrium"
+    ]
+  },
+  {
+    "id": "t02-038",
+    "topic": 2,
+    "type": "hotspot",
+    "status": "draft",
+    "prompt": {
+      "uz": "Xanjarsimon o‘simtani toping",
+      "ru": "Найдите мечевидный отросток"
+    },
+    "explanation": {
+      "uz": "Processus xiphoideus.",
+      "ru": "Processus xiphoideus."
+    },
+    "image": "gray115-sternum",
+    "zones": [
+      {
+        "id": "xiphoid",
+        "kind": "circle",
+        "cx": 58.9,
+        "cy": 57.2,
+        "r": 4.9
+      }
+    ],
+    "correct": [
+      "xiphoid"
+    ]
+  },
+  {
+    "id": "t02-039",
+    "topic": 2,
+    "type": "hotspot",
+    "status": "draft",
+    "prompt": {
+      "uz": "Kurakda akromionni toping",
+      "ru": "Найдите на лопатке акромион"
+    },
+    "explanation": {
+      "uz": "Acromion — kurak qirrasining lateral uchi.",
+      "ru": "Acromion — латеральный конец ости лопатки."
+    },
+    "image": "gray203-scapula",
+    "zones": [
+      {
+        "id": "acromion",
+        "kind": "polygon",
+        "points": [
+          [
+            5.9,
+            7.1
+          ],
+          [
+            22.8,
+            8.8
+          ],
+          [
+            23.7,
+            24.7
+          ],
+          [
+            12.7,
+            25.3
+          ],
+          [
+            5.9,
+            17.6
+          ]
+        ]
+      }
+    ],
+    "correct": [
+      "acromion"
+    ]
+  },
+  {
+    "id": "t02-040",
+    "topic": 2,
+    "type": "labels",
+    "status": "draft",
+    "prompt": {
+      "uz": "To‘sh suyagi qismlarini belgilang",
+      "ru": "Подпишите части грудины"
+    },
+    "image": "gray115-sternum",
+    "targets": [
+      {
+        "id": "m",
+        "x": 57,
+        "y": 11.5,
+        "label": "manubrium sterni"
+      },
+      {
+        "id": "c",
+        "x": 59.3,
+        "y": 36.9,
+        "label": "corpus sterni"
+      },
+      {
+        "id": "x",
+        "x": 58.9,
+        "y": 57.2,
+        "label": "processus xiphoideus"
+      },
+      {
+        "id": "j",
+        "x": 57,
+        "y": 4.6,
+        "label": "incisura jugularis"
+      }
+    ],
+    "distractors": [
+      "acromion",
+      "angulus costae"
+    ]
+  },
+  {
+    "id": "t02-041",
+    "topic": 2,
+    "type": "labels",
+    "status": "draft",
+    "prompt": {
+      "uz": "Kurak tuzilmalarini belgilang",
+      "ru": "Подпишите образования лопатки"
+    },
+    "image": "gray203-scapula",
+    "targets": [
+      {
+        "id": "a",
+        "x": 14.4,
+        "y": 15.3,
+        "label": "acromion"
+      },
+      {
+        "id": "c",
+        "x": 33.8,
+        "y": 12.9,
+        "label": "processus coracoideus"
+      },
+      {
+        "id": "s",
+        "x": 74.5,
+        "y": 29.4,
+        "label": "fossa supraspinata"
+      },
+      {
+        "id": "i",
+        "x": 71.1,
+        "y": 61.2,
+        "label": "fossa infraspinata"
+      },
+      {
+        "id": "ai",
+        "x": 71.1,
+        "y": 94.1,
+        "label": "angulus inferior"
+      }
+    ],
+    "distractors": [
+      "olecranon"
+    ]
+  }
+]

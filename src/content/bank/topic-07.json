@@ -1,0 +1,1081 @@
+[
+  {
+    "id": "t07-001",
+    "topic": 7,
+    "type": "single",
+    "status": "draft",
+    "prompt": {
+      "uz": "Kalla asosining ichki yuzasida nechta kalla chuqurchasi bor?",
+      "ru": "Сколько черепных ямок на внутреннем основании черепа?"
+    },
+    "explanation": {
+      "uz": "Fossa cranii anterior, media, posterior.",
+      "ru": "Fossa cranii anterior, media, posterior."
+    },
+    "options": [
+      {
+        "id": "a",
+        "text": "2"
+      },
+      {
+        "id": "b",
+        "text": "3"
+      },
+      {
+        "id": "c",
+        "text": "4"
+      },
+      {
+        "id": "d",
+        "text": "5"
+      }
+    ],
+    "correct": "b"
+  },
+  {
+    "id": "t07-002",
+    "topic": 7,
+    "type": "single",
+    "status": "draft",
+    "prompt": {
+      "uz": "G‘alvirsimon plastinka teshiklaridan qaysi nervlar o‘tadi?",
+      "ru": "Какие нервы проходят через отверстия решётчатой пластинки?"
+    },
+    "options": [
+      {
+        "id": "a",
+        "text": {
+          "uz": "hid bilish nervlari (I)",
+          "ru": "обонятельные нервы (I)"
+        }
+      },
+      {
+        "id": "b",
+        "text": {
+          "uz": "ko‘ruv nervi (II)",
+          "ru": "зрительный нерв (II)"
+        }
+      },
+      {
+        "id": "c",
+        "text": {
+          "uz": "uchlik nervi (V)",
+          "ru": "тройничный нерв (V)"
+        }
+      },
+      {
+        "id": "d",
+        "text": {
+          "uz": "yuz nervi (VII)",
+          "ru": "лицевой нерв (VII)"
+        }
+      }
+    ],
+    "correct": "a"
+  },
+  {
+    "id": "t07-003",
+    "topic": 7,
+    "type": "single",
+    "status": "draft",
+    "prompt": {
+      "uz": "Bo‘yinturuq teshigidan (foramen jugulare) qaysi nervlar o‘tadi?",
+      "ru": "Какие нервы проходят через яремное отверстие?"
+    },
+    "explanation": {
+      "uz": "Til-halqum, adashgan va qo‘shimcha nervlar; shuningdek ichki bo‘yinturuq venasi boshlanadi.",
+      "ru": "Языкоглоточный, блуждающий и добавочный нервы; здесь же начинается внутренняя яремная вена."
+    },
+    "options": [
+      {
+        "id": "a",
+        "text": "IX, X, XI"
+      },
+      {
+        "id": "b",
+        "text": "III, IV, VI"
+      },
+      {
+        "id": "c",
+        "text": "VII, VIII"
+      },
+      {
+        "id": "d",
+        "text": "XII"
+      }
+    ],
+    "correct": "a"
+  },
+  {
+    "id": "t07-004",
+    "topic": 7,
+    "type": "single",
+    "status": "draft",
+    "prompt": {
+      "uz": "Oldingi liqildoq odatda qachon bitadi?",
+      "ru": "Когда обычно закрывается передний родничок?"
+    },
+    "options": [
+      {
+        "id": "a",
+        "text": {
+          "uz": "1–1,5 yoshda",
+          "ru": "к 1–1,5 году"
+        }
+      },
+      {
+        "id": "b",
+        "text": {
+          "uz": "2–3 oylikda",
+          "ru": "к 2–3 месяцам"
+        }
+      },
+      {
+        "id": "c",
+        "text": {
+          "uz": "tug‘ilganda",
+          "ru": "к рождению"
+        }
+      },
+      {
+        "id": "d",
+        "text": {
+          "uz": "5 yoshda",
+          "ru": "к 5 годам"
+        }
+      }
+    ],
+    "correct": "a"
+  },
+  {
+    "id": "t07-005",
+    "topic": 7,
+    "type": "single",
+    "status": "draft",
+    "prompt": {
+      "uz": "Orqa liqildoq qaysi suyaklar orasida joylashgan?",
+      "ru": "Между какими костями находится задний родничок?"
+    },
+    "options": [
+      {
+        "id": "a",
+        "text": {
+          "uz": "ikki tepa suyagi va ensa suyagi",
+          "ru": "двумя теменными и затылочной"
+        }
+      },
+      {
+        "id": "b",
+        "text": {
+          "uz": "peshona va ikki tepa suyagi",
+          "ru": "лобной и двумя теменными"
+        }
+      },
+      {
+        "id": "c",
+        "text": {
+          "uz": "tepa, chakka va ponasimon",
+          "ru": "теменной, височной и клиновидной"
+        }
+      },
+      {
+        "id": "d",
+        "text": {
+          "uz": "tepa, chakka va ensa",
+          "ru": "теменной, височной и затылочной"
+        }
+      }
+    ],
+    "correct": "a"
+  },
+  {
+    "id": "t07-006",
+    "topic": 7,
+    "type": "single",
+    "status": "draft",
+    "prompt": {
+      "uz": "Ikki tepa suyagi orasidagi chok qanday ataladi?",
+      "ru": "Как называется шов между двумя теменными костями?"
+    },
+    "options": [
+      {
+        "id": "a",
+        "text": "sutura sagittalis"
+      },
+      {
+        "id": "b",
+        "text": "sutura coronalis"
+      },
+      {
+        "id": "c",
+        "text": "sutura lambdoidea"
+      },
+      {
+        "id": "d",
+        "text": "sutura squamosa"
+      }
+    ],
+    "correct": "a"
+  },
+  {
+    "id": "t07-007",
+    "topic": 7,
+    "type": "single",
+    "status": "draft",
+    "prompt": {
+      "uz": "Peshona va tepa suyaklari orasidagi chok?",
+      "ru": "Шов между лобной и теменными костями?"
+    },
+    "options": [
+      {
+        "id": "a",
+        "text": "sutura coronalis"
+      },
+      {
+        "id": "b",
+        "text": "sutura sagittalis"
+      },
+      {
+        "id": "c",
+        "text": "sutura lambdoidea"
+      },
+      {
+        "id": "d",
+        "text": "sutura squamosa"
+      }
+    ],
+    "correct": "a"
+  },
+  {
+    "id": "t07-008",
+    "topic": 7,
+    "type": "single",
+    "status": "draft",
+    "prompt": {
+      "uz": "Kalla asosining tashqi yuzasida burun bo‘shlig‘ini halqum bilan tutashtiruvchi teshiklar qanday ataladi?",
+      "ru": "Как называются отверстия, соединяющие полость носа с глоткой на наружном основании черепа?"
+    },
+    "options": [
+      {
+        "id": "a",
+        "text": "choanae"
+      },
+      {
+        "id": "b",
+        "text": "foramina incisiva"
+      },
+      {
+        "id": "c",
+        "text": "foramina palatina majora"
+      },
+      {
+        "id": "d",
+        "text": "foramina lacera"
+      }
+    ],
+    "correct": "a"
+  },
+  {
+    "id": "t07-009",
+    "topic": 7,
+    "type": "single",
+    "status": "draft",
+    "prompt": {
+      "uz": "O‘rta kalla chuqurchasining markazida nima joylashgan?",
+      "ru": "Что расположено в центре средней черепной ямки?"
+    },
+    "options": [
+      {
+        "id": "a",
+        "text": "sella turcica"
+      },
+      {
+        "id": "b",
+        "text": "crista galli"
+      },
+      {
+        "id": "c",
+        "text": "foramen magnum"
+      },
+      {
+        "id": "d",
+        "text": "clivus"
+      }
+    ],
+    "correct": "a"
+  },
+  {
+    "id": "t07-010",
+    "topic": 7,
+    "type": "single",
+    "status": "draft",
+    "prompt": {
+      "uz": "Ichki eshituv teshigidan qaysi nervlar o‘tadi?",
+      "ru": "Какие нервы проходят через внутреннее слуховое отверстие?"
+    },
+    "options": [
+      {
+        "id": "a",
+        "text": "VII, VIII"
+      },
+      {
+        "id": "b",
+        "text": "IX, X, XI"
+      },
+      {
+        "id": "c",
+        "text": "V2, V3"
+      },
+      {
+        "id": "d",
+        "text": "III, IV, VI"
+      }
+    ],
+    "correct": "a"
+  },
+  {
+    "id": "t07-011",
+    "topic": 7,
+    "type": "multi",
+    "status": "draft",
+    "prompt": {
+      "uz": "Oldingi kalla chuqurchasini hosil qiluvchi suyaklar",
+      "ru": "Кости, образующие переднюю черепную ямку"
+    },
+    "options": [
+      {
+        "id": "a",
+        "text": "os frontale (partes orbitales)"
+      },
+      {
+        "id": "b",
+        "text": "os ethmoidale (lamina cribrosa)"
+      },
+      {
+        "id": "c",
+        "text": "os sphenoidale (alae minores)"
+      },
+      {
+        "id": "d",
+        "text": "os temporale (pars petrosa)"
+      },
+      {
+        "id": "e",
+        "text": "os occipitale"
+      }
+    ],
+    "correct": [
+      "a",
+      "b",
+      "c"
+    ]
+  },
+  {
+    "id": "t07-012",
+    "topic": 7,
+    "type": "multi",
+    "status": "draft",
+    "prompt": {
+      "uz": "O‘rta kalla chuqurchasidagi teshiklar",
+      "ru": "Отверстия средней черепной ямки"
+    },
+    "options": [
+      {
+        "id": "a",
+        "text": "foramen rotundum"
+      },
+      {
+        "id": "b",
+        "text": "foramen ovale"
+      },
+      {
+        "id": "c",
+        "text": "foramen spinosum"
+      },
+      {
+        "id": "d",
+        "text": "fissura orbitalis superior"
+      },
+      {
+        "id": "e",
+        "text": "foramen magnum"
+      }
+    ],
+    "correct": [
+      "a",
+      "b",
+      "c",
+      "d"
+    ]
+  },
+  {
+    "id": "t07-013",
+    "topic": 7,
+    "type": "multi",
+    "status": "draft",
+    "prompt": {
+      "uz": "Orqa kalla chuqurchasidagi teshiklar",
+      "ru": "Отверстия задней черепной ямки"
+    },
+    "options": [
+      {
+        "id": "a",
+        "text": "foramen magnum"
+      },
+      {
+        "id": "b",
+        "text": "foramen jugulare"
+      },
+      {
+        "id": "c",
+        "text": "porus acusticus internus"
+      },
+      {
+        "id": "d",
+        "text": "canalis nervi hypoglossi"
+      },
+      {
+        "id": "e",
+        "text": "foramen ovale"
+      }
+    ],
+    "correct": [
+      "a",
+      "b",
+      "c",
+      "d"
+    ]
+  },
+  {
+    "id": "t07-014",
+    "topic": 7,
+    "type": "multi",
+    "status": "draft",
+    "prompt": {
+      "uz": "Yangi tug‘ilgan bola kallasining juft liqildoqlari",
+      "ru": "Парные роднички черепа новорождённого"
+    },
+    "options": [
+      {
+        "id": "a",
+        "text": "fonticulus sphenoidalis"
+      },
+      {
+        "id": "b",
+        "text": "fonticulus mastoideus"
+      },
+      {
+        "id": "c",
+        "text": "fonticulus anterior"
+      },
+      {
+        "id": "d",
+        "text": "fonticulus posterior"
+      }
+    ],
+    "correct": [
+      "a",
+      "b"
+    ]
+  },
+  {
+    "id": "t07-015",
+    "topic": 7,
+    "type": "multi",
+    "status": "draft",
+    "prompt": {
+      "uz": "Kalla gumbazini (calvaria) hosil qiluvchi suyaklar",
+      "ru": "Кости свода черепа"
+    },
+    "options": [
+      {
+        "id": "a",
+        "text": "os frontale"
+      },
+      {
+        "id": "b",
+        "text": "os parietale"
+      },
+      {
+        "id": "c",
+        "text": "os occipitale (squama)"
+      },
+      {
+        "id": "d",
+        "text": "os ethmoidale"
+      },
+      {
+        "id": "e",
+        "text": "vomer"
+      }
+    ],
+    "correct": [
+      "a",
+      "b",
+      "c"
+    ]
+  },
+  {
+    "id": "t07-016",
+    "topic": 7,
+    "type": "truefalse",
+    "status": "draft",
+    "prompt": {
+      "uz": "Oldingi liqildoq romb shaklida.",
+      "ru": "Передний родничок ромбовидной формы."
+    },
+    "correct": true
+  },
+  {
+    "id": "t07-017",
+    "topic": 7,
+    "type": "truefalse",
+    "status": "draft",
+    "prompt": {
+      "uz": "Orqa liqildoq 1,5 yoshda bitadi.",
+      "ru": "Задний родничок закрывается к 1,5 годам."
+    },
+    "explanation": {
+      "uz": "Noto‘g‘ri: orqa liqildoq 2–3 oylikda bitadi.",
+      "ru": "Неверно: задний родничок закрывается к 2–3 месяцам."
+    },
+    "correct": false
+  },
+  {
+    "id": "t07-018",
+    "topic": 7,
+    "type": "truefalse",
+    "status": "draft",
+    "prompt": {
+      "uz": "Yirtiq teshik (foramen lacerum) ponasimon suyak tanasi va chakka suyagi piramidasi uchi orasida joylashgan.",
+      "ru": "Рваное отверстие находится между телом клиновидной кости и верхушкой пирамиды височной."
+    },
+    "correct": true
+  },
+  {
+    "id": "t07-019",
+    "topic": 7,
+    "type": "truefalse",
+    "status": "draft",
+    "prompt": {
+      "uz": "Lambdasimon chok ensa va tepa suyaklari orasida.",
+      "ru": "Ламбдовидный шов — между затылочной и теменными костями."
+    },
+    "correct": true
+  },
+  {
+    "id": "t07-020",
+    "topic": 7,
+    "type": "truefalse",
+    "status": "draft",
+    "prompt": {
+      "uz": "Yangi tug‘ilgan bolada kallaning miya qismi yuz qismidan nisbatan kichik.",
+      "ru": "У новорождённого мозговой череп относительно меньше лицевого."
+    },
+    "explanation": {
+      "uz": "Noto‘g‘ri: yangi tug‘ilganda miya qismi yuz qismidan ~8 marta katta (kattalarda ~2 marta).",
+      "ru": "Неверно: у новорождённого мозговой череп в ~8 раз больше лицевого (у взрослого ~в 2 раза)."
+    },
+    "correct": false
+  },
+  {
+    "id": "t07-021",
+    "topic": 7,
+    "type": "truefalse",
+    "status": "draft",
+    "prompt": {
+      "uz": "Ko‘ruv kanali o‘rta kalla chuqurchasini ko‘z kosasi bilan tutashtiradi.",
+      "ru": "Зрительный канал соединяет среднюю черепную ямку с глазницей."
+    },
+    "correct": true
+  },
+  {
+    "id": "t07-022",
+    "topic": 7,
+    "type": "latin",
+    "status": "draft",
+    "prompt": {
+      "uz": "Lotincha yozing: oldingi liqildoq",
+      "ru": "Напишите по-латыни: передний родничок"
+    },
+    "accepted": [
+      "fonticulus anterior"
+    ]
+  },
+  {
+    "id": "t07-023",
+    "topic": 7,
+    "type": "latin",
+    "status": "draft",
+    "prompt": {
+      "uz": "Lotincha yozing: sagittal chok",
+      "ru": "Напишите по-латыни: сагиттальный шов"
+    },
+    "accepted": [
+      "sutura sagittalis"
+    ]
+  },
+  {
+    "id": "t07-024",
+    "topic": 7,
+    "type": "latin",
+    "status": "draft",
+    "prompt": {
+      "uz": "Lotincha yozing: bo‘yinturuq teshigi",
+      "ru": "Напишите по-латыни: яремное отверстие"
+    },
+    "accepted": [
+      "foramen jugulare"
+    ]
+  },
+  {
+    "id": "t07-025",
+    "topic": 7,
+    "type": "latin",
+    "status": "draft",
+    "prompt": {
+      "uz": "Lotincha yozing: yirtiq teshik",
+      "ru": "Напишите по-латыни: рваное отверстие"
+    },
+    "accepted": [
+      "foramen lacerum"
+    ]
+  },
+  {
+    "id": "t07-026",
+    "topic": 7,
+    "type": "latin",
+    "status": "draft",
+    "prompt": {
+      "uz": "Lotincha yozing: kalla gumbazi",
+      "ru": "Напишите по-латыни: свод черепа"
+    },
+    "accepted": [
+      "calvaria",
+      "fornix cranii"
+    ]
+  },
+  {
+    "id": "t07-027",
+    "topic": 7,
+    "type": "latin",
+    "status": "draft",
+    "prompt": {
+      "uz": "Lotincha yozing: ichki eshituv teshigi",
+      "ru": "Напишите по-латыни: внутреннее слуховое отверстие"
+    },
+    "accepted": [
+      "porus acusticus internus"
+    ]
+  },
+  {
+    "id": "t07-028",
+    "topic": 7,
+    "type": "matching",
+    "status": "draft",
+    "prompt": {
+      "uz": "Teshik va undan o‘tadigan nerv(lar)ni moslang",
+      "ru": "Сопоставьте отверстие и нерв(ы)"
+    },
+    "pairs": [
+      {
+        "left": "lamina cribrosa",
+        "right": "n. I"
+      },
+      {
+        "left": "canalis opticus",
+        "right": "n. II"
+      },
+      {
+        "left": "fissura orbitalis superior",
+        "right": "n. III, IV, V1, VI"
+      },
+      {
+        "left": "porus acusticus internus",
+        "right": "n. VII, VIII"
+      },
+      {
+        "left": "canalis nervi hypoglossi",
+        "right": "n. XII"
+      }
+    ]
+  },
+  {
+    "id": "t07-029",
+    "topic": 7,
+    "type": "matching",
+    "status": "draft",
+    "prompt": {
+      "uz": "Liqildoq va bitish muddatini moslang",
+      "ru": "Сопоставьте родничок и срок закрытия"
+    },
+    "pairs": [
+      {
+        "left": "fonticulus anterior",
+        "right": {
+          "uz": "1–1,5 yosh",
+          "ru": "1–1,5 года"
+        }
+      },
+      {
+        "left": "fonticulus posterior",
+        "right": {
+          "uz": "2–3 oy",
+          "ru": "2–3 месяца"
+        }
+      }
+    ]
+  },
+  {
+    "id": "t07-030",
+    "topic": 7,
+    "type": "matching",
+    "status": "draft",
+    "prompt": {
+      "uz": "Chok va suyaklarni moslang",
+      "ru": "Сопоставьте шов и кости"
+    },
+    "pairs": [
+      {
+        "left": "sutura coronalis",
+        "right": {
+          "uz": "peshona + tepa",
+          "ru": "лобная + теменные"
+        }
+      },
+      {
+        "left": "sutura sagittalis",
+        "right": {
+          "uz": "tepa + tepa",
+          "ru": "теменная + теменная"
+        }
+      },
+      {
+        "left": "sutura lambdoidea",
+        "right": {
+          "uz": "tepa + ensa",
+          "ru": "теменные + затылочная"
+        }
+      },
+      {
+        "left": "sutura squamosa",
+        "right": {
+          "uz": "tepa + chakka",
+          "ru": "теменная + височная"
+        }
+      }
+    ]
+  },
+  {
+    "id": "t07-031",
+    "topic": 7,
+    "type": "ordering",
+    "status": "draft",
+    "prompt": {
+      "uz": "Kalla chuqurchalarini oldindan orqaga tartiblang",
+      "ru": "Расположите черепные ямки спереди назад"
+    },
+    "items": [
+      "fossa cranii anterior",
+      "fossa cranii media",
+      "fossa cranii posterior"
+    ]
+  },
+  {
+    "id": "t07-032",
+    "topic": 7,
+    "type": "ordering",
+    "status": "draft",
+    "prompt": {
+      "uz": "O‘rta kalla chuqurchasidagi teshiklarni oldindan orqaga tartiblang",
+      "ru": "Расположите отверстия средней черепной ямки спереди назад"
+    },
+    "items": [
+      "canalis opticus",
+      "fissura orbitalis superior",
+      "foramen rotundum",
+      "foramen ovale",
+      "foramen spinosum"
+    ]
+  },
+  {
+    "id": "t07-033",
+    "topic": 7,
+    "type": "cloze",
+    "status": "draft",
+    "prompt": {
+      "uz": "Lotincha atamalarni yozing",
+      "ru": "Впишите латинские термины"
+    },
+    "text": {
+      "uz": "Kalla asosining ichki yuzasida oldingi, o‘rta va orqa chuqurchalar bor; orqa chuqurchaning markazida {{1}} joylashgan.",
+      "ru": "На внутреннем основании черепа — передняя, средняя и задняя ямки; в центре задней ямки — {{1}}."
+    },
+    "blanks": [
+      [
+        "foramen magnum"
+      ]
+    ]
+  },
+  {
+    "id": "t07-034",
+    "topic": 7,
+    "type": "cloze",
+    "status": "draft",
+    "prompt": {
+      "uz": "Lotincha atamalarni yozing",
+      "ru": "Впишите латинские термины"
+    },
+    "text": {
+      "uz": "Yangi tug‘ilgan bolada peshona va tepa suyaklari orasida {{1}}, tepa va ensa suyaklari orasida {{2}} liqildoq bor.",
+      "ru": "У новорождённого между лобной и теменными костями — {{1}}, между теменными и затылочной — {{2}} родничок."
+    },
+    "blanks": [
+      [
+        "fonticulus anterior"
+      ],
+      [
+        "fonticulus posterior"
+      ]
+    ]
+  },
+  {
+    "id": "t07-035",
+    "topic": 7,
+    "type": "cloze",
+    "status": "draft",
+    "prompt": {
+      "uz": "Lotincha atamalarni yozing",
+      "ru": "Впишите латинские термины"
+    },
+    "text": {
+      "uz": "Yuz nervi chiqadigan teshik — {{1}}.",
+      "ru": "Отверстие, через которое выходит лицевой нерв, — {{1}}."
+    },
+    "blanks": [
+      [
+        "foramen stylomastoideum"
+      ]
+    ]
+  },
+  {
+    "id": "t07-036",
+    "topic": 7,
+    "type": "hotspot",
+    "status": "draft",
+    "prompt": {
+      "uz": "G‘alvirsimon plastinkani toping",
+      "ru": "Найдите решётчатую пластинку"
+    },
+    "explanation": {
+      "uz": "Lamina cribrosa — oldingi kalla chuqurchasida.",
+      "ru": "Lamina cribrosa — в передней черепной ямке."
+    },
+    "image": "gray193-skullbase",
+    "zones": [
+      {
+        "id": "lc",
+        "kind": "polygon",
+        "points": [
+          [
+            43.8,
+            14.2
+          ],
+          [
+            49.4,
+            14.2
+          ],
+          [
+            49.8,
+            27
+          ],
+          [
+            44.2,
+            27
+          ]
+        ]
+      }
+    ],
+    "correct": [
+      "lc"
+    ]
+  },
+  {
+    "id": "t07-037",
+    "topic": 7,
+    "type": "hotspot",
+    "status": "draft",
+    "prompt": {
+      "uz": "Oval teshikni toping",
+      "ru": "Найдите овальное отверстие"
+    },
+    "explanation": {
+      "uz": "Foramen ovale — o‘rta kalla chuqurchasida.",
+      "ru": "Foramen ovale — в средней черепной ямке."
+    },
+    "image": "gray193-skullbase",
+    "zones": [
+      {
+        "id": "fo",
+        "kind": "circle",
+        "cx": 61.2,
+        "cy": 43.5,
+        "r": 2.5
+      }
+    ],
+    "correct": [
+      "fo"
+    ]
+  },
+  {
+    "id": "t07-038",
+    "topic": 7,
+    "type": "hotspot",
+    "status": "draft",
+    "prompt": {
+      "uz": "Oldingi liqildoqni toping",
+      "ru": "Найдите передний родничок"
+    },
+    "explanation": {
+      "uz": "Fonticulus anterior.",
+      "ru": "Fonticulus anterior."
+    },
+    "image": "gray197-newborn",
+    "zones": [
+      {
+        "id": "fa",
+        "kind": "polygon",
+        "points": [
+          [
+            50,
+            12.6
+          ],
+          [
+            57.1,
+            23.1
+          ],
+          [
+            67.1,
+            29.4
+          ],
+          [
+            57.1,
+            31.5
+          ],
+          [
+            50,
+            34.7
+          ],
+          [
+            42.9,
+            31.5
+          ],
+          [
+            33.7,
+            29.4
+          ],
+          [
+            42.9,
+            23.1
+          ]
+        ]
+      }
+    ],
+    "correct": [
+      "fa"
+    ]
+  },
+  {
+    "id": "t07-039",
+    "topic": 7,
+    "type": "labels",
+    "status": "draft",
+    "prompt": {
+      "uz": "Kalla asosi ichki yuzasini belgilang",
+      "ru": "Подпишите образования внутреннего основания черепа"
+    },
+    "image": "gray193-skullbase",
+    "targets": [
+      {
+        "id": "fa",
+        "x": 62.6,
+        "y": 13.2,
+        "label": "fossa cranii anterior"
+      },
+      {
+        "id": "fm",
+        "x": 77.9,
+        "y": 44.5,
+        "label": "fossa cranii media"
+      },
+      {
+        "id": "fp",
+        "x": 62.6,
+        "y": 75.7,
+        "label": "fossa cranii posterior"
+      },
+      {
+        "id": "lc",
+        "x": 46.6,
+        "y": 20.8,
+        "label": "lamina cribrosa"
+      },
+      {
+        "id": "fmg",
+        "x": 45.9,
+        "y": 65.3,
+        "label": "foramen magnum"
+      }
+    ],
+    "distractors": [
+      "foramen mentale"
+    ]
+  },
+  {
+    "id": "t07-040",
+    "topic": 7,
+    "type": "labels",
+    "status": "draft",
+    "prompt": {
+      "uz": "Yangi tug‘ilgan bola kallasini belgilang",
+      "ru": "Подпишите череп новорождённого"
+    },
+    "image": "gray197-newborn",
+    "targets": [
+      {
+        "id": "fa",
+        "x": 50,
+        "y": 27.3,
+        "label": "fonticulus anterior"
+      },
+      {
+        "id": "fp",
+        "x": 50,
+        "y": 88.2,
+        "label": "fonticulus posterior"
+      },
+      {
+        "id": "ss",
+        "x": 50,
+        "y": 58.8,
+        "label": "sutura sagittalis"
+      },
+      {
+        "id": "sc",
+        "x": 22.9,
+        "y": 29.4,
+        "label": "sutura coronalis"
+      },
+      {
+        "id": "tp",
+        "x": 11.4,
+        "y": 54.6,
+        "label": "tuber parietale"
+      }
+    ],
+    "distractors": [
+      "fonticulus mastoideus",
+      "sutura squamosa"
+    ]
+  }
+]

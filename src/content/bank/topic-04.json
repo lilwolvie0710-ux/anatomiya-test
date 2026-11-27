@@ -1,0 +1,1075 @@
+[
+  {
+    "id": "t04-001",
+    "topic": 4,
+    "type": "single",
+    "status": "draft",
+    "prompt": {
+      "uz": "Kallaning miya qismini nechta suyak hosil qiladi?",
+      "ru": "Сколько костей образуют мозговой череп?"
+    },
+    "explanation": {
+      "uz": "Juft: tepa va chakka; toq: peshona, ensa, ponasimon, g‘alvirsimon — jami 8 ta.",
+      "ru": "Парные: теменная и височная; непарные: лобная, затылочная, клиновидная, решётчатая — всего 8."
+    },
+    "options": [
+      {
+        "id": "a",
+        "text": "6"
+      },
+      {
+        "id": "b",
+        "text": "8"
+      },
+      {
+        "id": "c",
+        "text": "10"
+      },
+      {
+        "id": "d",
+        "text": "15"
+      }
+    ],
+    "correct": "b"
+  },
+  {
+    "id": "t04-002",
+    "topic": 4,
+    "type": "single",
+    "status": "draft",
+    "prompt": {
+      "uz": "Peshona suyagining qaysi qismida havo bo‘shlig‘i bor?",
+      "ru": "В какой части лобной кости находится воздухоносная пазуха?"
+    },
+    "explanation": {
+      "uz": "Sinus frontalis peshona pallasining pastki qismida, qosh usti ravoqlari orqasida joylashadi.",
+      "ru": "Sinus frontalis лежит в нижней части лобной чешуи, позади надбровных дуг."
+    },
+    "options": [
+      {
+        "id": "a",
+        "text": "squama frontalis"
+      },
+      {
+        "id": "b",
+        "text": "pars nasalis"
+      },
+      {
+        "id": "c",
+        "text": "pars orbitalis"
+      },
+      {
+        "id": "d",
+        "text": "processus zygomaticus"
+      }
+    ],
+    "correct": "a"
+  },
+  {
+    "id": "t04-003",
+    "topic": 4,
+    "type": "single",
+    "status": "draft",
+    "prompt": {
+      "uz": "Qoshlar orasidagi tekis maydoncha qanday ataladi?",
+      "ru": "Как называется площадка между надбровными дугами?"
+    },
+    "options": [
+      {
+        "id": "a",
+        "text": "glabella"
+      },
+      {
+        "id": "b",
+        "text": "nasion"
+      },
+      {
+        "id": "c",
+        "text": "tuber frontale"
+      },
+      {
+        "id": "d",
+        "text": "arcus superciliaris"
+      }
+    ],
+    "correct": "a"
+  },
+  {
+    "id": "t04-004",
+    "topic": 4,
+    "type": "single",
+    "status": "draft",
+    "prompt": {
+      "uz": "G‘alvirsimon suyakning qaysi qismida hid bilish nervlari uchun teshiklar bor?",
+      "ru": "В какой части решётчатой кости есть отверстия для обонятельных нервов?"
+    },
+    "options": [
+      {
+        "id": "a",
+        "text": "lamina cribrosa"
+      },
+      {
+        "id": "b",
+        "text": "lamina perpendicularis"
+      },
+      {
+        "id": "c",
+        "text": "labyrinthus ethmoidalis"
+      },
+      {
+        "id": "d",
+        "text": "crista galli"
+      }
+    ],
+    "correct": "a"
+  },
+  {
+    "id": "t04-005",
+    "topic": 4,
+    "type": "single",
+    "status": "draft",
+    "prompt": {
+      "uz": "Ensa suyagining katta teshigidan nima o‘tadi?",
+      "ru": "Что проходит через большое затылочное отверстие?"
+    },
+    "explanation": {
+      "uz": "Foramen magnum orqali uzunchoq miya orqa miyaga o‘tadi; umurtqa arteriyalari va XI nervning orqa miya ildizlari ham o‘tadi.",
+      "ru": "Через foramen magnum продолговатый мозг переходит в спинной; проходят также позвоночные артерии и спинномозговые корешки XI нерва."
+    },
+    "options": [
+      {
+        "id": "a",
+        "text": {
+          "uz": "uzunchoq miya",
+          "ru": "продолговатый мозг"
+        }
+      },
+      {
+        "id": "b",
+        "text": {
+          "uz": "ko‘ruv nervi",
+          "ru": "зрительный нерв"
+        }
+      },
+      {
+        "id": "c",
+        "text": {
+          "uz": "ichki bo‘yinturuq venasi",
+          "ru": "внутренняя яремная вена"
+        }
+      },
+      {
+        "id": "d",
+        "text": {
+          "uz": "yuz nervi",
+          "ru": "лицевой нерв"
+        }
+      }
+    ],
+    "correct": "a"
+  },
+  {
+    "id": "t04-006",
+    "topic": 4,
+    "type": "single",
+    "status": "draft",
+    "prompt": {
+      "uz": "Til osti nervi kanali (canalis nervi hypoglossi) qaysi suyakda?",
+      "ru": "В какой кости находится канал подъязычного нерва?"
+    },
+    "explanation": {
+      "uz": "Kanal ensa do‘nglari asosini teshib o‘tadi.",
+      "ru": "Канал проходит через основание затылочных мыщелков."
+    },
+    "options": [
+      {
+        "id": "a",
+        "text": "os occipitale"
+      },
+      {
+        "id": "b",
+        "text": "os sphenoidale"
+      },
+      {
+        "id": "c",
+        "text": "os temporale"
+      },
+      {
+        "id": "d",
+        "text": "os ethmoidale"
+      }
+    ],
+    "correct": "a"
+  },
+  {
+    "id": "t04-007",
+    "topic": 4,
+    "type": "single",
+    "status": "draft",
+    "prompt": {
+      "uz": "Tepa suyagining nechta burchagi bor?",
+      "ru": "Сколько углов у теменной кости?"
+    },
+    "explanation": {
+      "uz": "Angulus frontalis, occipitalis, sphenoidalis, mastoideus.",
+      "ru": "Angulus frontalis, occipitalis, sphenoidalis, mastoideus."
+    },
+    "options": [
+      {
+        "id": "a",
+        "text": "2"
+      },
+      {
+        "id": "b",
+        "text": "3"
+      },
+      {
+        "id": "c",
+        "text": "4"
+      },
+      {
+        "id": "d",
+        "text": "5"
+      }
+    ],
+    "correct": "c"
+  },
+  {
+    "id": "t04-008",
+    "topic": 4,
+    "type": "single",
+    "status": "draft",
+    "prompt": {
+      "uz": "Tepa suyagining qaysi burchagi ichki yuzasida sigmasimon sinus egati bor?",
+      "ru": "На внутренней поверхности какого угла теменной кости проходит борозда сигмовидного синуса?"
+    },
+    "options": [
+      {
+        "id": "a",
+        "text": "angulus mastoideus"
+      },
+      {
+        "id": "b",
+        "text": "angulus frontalis"
+      },
+      {
+        "id": "c",
+        "text": "angulus sphenoidalis"
+      },
+      {
+        "id": "d",
+        "text": "angulus occipitalis"
+      }
+    ],
+    "correct": "a"
+  },
+  {
+    "id": "t04-009",
+    "topic": 4,
+    "type": "single",
+    "status": "draft",
+    "prompt": {
+      "uz": "Ensa suyagining asosiy qismi va ponasimon suyak tanasi hosil qilgan qiya yuza qanday ataladi?",
+      "ru": "Как называется скат, образованный базилярной частью затылочной и телом клиновидной кости?"
+    },
+    "options": [
+      {
+        "id": "a",
+        "text": "clivus"
+      },
+      {
+        "id": "b",
+        "text": "sella turcica"
+      },
+      {
+        "id": "c",
+        "text": "eminentia cruciformis"
+      },
+      {
+        "id": "d",
+        "text": "sulcus sinus transversi"
+      }
+    ],
+    "correct": "a"
+  },
+  {
+    "id": "t04-010",
+    "topic": 4,
+    "type": "single",
+    "status": "draft",
+    "prompt": {
+      "uz": "G‘alvirsimon suyakning qaysi qismi burun to‘sig‘ini hosil qilishda qatnashadi?",
+      "ru": "Какая часть решётчатой кости участвует в образовании перегородки носа?"
+    },
+    "options": [
+      {
+        "id": "a",
+        "text": "lamina perpendicularis"
+      },
+      {
+        "id": "b",
+        "text": "lamina cribrosa"
+      },
+      {
+        "id": "c",
+        "text": "lamina orbitalis"
+      },
+      {
+        "id": "d",
+        "text": "concha nasalis media"
+      }
+    ],
+    "correct": "a"
+  },
+  {
+    "id": "t04-011",
+    "topic": 4,
+    "type": "multi",
+    "status": "draft",
+    "prompt": {
+      "uz": "Kallaning miya qismining toq suyaklari",
+      "ru": "Непарные кости мозгового черепа"
+    },
+    "options": [
+      {
+        "id": "a",
+        "text": "os frontale"
+      },
+      {
+        "id": "b",
+        "text": "os occipitale"
+      },
+      {
+        "id": "c",
+        "text": "os sphenoidale"
+      },
+      {
+        "id": "d",
+        "text": "os ethmoidale"
+      },
+      {
+        "id": "e",
+        "text": "os parietale"
+      },
+      {
+        "id": "f",
+        "text": "os temporale"
+      }
+    ],
+    "correct": [
+      "a",
+      "b",
+      "c",
+      "d"
+    ]
+  },
+  {
+    "id": "t04-012",
+    "topic": 4,
+    "type": "multi",
+    "status": "draft",
+    "prompt": {
+      "uz": "Ensa suyagining qismlari",
+      "ru": "Части затылочной кости"
+    },
+    "explanation": {
+      "uz": "Pars petrosa — chakka suyagida, lamina cribrosa — g‘alvirsimon suyakda.",
+      "ru": "Pars petrosa — у височной кости, lamina cribrosa — у решётчатой."
+    },
+    "options": [
+      {
+        "id": "a",
+        "text": "pars basilaris"
+      },
+      {
+        "id": "b",
+        "text": "partes laterales"
+      },
+      {
+        "id": "c",
+        "text": "squama occipitalis"
+      },
+      {
+        "id": "d",
+        "text": "pars petrosa"
+      },
+      {
+        "id": "e",
+        "text": "lamina cribrosa"
+      }
+    ],
+    "correct": [
+      "a",
+      "b",
+      "c"
+    ]
+  },
+  {
+    "id": "t04-013",
+    "topic": 4,
+    "type": "multi",
+    "status": "draft",
+    "prompt": {
+      "uz": "G‘alvirsimon suyak labirintining medial yuzasidagi tuzilmalar",
+      "ru": "Образования медиальной поверхности решётчатого лабиринта"
+    },
+    "explanation": {
+      "uz": "Pastki burun chig‘anog‘i — mustaqil suyak.",
+      "ru": "Нижняя носовая раковина — самостоятельная кость."
+    },
+    "options": [
+      {
+        "id": "a",
+        "text": "concha nasalis superior"
+      },
+      {
+        "id": "b",
+        "text": "concha nasalis media"
+      },
+      {
+        "id": "c",
+        "text": "concha nasalis inferior"
+      },
+      {
+        "id": "d",
+        "text": "crista galli"
+      }
+    ],
+    "correct": [
+      "a",
+      "b"
+    ]
+  },
+  {
+    "id": "t04-014",
+    "topic": 4,
+    "type": "multi",
+    "status": "draft",
+    "prompt": {
+      "uz": "Peshona suyagining tuzilmalari",
+      "ru": "Образования лобной кости"
+    },
+    "explanation": {
+      "uz": "Crista galli — g‘alvirsimon suyakda, tuber parietale — tepa suyagida.",
+      "ru": "Crista galli — на решётчатой кости, tuber parietale — на теменной."
+    },
+    "options": [
+      {
+        "id": "a",
+        "text": "tuber frontale"
+      },
+      {
+        "id": "b",
+        "text": "arcus superciliaris"
+      },
+      {
+        "id": "c",
+        "text": "incisura supraorbitalis"
+      },
+      {
+        "id": "d",
+        "text": "tuber parietale"
+      },
+      {
+        "id": "e",
+        "text": "crista galli"
+      }
+    ],
+    "correct": [
+      "a",
+      "b",
+      "c"
+    ]
+  },
+  {
+    "id": "t04-015",
+    "topic": 4,
+    "type": "multi",
+    "status": "draft",
+    "prompt": {
+      "uz": "Ensa suyagi ichki yuzasidagi tuzilmalar",
+      "ru": "Образования внутренней поверхности затылочной кости"
+    },
+    "options": [
+      {
+        "id": "a",
+        "text": "eminentia cruciformis"
+      },
+      {
+        "id": "b",
+        "text": "protuberantia occipitalis interna"
+      },
+      {
+        "id": "c",
+        "text": "sulcus sinus transversi"
+      },
+      {
+        "id": "d",
+        "text": "protuberantia occipitalis externa"
+      }
+    ],
+    "correct": [
+      "a",
+      "b",
+      "c"
+    ]
+  },
+  {
+    "id": "t04-016",
+    "topic": 4,
+    "type": "truefalse",
+    "status": "draft",
+    "prompt": {
+      "uz": "Tepa suyagi juft suyak.",
+      "ru": "Теменная кость — парная."
+    },
+    "correct": true
+  },
+  {
+    "id": "t04-017",
+    "topic": 4,
+    "type": "truefalse",
+    "status": "draft",
+    "prompt": {
+      "uz": "Xo‘roz toji (crista galli) ensa suyagida joylashgan.",
+      "ru": "Петушиный гребень (crista galli) расположен на затылочной кости."
+    },
+    "explanation": {
+      "uz": "Noto‘g‘ri: g‘alvirsimon suyakda, g‘alvirsimon plastinkadan yuqoriga chiqadi.",
+      "ru": "Неверно: на решётчатой кости, выступает над решётчатой пластинкой."
+    },
+    "correct": false
+  },
+  {
+    "id": "t04-018",
+    "topic": 4,
+    "type": "truefalse",
+    "status": "draft",
+    "prompt": {
+      "uz": "Ensa do‘nglari atlant bilan bo‘g‘im hosil qiladi.",
+      "ru": "Затылочные мыщелки сочленяются с атлантом."
+    },
+    "correct": true
+  },
+  {
+    "id": "t04-019",
+    "topic": 4,
+    "type": "truefalse",
+    "status": "draft",
+    "prompt": {
+      "uz": "Peshona suyagining ko‘z kosasi qismlari ko‘z kosasining yuqori devorini hosil qiladi.",
+      "ru": "Глазничные части лобной кости образуют верхнюю стенку глазницы."
+    },
+    "correct": true
+  },
+  {
+    "id": "t04-020",
+    "topic": 4,
+    "type": "truefalse",
+    "status": "draft",
+    "prompt": {
+      "uz": "G‘alvirsimon suyak labirinti havo hujayralaridan iborat.",
+      "ru": "Лабиринт решётчатой кости состоит из воздухоносных ячеек."
+    },
+    "correct": true
+  },
+  {
+    "id": "t04-021",
+    "topic": 4,
+    "type": "truefalse",
+    "status": "draft",
+    "prompt": {
+      "uz": "Tashqi ensa do‘mbog‘ini teri orqali paypaslab bo‘lmaydi.",
+      "ru": "Наружный затылочный выступ нельзя прощупать через кожу."
+    },
+    "explanation": {
+      "uz": "Noto‘g‘ri: protuberantia occipitalis externa yaxshi paypaslanadi.",
+      "ru": "Неверно: protuberantia occipitalis externa хорошо прощупывается."
+    },
+    "correct": false
+  },
+  {
+    "id": "t04-022",
+    "topic": 4,
+    "type": "latin",
+    "status": "draft",
+    "prompt": {
+      "uz": "Lotincha yozing: peshona suyagi",
+      "ru": "Напишите по-латыни: лобная кость"
+    },
+    "accepted": [
+      "os frontale"
+    ]
+  },
+  {
+    "id": "t04-023",
+    "topic": 4,
+    "type": "latin",
+    "status": "draft",
+    "prompt": {
+      "uz": "Lotincha yozing: tepa suyagi",
+      "ru": "Напишите по-латыни: теменная кость"
+    },
+    "accepted": [
+      "os parietale"
+    ]
+  },
+  {
+    "id": "t04-024",
+    "topic": 4,
+    "type": "latin",
+    "status": "draft",
+    "prompt": {
+      "uz": "Lotincha yozing: ensa suyagi",
+      "ru": "Напишите по-латыни: затылочная кость"
+    },
+    "accepted": [
+      "os occipitale"
+    ]
+  },
+  {
+    "id": "t04-025",
+    "topic": 4,
+    "type": "latin",
+    "status": "draft",
+    "prompt": {
+      "uz": "Lotincha yozing: g‘alvirsimon suyak",
+      "ru": "Напишите по-латыни: решётчатая кость"
+    },
+    "accepted": [
+      "os ethmoidale"
+    ]
+  },
+  {
+    "id": "t04-026",
+    "topic": 4,
+    "type": "latin",
+    "status": "draft",
+    "prompt": {
+      "uz": "Lotincha yozing: katta (ensa) teshik",
+      "ru": "Напишите по-латыни: большое затылочное отверстие"
+    },
+    "accepted": [
+      "foramen magnum"
+    ]
+  },
+  {
+    "id": "t04-027",
+    "topic": 4,
+    "type": "latin",
+    "status": "draft",
+    "prompt": {
+      "uz": "Lotincha yozing: xo‘roz toji",
+      "ru": "Напишите по-латыни: петушиный гребень"
+    },
+    "accepted": [
+      "crista galli"
+    ]
+  },
+  {
+    "id": "t04-028",
+    "topic": 4,
+    "type": "matching",
+    "status": "draft",
+    "prompt": {
+      "uz": "Tuzilma va suyakni moslang",
+      "ru": "Сопоставьте образование и кость"
+    },
+    "pairs": [
+      {
+        "left": "glabella",
+        "right": "os frontale"
+      },
+      {
+        "left": "tuber parietale",
+        "right": "os parietale"
+      },
+      {
+        "left": "condylus occipitalis",
+        "right": "os occipitale"
+      },
+      {
+        "left": "lamina cribrosa",
+        "right": "os ethmoidale"
+      }
+    ]
+  },
+  {
+    "id": "t04-029",
+    "topic": 4,
+    "type": "matching",
+    "status": "draft",
+    "prompt": {
+      "uz": "Tepa suyagining qirrasi va u birikadigan suyakni moslang",
+      "ru": "Сопоставьте край теменной кости и кость, с которой он соединяется"
+    },
+    "pairs": [
+      {
+        "left": "margo frontalis",
+        "right": "os frontale"
+      },
+      {
+        "left": "margo occipitalis",
+        "right": "os occipitale"
+      },
+      {
+        "left": "margo squamosus",
+        "right": "os temporale"
+      },
+      {
+        "left": "margo sagittalis",
+        "right": {
+          "uz": "qarama-qarshi tepa suyagi",
+          "ru": "противоположная теменная кость"
+        }
+      }
+    ]
+  },
+  {
+    "id": "t04-030",
+    "topic": 4,
+    "type": "matching",
+    "status": "draft",
+    "prompt": {
+      "uz": "G‘alvirsimon suyak qismi va vazifasini moslang",
+      "ru": "Сопоставьте часть решётчатой кости и её роль"
+    },
+    "pairs": [
+      {
+        "left": "lamina cribrosa",
+        "right": {
+          "uz": "burun bo‘shlig‘i tomi",
+          "ru": "крыша полости носа"
+        }
+      },
+      {
+        "left": "lamina perpendicularis",
+        "right": {
+          "uz": "burun to‘sig‘i",
+          "ru": "перегородка носа"
+        }
+      },
+      {
+        "left": "lamina orbitalis",
+        "right": {
+          "uz": "ko‘z kosasi medial devori",
+          "ru": "медиальная стенка глазницы"
+        }
+      }
+    ]
+  },
+  {
+    "id": "t04-031",
+    "topic": 4,
+    "type": "ordering",
+    "status": "draft",
+    "prompt": {
+      "uz": "Kalla gumbazi suyaklarini oldindan orqaga tartiblang",
+      "ru": "Расположите кости свода черепа спереди назад"
+    },
+    "items": [
+      "os frontale",
+      "os parietale",
+      "os occipitale"
+    ]
+  },
+  {
+    "id": "t04-032",
+    "topic": 4,
+    "type": "ordering",
+    "status": "draft",
+    "prompt": {
+      "uz": "Ensa suyagi qismlarini katta teshikka nisbatan oldindan orqaga tartiblang",
+      "ru": "Расположите части затылочной кости относительно большого отверстия спереди назад"
+    },
+    "items": [
+      "pars basilaris",
+      "partes laterales",
+      "squama occipitalis"
+    ]
+  },
+  {
+    "id": "t04-033",
+    "topic": 4,
+    "type": "cloze",
+    "status": "draft",
+    "prompt": {
+      "uz": "Lotincha atamalarni yozing",
+      "ru": "Впишите латинские термины"
+    },
+    "text": {
+      "uz": "Peshona suyagi pallasining ostida ko‘z kosasi usti qirrasida {{1}} yoki teshik bor; undan nerv va tomirlar o‘tadi.",
+      "ru": "На надглазничном крае лобной кости имеется надглазничная {{1}} (или отверстие) для нерва и сосудов."
+    },
+    "blanks": [
+      [
+        "incisura supraorbitalis",
+        "foramen supraorbitale"
+      ]
+    ]
+  },
+  {
+    "id": "t04-034",
+    "topic": 4,
+    "type": "cloze",
+    "status": "draft",
+    "prompt": {
+      "uz": "Lotincha atamalarni yozing",
+      "ru": "Впишите латинские термины"
+    },
+    "text": {
+      "uz": "Ensa suyagi tashqi yuzasida katta teshik yonida {{1}} joylashgan; ular {{2}} bilan bo‘g‘im hosil qiladi.",
+      "ru": "На наружной поверхности затылочной кости по бокам от большого отверстия лежат {{1}}, сочленяющиеся с {{2}}."
+    },
+    "blanks": [
+      [
+        "condyli occipitales",
+        "condylus occipitalis"
+      ],
+      [
+        "atlas"
+      ]
+    ]
+  },
+  {
+    "id": "t04-035",
+    "topic": 4,
+    "type": "cloze",
+    "status": "draft",
+    "prompt": {
+      "uz": "Lotincha atamalarni yozing",
+      "ru": "Впишите латинские термины"
+    },
+    "text": {
+      "uz": "G‘alvirsimon suyakning gorizontal plastinkasi {{1}}, vertikal plastinkasi {{2}} deyiladi.",
+      "ru": "Горизонтальная пластинка решётчатой кости — {{1}}, вертикальная — {{2}}."
+    },
+    "blanks": [
+      [
+        "lamina cribrosa"
+      ],
+      [
+        "lamina perpendicularis"
+      ]
+    ]
+  },
+  {
+    "id": "t04-036",
+    "topic": 4,
+    "type": "hotspot",
+    "status": "draft",
+    "prompt": {
+      "uz": "Katta (ensa) teshikni toping",
+      "ru": "Найдите большое затылочное отверстие"
+    },
+    "explanation": {
+      "uz": "Foramen magnum.",
+      "ru": "Foramen magnum."
+    },
+    "image": "gray129-occipital",
+    "zones": [
+      {
+        "id": "fm",
+        "kind": "circle",
+        "cx": 50,
+        "cy": 67.1,
+        "r": 12
+      }
+    ],
+    "correct": [
+      "fm"
+    ]
+  },
+  {
+    "id": "t04-037",
+    "topic": 4,
+    "type": "hotspot",
+    "status": "draft",
+    "prompt": {
+      "uz": "Ensa do‘ngini toping",
+      "ru": "Найдите затылочный мыщелок"
+    },
+    "explanation": {
+      "uz": "Condylus occipitalis — o‘ng yoki chap.",
+      "ru": "Condylus occipitalis — правый или левый."
+    },
+    "image": "gray129-occipital",
+    "zones": [
+      {
+        "id": "cl",
+        "kind": "polygon",
+        "points": [
+          [
+            32.4,
+            60.9
+          ],
+          [
+            41.5,
+            62.4
+          ],
+          [
+            42.2,
+            77.9
+          ],
+          [
+            34.5,
+            78.4
+          ],
+          [
+            31.3,
+            69.6
+          ]
+        ]
+      },
+      {
+        "id": "cr",
+        "kind": "polygon",
+        "points": [
+          [
+            60,
+            61.4
+          ],
+          [
+            66.9,
+            60.1
+          ],
+          [
+            69.1,
+            71.8
+          ],
+          [
+            64,
+            77.9
+          ],
+          [
+            59.1,
+            71.8
+          ]
+        ]
+      }
+    ],
+    "correct": [
+      "cl",
+      "cr"
+    ]
+  },
+  {
+    "id": "t04-038",
+    "topic": 4,
+    "type": "hotspot",
+    "status": "draft",
+    "prompt": {
+      "uz": "Peshona suyagida glabellani toping",
+      "ru": "Найдите на лобной кости глабеллу"
+    },
+    "explanation": {
+      "uz": "Glabella.",
+      "ru": "Glabella."
+    },
+    "image": "gray134-frontal",
+    "zones": [
+      {
+        "id": "gl",
+        "kind": "circle",
+        "cx": 49.2,
+        "cy": 72,
+        "r": 4.6
+      }
+    ],
+    "correct": [
+      "gl"
+    ]
+  },
+  {
+    "id": "t04-039",
+    "topic": 4,
+    "type": "labels",
+    "status": "draft",
+    "prompt": {
+      "uz": "Ensa suyagi tuzilmalarini belgilang",
+      "ru": "Подпишите образования затылочной кости"
+    },
+    "image": "gray129-occipital",
+    "targets": [
+      {
+        "id": "fm",
+        "x": 50,
+        "y": 67.1,
+        "label": "foramen magnum"
+      },
+      {
+        "id": "poe",
+        "x": 51.5,
+        "y": 18,
+        "label": "protuberantia occipitalis externa"
+      },
+      {
+        "id": "co",
+        "x": 36.4,
+        "y": 69,
+        "label": "condylus occipitalis"
+      },
+      {
+        "id": "pb",
+        "x": 56.4,
+        "y": 88.8,
+        "label": "pars basilaris"
+      },
+      {
+        "id": "lns",
+        "x": 29.1,
+        "y": 24.6,
+        "label": "linea nuchae superior"
+      }
+    ],
+    "distractors": [
+      "crista galli"
+    ]
+  },
+  {
+    "id": "t04-040",
+    "topic": 4,
+    "type": "labels",
+    "status": "draft",
+    "prompt": {
+      "uz": "Peshona suyagi tuzilmalarini belgilang",
+      "ru": "Подпишите образования лобной кости"
+    },
+    "image": "gray134-frontal",
+    "targets": [
+      {
+        "id": "tf",
+        "x": 67.6,
+        "y": 47,
+        "label": "tuber frontale"
+      },
+      {
+        "id": "gl",
+        "x": 49.2,
+        "y": 72,
+        "label": "glabella"
+      },
+      {
+        "id": "pz",
+        "x": 87.8,
+        "y": 84,
+        "label": "processus zygomaticus"
+      },
+      {
+        "id": "is",
+        "x": 58.9,
+        "y": 77,
+        "label": "incisura supraorbitalis"
+      },
+      {
+        "id": "sq",
+        "x": 50.2,
+        "y": 24,
+        "label": "squama frontalis"
+      }
+    ],
+    "distractors": [
+      "tuber parietale"
+    ]
+  }
+]

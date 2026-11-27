@@ -1,0 +1,1053 @@
+[
+  {
+    "id": "t06-001",
+    "topic": 6,
+    "type": "single",
+    "status": "draft",
+    "prompt": {
+      "uz": "Yuqori jag‘ suyagining nechta o‘simtasi bor?",
+      "ru": "Сколько отростков у верхней челюсти?"
+    },
+    "explanation": {
+      "uz": "Processus frontalis, zygomaticus, alveolaris, palatinus.",
+      "ru": "Processus frontalis, zygomaticus, alveolaris, palatinus."
+    },
+    "options": [
+      {
+        "id": "a",
+        "text": "2"
+      },
+      {
+        "id": "b",
+        "text": "3"
+      },
+      {
+        "id": "c",
+        "text": "4"
+      },
+      {
+        "id": "d",
+        "text": "5"
+      }
+    ],
+    "correct": "c"
+  },
+  {
+    "id": "t06-002",
+    "topic": 6,
+    "type": "single",
+    "status": "draft",
+    "prompt": {
+      "uz": "Yuqori jag‘ bo‘shlig‘i (Gaymor bo‘shlig‘i) qaysi burun yo‘liga ochiladi?",
+      "ru": "В какой носовой ход открывается верхнечелюстная (гайморова) пазуха?"
+    },
+    "options": [
+      {
+        "id": "a",
+        "text": "meatus nasi medius"
+      },
+      {
+        "id": "b",
+        "text": "meatus nasi superior"
+      },
+      {
+        "id": "c",
+        "text": "meatus nasi inferior"
+      },
+      {
+        "id": "d",
+        "text": "meatus nasopharyngeus"
+      }
+    ],
+    "correct": "a"
+  },
+  {
+    "id": "t06-003",
+    "topic": 6,
+    "type": "single",
+    "status": "draft",
+    "prompt": {
+      "uz": "Pastki jag‘ning qaysi o‘simtasi chakka-pastki jag‘ bo‘g‘imini hosil qiladi?",
+      "ru": "Какой отросток нижней челюсти участвует в височно-нижнечелюстном суставе?"
+    },
+    "explanation": {
+      "uz": "Do‘ng o‘simta boshchasi (caput mandibulae) chakka suyagining pastki jag‘ chuqurchasi bilan bo‘g‘im hosil qiladi.",
+      "ru": "Головка мыщелкового отростка сочленяется с нижнечелюстной ямкой височной кости."
+    },
+    "options": [
+      {
+        "id": "a",
+        "text": "processus condylaris"
+      },
+      {
+        "id": "b",
+        "text": "processus coronoideus"
+      },
+      {
+        "id": "c",
+        "text": "processus alveolaris"
+      },
+      {
+        "id": "d",
+        "text": "processus mentalis"
+      }
+    ],
+    "correct": "a"
+  },
+  {
+    "id": "t06-004",
+    "topic": 6,
+    "type": "single",
+    "status": "draft",
+    "prompt": {
+      "uz": "Pastki jag‘ teshigi (foramen mandibulae) qayerda joylashgan?",
+      "ru": "Где находится отверстие нижней челюсти?"
+    },
+    "explanation": {
+      "uz": "Undan pastki alveolyar nerv va tomirlar pastki jag‘ kanaliga kiradi.",
+      "ru": "Через него в канал нижней челюсти входят нижние альвеолярные нерв и сосуды."
+    },
+    "options": [
+      {
+        "id": "a",
+        "text": {
+          "uz": "shox ichki yuzasida",
+          "ru": "на внутренней поверхности ветви"
+        }
+      },
+      {
+        "id": "b",
+        "text": {
+          "uz": "tana tashqi yuzasida",
+          "ru": "на наружной поверхности тела"
+        }
+      },
+      {
+        "id": "c",
+        "text": {
+          "uz": "engak do‘mbog‘ida",
+          "ru": "на подбородочном выступе"
+        }
+      },
+      {
+        "id": "d",
+        "text": {
+          "uz": "tojsimon o‘simtada",
+          "ru": "на венечном отростке"
+        }
+      }
+    ],
+    "correct": "a"
+  },
+  {
+    "id": "t06-005",
+    "topic": 6,
+    "type": "single",
+    "status": "draft",
+    "prompt": {
+      "uz": "Ko‘z yoshi xaltasi chuqurchasi qaysi suyaklar tomonidan hosil qilinadi?",
+      "ru": "Какие кости образуют ямку слёзного мешка?"
+    },
+    "options": [
+      {
+        "id": "a",
+        "text": {
+          "uz": "ko‘z yoshi suyagi va yuqori jag‘ning peshona o‘simtasi",
+          "ru": "слёзная кость и лобный отросток верхней челюсти"
+        }
+      },
+      {
+        "id": "b",
+        "text": {
+          "uz": "burun va yonoq suyaklari",
+          "ru": "носовая и скуловая кости"
+        }
+      },
+      {
+        "id": "c",
+        "text": {
+          "uz": "tanglay va g‘alvirsimon suyaklar",
+          "ru": "нёбная и решётчатая кости"
+        }
+      },
+      {
+        "id": "d",
+        "text": {
+          "uz": "peshona va burun suyaklari",
+          "ru": "лобная и носовая кости"
+        }
+      }
+    ],
+    "correct": "a"
+  },
+  {
+    "id": "t06-006",
+    "topic": 6,
+    "type": "single",
+    "status": "draft",
+    "prompt": {
+      "uz": "Qattiq tanglayning orqa qismini qaysi suyak hosil qiladi?",
+      "ru": "Какая кость образует заднюю часть твёрдого нёба?"
+    },
+    "options": [
+      {
+        "id": "a",
+        "text": "os palatinum (lamina horizontalis)"
+      },
+      {
+        "id": "b",
+        "text": "maxilla (processus palatinus)"
+      },
+      {
+        "id": "c",
+        "text": "vomer"
+      },
+      {
+        "id": "d",
+        "text": "os sphenoidale"
+      }
+    ],
+    "correct": "a"
+  },
+  {
+    "id": "t06-007",
+    "topic": 6,
+    "type": "single",
+    "status": "draft",
+    "prompt": {
+      "uz": "Burun to‘sig‘ining pastki-orqa qismini qaysi suyak hosil qiladi?",
+      "ru": "Какая кость образует задненижнюю часть перегородки носа?"
+    },
+    "options": [
+      {
+        "id": "a",
+        "text": "vomer"
+      },
+      {
+        "id": "b",
+        "text": "os nasale"
+      },
+      {
+        "id": "c",
+        "text": "concha nasalis inferior"
+      },
+      {
+        "id": "d",
+        "text": "os lacrimale"
+      }
+    ],
+    "correct": "a"
+  },
+  {
+    "id": "t06-008",
+    "topic": 6,
+    "type": "single",
+    "status": "draft",
+    "prompt": {
+      "uz": "Kalla suyaklari bilan birikmagan, mushaklar va boylamlar orqali osilib turadigan suyak qaysi?",
+      "ru": "Какая кость не соединяется с другими костями черепа и подвешена на мышцах и связках?"
+    },
+    "options": [
+      {
+        "id": "a",
+        "text": "os hyoideum"
+      },
+      {
+        "id": "b",
+        "text": "vomer"
+      },
+      {
+        "id": "c",
+        "text": "os lacrimale"
+      },
+      {
+        "id": "d",
+        "text": "concha nasalis inferior"
+      }
+    ],
+    "correct": "a"
+  },
+  {
+    "id": "t06-009",
+    "topic": 6,
+    "type": "single",
+    "status": "draft",
+    "prompt": {
+      "uz": "Engak teshigi (foramen mentale) qaysi tishlar sohasida joylashgan?",
+      "ru": "На уровне каких зубов находится подбородочное отверстие?"
+    },
+    "options": [
+      {
+        "id": "a",
+        "text": {
+          "uz": "1–2-kichik oziq tishlar",
+          "ru": "1–2-го малых коренных"
+        }
+      },
+      {
+        "id": "b",
+        "text": {
+          "uz": "kurak tishlar",
+          "ru": "резцов"
+        }
+      },
+      {
+        "id": "c",
+        "text": {
+          "uz": "3-katta oziq tish",
+          "ru": "3-го большого коренного"
+        }
+      },
+      {
+        "id": "d",
+        "text": {
+          "uz": "qoziq tish",
+          "ru": "клыка"
+        }
+      }
+    ],
+    "correct": "a"
+  },
+  {
+    "id": "t06-010",
+    "topic": 6,
+    "type": "single",
+    "status": "draft",
+    "prompt": {
+      "uz": "Yonoq suyagi nechta suyak bilan birikadi?",
+      "ru": "Со сколькими костями соединяется скуловая кость?"
+    },
+    "explanation": {
+      "uz": "Peshona, chakka, yuqori jag‘ va ponasimon suyaklar bilan.",
+      "ru": "С лобной, височной, верхнечелюстной и клиновидной."
+    },
+    "options": [
+      {
+        "id": "a",
+        "text": "2"
+      },
+      {
+        "id": "b",
+        "text": "3"
+      },
+      {
+        "id": "c",
+        "text": "4"
+      },
+      {
+        "id": "d",
+        "text": "6"
+      }
+    ],
+    "correct": "c"
+  },
+  {
+    "id": "t06-011",
+    "topic": 6,
+    "type": "multi",
+    "status": "draft",
+    "prompt": {
+      "uz": "Kallaning yuz qismining juft suyaklari",
+      "ru": "Парные кости лицевого черепа"
+    },
+    "explanation": {
+      "uz": "Juft: yuqori jag‘, yonoq, burun, ko‘z yoshi, tanglay suyaklari, pastki burun chig‘anog‘i. Toq: pastki jag‘, dimog‘ suyagi, til osti suyagi.",
+      "ru": "Парные: верхняя челюсть, скуловая, носовая, слёзная, нёбная, нижняя носовая раковина. Непарные: нижняя челюсть, сошник, подъязычная."
+    },
+    "options": [
+      {
+        "id": "a",
+        "text": "maxilla"
+      },
+      {
+        "id": "b",
+        "text": "os zygomaticum"
+      },
+      {
+        "id": "c",
+        "text": "os nasale"
+      },
+      {
+        "id": "d",
+        "text": "os lacrimale"
+      },
+      {
+        "id": "e",
+        "text": "os palatinum"
+      },
+      {
+        "id": "f",
+        "text": "vomer"
+      }
+    ],
+    "correct": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e"
+    ]
+  },
+  {
+    "id": "t06-012",
+    "topic": 6,
+    "type": "multi",
+    "status": "draft",
+    "prompt": {
+      "uz": "Pastki jag‘ shoxidagi tuzilmalar",
+      "ru": "Образования ветви нижней челюсти"
+    },
+    "explanation": {
+      "uz": "Foramen mentale — tana tashqi yuzasida.",
+      "ru": "Foramen mentale — на наружной поверхности тела."
+    },
+    "options": [
+      {
+        "id": "a",
+        "text": "processus coronoideus"
+      },
+      {
+        "id": "b",
+        "text": "processus condylaris"
+      },
+      {
+        "id": "c",
+        "text": "incisura mandibulae"
+      },
+      {
+        "id": "d",
+        "text": "foramen mandibulae"
+      },
+      {
+        "id": "e",
+        "text": "foramen mentale"
+      }
+    ],
+    "correct": [
+      "a",
+      "b",
+      "c",
+      "d"
+    ]
+  },
+  {
+    "id": "t06-013",
+    "topic": 6,
+    "type": "multi",
+    "status": "draft",
+    "prompt": {
+      "uz": "Til osti suyagining qismlari",
+      "ru": "Части подъязычной кости"
+    },
+    "options": [
+      {
+        "id": "a",
+        "text": "corpus"
+      },
+      {
+        "id": "b",
+        "text": "cornua majora"
+      },
+      {
+        "id": "c",
+        "text": "cornua minora"
+      },
+      {
+        "id": "d",
+        "text": "ramus"
+      }
+    ],
+    "correct": [
+      "a",
+      "b",
+      "c"
+    ]
+  },
+  {
+    "id": "t06-014",
+    "topic": 6,
+    "type": "multi",
+    "status": "draft",
+    "prompt": {
+      "uz": "Yuqori jag‘ tanasining yuzalari",
+      "ru": "Поверхности тела верхней челюсти"
+    },
+    "options": [
+      {
+        "id": "a",
+        "text": "facies anterior"
+      },
+      {
+        "id": "b",
+        "text": "facies orbitalis"
+      },
+      {
+        "id": "c",
+        "text": "facies infratemporalis"
+      },
+      {
+        "id": "d",
+        "text": "facies nasalis"
+      },
+      {
+        "id": "e",
+        "text": "facies temporalis"
+      }
+    ],
+    "correct": [
+      "a",
+      "b",
+      "c",
+      "d"
+    ]
+  },
+  {
+    "id": "t06-015",
+    "topic": 6,
+    "type": "multi",
+    "status": "draft",
+    "prompt": {
+      "uz": "Tanglay suyagining plastinkalari",
+      "ru": "Пластинки нёбной кости"
+    },
+    "options": [
+      {
+        "id": "a",
+        "text": "lamina horizontalis"
+      },
+      {
+        "id": "b",
+        "text": "lamina perpendicularis"
+      },
+      {
+        "id": "c",
+        "text": "lamina cribrosa"
+      },
+      {
+        "id": "d",
+        "text": "lamina orbitalis"
+      }
+    ],
+    "correct": [
+      "a",
+      "b"
+    ]
+  },
+  {
+    "id": "t06-016",
+    "topic": 6,
+    "type": "truefalse",
+    "status": "draft",
+    "prompt": {
+      "uz": "Pastki jag‘ — kalla suyaklari orasida yagona harakatchan suyak.",
+      "ru": "Нижняя челюсть — единственная подвижная кость черепа."
+    },
+    "correct": true
+  },
+  {
+    "id": "t06-017",
+    "topic": 6,
+    "type": "truefalse",
+    "status": "draft",
+    "prompt": {
+      "uz": "Pastki burun chig‘anog‘i g‘alvirsimon suyakning bir qismi.",
+      "ru": "Нижняя носовая раковина — часть решётчатой кости."
+    },
+    "explanation": {
+      "uz": "Noto‘g‘ri: mustaqil suyak; yuqori va o‘rta chig‘anoqlar — g‘alvirsimon suyakda.",
+      "ru": "Неверно: самостоятельная кость; верхняя и средняя раковины — на решётчатой."
+    },
+    "correct": false
+  },
+  {
+    "id": "t06-018",
+    "topic": 6,
+    "type": "truefalse",
+    "status": "draft",
+    "prompt": {
+      "uz": "Ko‘z kosasi osti teshigi yuqori jag‘ning oldingi yuzasida joylashgan.",
+      "ru": "Подглазничное отверстие находится на передней поверхности верхней челюсти."
+    },
+    "correct": true
+  },
+  {
+    "id": "t06-019",
+    "topic": 6,
+    "type": "truefalse",
+    "status": "draft",
+    "prompt": {
+      "uz": "Dimog‘ suyagi (vomer) juft suyak.",
+      "ru": "Сошник — парная кость."
+    },
+    "correct": false
+  },
+  {
+    "id": "t06-020",
+    "topic": 6,
+    "type": "truefalse",
+    "status": "draft",
+    "prompt": {
+      "uz": "Yuqori jag‘ning tanglay o‘simtalari qattiq tanglayning oldingi 2/3 qismini hosil qiladi.",
+      "ru": "Нёбные отростки верхней челюсти образуют передние 2/3 твёрдого нёба."
+    },
+    "correct": true
+  },
+  {
+    "id": "t06-021",
+    "topic": 6,
+    "type": "truefalse",
+    "status": "draft",
+    "prompt": {
+      "uz": "Pastki jag‘ burchagiga chaynov mushagi birikadi.",
+      "ru": "К углу нижней челюсти прикрепляется жевательная мышца."
+    },
+    "explanation": {
+      "uz": "To‘g‘ri: tashqi tomondan m. masseter (tuberositas masseterica), ichkaridan m. pterygoideus medialis.",
+      "ru": "Верно: снаружи m. masseter (жевательная бугристость), изнутри m. pterygoideus medialis."
+    },
+    "correct": true
+  },
+  {
+    "id": "t06-022",
+    "topic": 6,
+    "type": "latin",
+    "status": "draft",
+    "prompt": {
+      "uz": "Lotincha yozing: yuqori jag‘",
+      "ru": "Напишите по-латыни: верхняя челюсть"
+    },
+    "accepted": [
+      "maxilla"
+    ]
+  },
+  {
+    "id": "t06-023",
+    "topic": 6,
+    "type": "latin",
+    "status": "draft",
+    "prompt": {
+      "uz": "Lotincha yozing: pastki jag‘",
+      "ru": "Напишите по-латыни: нижняя челюсть"
+    },
+    "accepted": [
+      "mandibula"
+    ]
+  },
+  {
+    "id": "t06-024",
+    "topic": 6,
+    "type": "latin",
+    "status": "draft",
+    "prompt": {
+      "uz": "Lotincha yozing: yonoq suyagi",
+      "ru": "Напишите по-латыни: скуловая кость"
+    },
+    "accepted": [
+      "os zygomaticum"
+    ]
+  },
+  {
+    "id": "t06-025",
+    "topic": 6,
+    "type": "latin",
+    "status": "draft",
+    "prompt": {
+      "uz": "Lotincha yozing: til osti suyagi",
+      "ru": "Напишите по-латыни: подъязычная кость"
+    },
+    "accepted": [
+      "os hyoideum"
+    ]
+  },
+  {
+    "id": "t06-026",
+    "topic": 6,
+    "type": "latin",
+    "status": "draft",
+    "prompt": {
+      "uz": "Lotincha yozing: dimog‘ suyagi",
+      "ru": "Напишите по-латыни: сошник"
+    },
+    "accepted": [
+      "vomer"
+    ]
+  },
+  {
+    "id": "t06-027",
+    "topic": 6,
+    "type": "latin",
+    "status": "draft",
+    "prompt": {
+      "uz": "Lotincha yozing: engak teshigi",
+      "ru": "Напишите по-латыни: подбородочное отверстие"
+    },
+    "accepted": [
+      "foramen mentale"
+    ]
+  },
+  {
+    "id": "t06-028",
+    "topic": 6,
+    "type": "matching",
+    "status": "draft",
+    "prompt": {
+      "uz": "Suyak va tuzilmani moslang",
+      "ru": "Сопоставьте кость и образование"
+    },
+    "pairs": [
+      {
+        "left": "maxilla",
+        "right": "foramen infraorbitale"
+      },
+      {
+        "left": "mandibula",
+        "right": "foramen mentale"
+      },
+      {
+        "left": "os lacrimale",
+        "right": "fossa sacci lacrimalis"
+      },
+      {
+        "left": "os hyoideum",
+        "right": "cornua majora"
+      },
+      {
+        "left": "os palatinum",
+        "right": "lamina horizontalis"
+      }
+    ]
+  },
+  {
+    "id": "t06-029",
+    "topic": 6,
+    "type": "matching",
+    "status": "draft",
+    "prompt": {
+      "uz": "Yuqori jag‘ o‘simtasi va u birikadigan suyakni moslang",
+      "ru": "Сопоставьте отросток верхней челюсти и кость, с которой он соединяется"
+    },
+    "pairs": [
+      {
+        "left": "processus frontalis",
+        "right": "os frontale"
+      },
+      {
+        "left": "processus zygomaticus",
+        "right": "os zygomaticum"
+      },
+      {
+        "left": "processus palatinus",
+        "right": {
+          "uz": "qarama-qarshi yuqori jag‘",
+          "ru": "противоположная верхняя челюсть"
+        }
+      }
+    ]
+  },
+  {
+    "id": "t06-030",
+    "topic": 6,
+    "type": "matching",
+    "status": "draft",
+    "prompt": {
+      "uz": "Teshik va undan o‘tadigan nervni moslang",
+      "ru": "Сопоставьте отверстие и выходящий нерв"
+    },
+    "pairs": [
+      {
+        "left": "foramen infraorbitale",
+        "right": "n. infraorbitalis"
+      },
+      {
+        "left": "foramen mentale",
+        "right": "n. mentalis"
+      },
+      {
+        "left": "foramen mandibulae",
+        "right": "n. alveolaris inferior"
+      }
+    ]
+  },
+  {
+    "id": "t06-031",
+    "topic": 6,
+    "type": "ordering",
+    "status": "draft",
+    "prompt": {
+      "uz": "Pastki jag‘ tuzilmalarini engakdan bo‘g‘imgacha tartiblang",
+      "ru": "Расположите образования нижней челюсти от подбородка к суставу"
+    },
+    "items": [
+      "protuberantia mentalis",
+      "foramen mentale",
+      "angulus mandibulae",
+      "processus condylaris"
+    ]
+  },
+  {
+    "id": "t06-032",
+    "topic": 6,
+    "type": "ordering",
+    "status": "draft",
+    "prompt": {
+      "uz": "Qattiq tanglay tarkibini oldindan orqaga tartiblang",
+      "ru": "Расположите составные части твёрдого нёба спереди назад"
+    },
+    "items": [
+      "foramen incisivum",
+      "processus palatinus maxillae",
+      "lamina horizontalis ossis palatini"
+    ]
+  },
+  {
+    "id": "t06-033",
+    "topic": 6,
+    "type": "cloze",
+    "status": "draft",
+    "prompt": {
+      "uz": "Lotincha atamalarni yozing",
+      "ru": "Впишите латинские термины"
+    },
+    "text": {
+      "uz": "Pastki jag‘ning shoxida oldinda {{1}}, orqada {{2}} o‘simta bor; ular orasida pastki jag‘ o‘ymasi joylashgan.",
+      "ru": "На ветви нижней челюсти спереди {{1}}, сзади {{2}} отросток; между ними вырезка нижней челюсти."
+    },
+    "blanks": [
+      [
+        "processus coronoideus",
+        "coronoideus"
+      ],
+      [
+        "processus condylaris",
+        "condylaris"
+      ]
+    ]
+  },
+  {
+    "id": "t06-034",
+    "topic": 6,
+    "type": "cloze",
+    "status": "draft",
+    "prompt": {
+      "uz": "Lotincha atamalarni yozing",
+      "ru": "Впишите латинские термины"
+    },
+    "text": {
+      "uz": "Yuqori jag‘ tanasidagi havo bo‘shlig‘i {{1}} deyiladi.",
+      "ru": "Воздухоносная пазуха тела верхней челюсти называется {{1}}."
+    },
+    "blanks": [
+      [
+        "sinus maxillaris"
+      ]
+    ]
+  },
+  {
+    "id": "t06-035",
+    "topic": 6,
+    "type": "cloze",
+    "status": "draft",
+    "prompt": {
+      "uz": "Lotincha atamalarni yozing",
+      "ru": "Впишите латинские термины"
+    },
+    "text": {
+      "uz": "Pastki jag‘ ichki yuzasida jag‘-til osti mushagi birikadigan {{1}} chiziq bor.",
+      "ru": "На внутренней поверхности нижней челюсти — {{1}} линия, место начала челюстно-подъязычной мышцы."
+    },
+    "blanks": [
+      [
+        "linea mylohyoidea",
+        "mylohyoidea"
+      ]
+    ]
+  },
+  {
+    "id": "t06-036",
+    "topic": 6,
+    "type": "hotspot",
+    "status": "draft",
+    "prompt": {
+      "uz": "Pastki jag‘ning tojsimon o‘simtasini toping",
+      "ru": "Найдите венечный отросток нижней челюсти"
+    },
+    "explanation": {
+      "uz": "Processus coronoideus — chakka mushagi birikadi.",
+      "ru": "Processus coronoideus — место прикрепления височной мышцы."
+    },
+    "image": "gray176-mandible",
+    "zones": [
+      {
+        "id": "cor",
+        "kind": "polygon",
+        "points": [
+          [
+            63,
+            7
+          ],
+          [
+            70,
+            7
+          ],
+          [
+            70.8,
+            27.9
+          ],
+          [
+            62,
+            27.9
+          ]
+        ]
+      }
+    ],
+    "correct": [
+      "cor"
+    ]
+  },
+  {
+    "id": "t06-037",
+    "topic": 6,
+    "type": "hotspot",
+    "status": "draft",
+    "prompt": {
+      "uz": "Engak teshigini toping",
+      "ru": "Найдите подбородочное отверстие"
+    },
+    "explanation": {
+      "uz": "Foramen mentale.",
+      "ru": "Foramen mentale."
+    },
+    "image": "gray176-mandible",
+    "zones": [
+      {
+        "id": "fm",
+        "kind": "circle",
+        "cx": 30.8,
+        "cy": 67.2,
+        "r": 2.7
+      }
+    ],
+    "correct": [
+      "fm"
+    ]
+  },
+  {
+    "id": "t06-038",
+    "topic": 6,
+    "type": "hotspot",
+    "status": "draft",
+    "prompt": {
+      "uz": "Ko‘z kosasi osti teshigini toping",
+      "ru": "Найдите подглазничное отверстие"
+    },
+    "explanation": {
+      "uz": "Foramen infraorbitale.",
+      "ru": "Foramen infraorbitale."
+    },
+    "image": "gray157-maxilla",
+    "zones": [
+      {
+        "id": "fio",
+        "kind": "circle",
+        "cx": 47.2,
+        "cy": 48.8,
+        "r": 3
+      }
+    ],
+    "correct": [
+      "fio"
+    ]
+  },
+  {
+    "id": "t06-039",
+    "topic": 6,
+    "type": "labels",
+    "status": "draft",
+    "prompt": {
+      "uz": "Pastki jag‘ tuzilmalarini belgilang",
+      "ru": "Подпишите образования нижней челюсти"
+    },
+    "image": "gray176-mandible",
+    "targets": [
+      {
+        "id": "pc",
+        "x": 66.3,
+        "y": 12.4,
+        "label": "processus coronoideus"
+      },
+      {
+        "id": "pcd",
+        "x": 92.5,
+        "y": 14.9,
+        "label": "processus condylaris"
+      },
+      {
+        "id": "am",
+        "x": 84.2,
+        "y": 85.8,
+        "label": "angulus mandibulae"
+      },
+      {
+        "id": "fm",
+        "x": 30.8,
+        "y": 67.2,
+        "label": "foramen mentale"
+      },
+      {
+        "id": "cm",
+        "x": 40,
+        "y": 78.4,
+        "label": "corpus mandibulae"
+      }
+    ],
+    "distractors": [
+      "processus mastoideus"
+    ]
+  },
+  {
+    "id": "t06-040",
+    "topic": 6,
+    "type": "labels",
+    "status": "draft",
+    "prompt": {
+      "uz": "Yuqori jag‘ tuzilmalarini belgilang",
+      "ru": "Подпишите образования верхней челюсти"
+    },
+    "image": "gray157-maxilla",
+    "targets": [
+      {
+        "id": "pf",
+        "x": 35.8,
+        "y": 13.8,
+        "label": "processus frontalis"
+      },
+      {
+        "id": "fo",
+        "x": 55,
+        "y": 31.1,
+        "label": "facies orbitalis"
+      },
+      {
+        "id": "fio",
+        "x": 47.2,
+        "y": 48.8,
+        "label": "foramen infraorbitale"
+      },
+      {
+        "id": "pa",
+        "x": 58.3,
+        "y": 79.5,
+        "label": "processus alveolaris"
+      },
+      {
+        "id": "tm",
+        "x": 74.2,
+        "y": 69.1,
+        "label": "tuber maxillae"
+      }
+    ],
+    "distractors": [
+      "foramen mentale"
+    ]
+  }
+]

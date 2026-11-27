@@ -12,10 +12,30 @@
     "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
     "changes": "Подписи закрыты масками в приложении",
     "masks": [
-      { "x": 0, "y": 0, "w": 30, "h": 23.5 },
-      { "x": 0, "y": 23.5, "w": 46, "h": 40 },
-      { "x": 0, "y": 63.5, "w": 36, "h": 32.5 },
-      { "x": 0, "y": 96, "w": 44, "h": 4 }
+      {
+        "x": 0,
+        "y": 0,
+        "w": 30,
+        "h": 23.5
+      },
+      {
+        "x": 0,
+        "y": 23.5,
+        "w": 46,
+        "h": 40
+      },
+      {
+        "x": 0,
+        "y": 63.5,
+        "w": 36,
+        "h": 32.5
+      },
+      {
+        "x": 0,
+        "y": 96,
+        "w": 44,
+        "h": 4
+      }
     ]
   },
   {
@@ -31,11 +51,36 @@
     "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
     "changes": "Подписи закрыты масками в приложении",
     "masks": [
-      { "x": 44, "y": 21, "w": 13, "h": 7 },
-      { "x": 7, "y": 29, "w": 19, "h": 6 },
-      { "x": 0, "y": 37, "w": 26, "h": 12 },
-      { "x": 17, "y": 80, "w": 15, "h": 8 },
-      { "x": 63, "y": 81, "w": 37, "h": 9 }
+      {
+        "x": 44,
+        "y": 21,
+        "w": 13,
+        "h": 7
+      },
+      {
+        "x": 7,
+        "y": 29,
+        "w": 19,
+        "h": 6
+      },
+      {
+        "x": 0,
+        "y": 37,
+        "w": 26,
+        "h": 12
+      },
+      {
+        "x": 17,
+        "y": 80,
+        "w": 15,
+        "h": 8
+      },
+      {
+        "x": 63,
+        "y": 81,
+        "w": 37,
+        "h": 9
+      }
     ]
   },
   {
@@ -51,15 +96,60 @@
     "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
     "changes": "Подписи закрыты масками в приложении",
     "masks": [
-      { "x": 0, "y": 0, "w": 30, "h": 13.5 },
-      { "x": 0, "y": 13, "w": 26.5, "h": 13.5 },
-      { "x": 0, "y": 25.5, "w": 24.5, "h": 13 },
-      { "x": 45.5, "y": 14.5, "w": 8, "h": 8 },
-      { "x": 73.5, "y": 9.5, "w": 24, "h": 8 },
-      { "x": 62.5, "y": 23.5, "w": 8, "h": 9 },
-      { "x": 79, "y": 37, "w": 21, "h": 23.5 },
-      { "x": 53, "y": 50, "w": 8.5, "h": 14 },
-      { "x": 45, "y": 88, "w": 12, "h": 12 }
+      {
+        "x": 0,
+        "y": 0,
+        "w": 30,
+        "h": 13.5
+      },
+      {
+        "x": 0,
+        "y": 13,
+        "w": 26.5,
+        "h": 13.5
+      },
+      {
+        "x": 0,
+        "y": 25.5,
+        "w": 24.5,
+        "h": 13
+      },
+      {
+        "x": 45.5,
+        "y": 14.5,
+        "w": 8,
+        "h": 8
+      },
+      {
+        "x": 73.5,
+        "y": 9.5,
+        "w": 24,
+        "h": 8
+      },
+      {
+        "x": 62.5,
+        "y": 23.5,
+        "w": 8,
+        "h": 9
+      },
+      {
+        "x": 79,
+        "y": 37,
+        "w": 21,
+        "h": 23.5
+      },
+      {
+        "x": 53,
+        "y": 50,
+        "w": 8.5,
+        "h": 14
+      },
+      {
+        "x": 45,
+        "y": 88,
+        "w": 12,
+        "h": 12
+      }
     ]
   },
   {
@@ -75,16 +165,66 @@
     "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
     "changes": "Подписи закрыты масками в приложении",
     "masks": [
-      { "x": 20, "y": 3, "w": 21, "h": 8 },
-      { "x": 40, "y": 11.5, "w": 11.5, "h": 7 },
-      { "x": 66, "y": 1, "w": 34, "h": 25.5 },
-      { "x": 54, "y": 35.5, "w": 13.5, "h": 11 },
-      { "x": 28, "y": 25, "w": 10.5, "h": 36 },
-      { "x": 0, "y": 33, "w": 13.5, "h": 17 },
-      { "x": 84, "y": 32, "w": 16, "h": 29 },
-      { "x": 68, "y": 64, "w": 32, "h": 14 },
-      { "x": 38.5, "y": 74, "w": 13, "h": 8.5 },
-      { "x": 22, "y": 91, "w": 21, "h": 9 }
+      {
+        "x": 20,
+        "y": 3,
+        "w": 21,
+        "h": 8
+      },
+      {
+        "x": 40,
+        "y": 11.5,
+        "w": 11.5,
+        "h": 7
+      },
+      {
+        "x": 66,
+        "y": 1,
+        "w": 34,
+        "h": 25.5
+      },
+      {
+        "x": 54,
+        "y": 35.5,
+        "w": 13.5,
+        "h": 11
+      },
+      {
+        "x": 28,
+        "y": 25,
+        "w": 10.5,
+        "h": 36
+      },
+      {
+        "x": 0,
+        "y": 33,
+        "w": 13.5,
+        "h": 17
+      },
+      {
+        "x": 84,
+        "y": 32,
+        "w": 16,
+        "h": 29
+      },
+      {
+        "x": 68,
+        "y": 64,
+        "w": 32,
+        "h": 14
+      },
+      {
+        "x": 38.5,
+        "y": 74,
+        "w": 13,
+        "h": 8.5
+      },
+      {
+        "x": 22,
+        "y": 91,
+        "w": 21,
+        "h": 9
+      }
     ]
   },
   {
@@ -100,13 +240,1480 @@
     "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
     "changes": "Подписи закрыты масками в приложении",
     "masks": [
-      { "x": 33, "y": 0, "w": 20, "h": 6 },
-      { "x": 47, "y": 6.5, "w": 30, "h": 7.5 },
-      { "x": 50.5, "y": 16, "w": 44, "h": 7.5 },
-      { "x": 63, "y": 22.5, "w": 32.5, "h": 9.5 },
-      { "x": 67, "y": 38.5, "w": 33, "h": 12 },
-      { "x": 25, "y": 39, "w": 14, "h": 7 },
-      { "x": 21, "y": 91.5, "w": 33.5, "h": 8.5 }
+      {
+        "x": 33,
+        "y": 0,
+        "w": 20,
+        "h": 6
+      },
+      {
+        "x": 47,
+        "y": 6.5,
+        "w": 30,
+        "h": 7.5
+      },
+      {
+        "x": 50.5,
+        "y": 16,
+        "w": 44,
+        "h": 7.5
+      },
+      {
+        "x": 63,
+        "y": 22.5,
+        "w": 32.5,
+        "h": 9.5
+      },
+      {
+        "x": 67,
+        "y": 38.5,
+        "w": 33,
+        "h": 12
+      },
+      {
+        "x": 25,
+        "y": 39,
+        "w": 14,
+        "h": 7
+      },
+      {
+        "x": 21,
+        "y": 91.5,
+        "w": 33.5,
+        "h": 8.5
+      }
+    ]
+  },
+  {
+    "id": "gray115-sternum",
+    "file": "img/gray115-sternum.png",
+    "width": 526,
+    "height": 650,
+    "title": "Anterior surface of sternum and costal cartilages (Gray's Anatomy, fig. 115)",
+    "author": "Henry Vandyke Carter",
+    "source": "Henry Gray, Anatomy of the Human Body, 1918 — Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gray115.png",
+    "license": "Public domain",
+    "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "changes": "Подписи, выдающие ответ, закрыты масками в приложении",
+    "masks": [
+      {
+        "x": 51,
+        "y": 6.5,
+        "w": 16,
+        "h": 8.2
+      },
+      {
+        "x": 54.8,
+        "y": 22.8,
+        "w": 11.8,
+        "h": 3.7
+      },
+      {
+        "x": 56.1,
+        "y": 31.5,
+        "w": 9.5,
+        "h": 8.8
+      },
+      {
+        "x": 53.6,
+        "y": 54.2,
+        "w": 11,
+        "h": 5.8
+      },
+      {
+        "x": 56.3,
+        "y": 1.5,
+        "w": 8.4,
+        "h": 4
+      }
+    ]
+  },
+  {
+    "id": "gray203-scapula",
+    "file": "img/gray203-scapula.png",
+    "width": 591,
+    "height": 850,
+    "title": "Left scapula, posterior surface (Gray's Anatomy, fig. 203)",
+    "author": "Henry Vandyke Carter",
+    "source": "Henry Gray, Anatomy of the Human Body, 1918 — Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gray203.png",
+    "license": "Public domain",
+    "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "changes": "Подписи, выдающие ответ, закрыты масками в приложении",
+    "masks": [
+      {
+        "x": 0.8,
+        "y": 7.6,
+        "w": 5.6,
+        "h": 13.5
+      },
+      {
+        "x": 31,
+        "y": 6.1,
+        "w": 11.3,
+        "h": 3.3
+      },
+      {
+        "x": 47,
+        "y": 9.4,
+        "w": 10.8,
+        "h": 5.6
+      },
+      {
+        "x": 57.5,
+        "y": 20,
+        "w": 14.9,
+        "h": 2.6
+      },
+      {
+        "x": 80.5,
+        "y": 15.1,
+        "w": 11.7,
+        "h": 3.5
+      },
+      {
+        "x": 56.9,
+        "y": 22.4,
+        "w": 29.4,
+        "h": 3.3
+      },
+      {
+        "x": 59.6,
+        "y": 46.6,
+        "w": 26.7,
+        "h": 3.3
+      },
+      {
+        "x": 18.6,
+        "y": 27.8,
+        "w": 5.9,
+        "h": 6.9
+      },
+      {
+        "x": 61.9,
+        "y": 95.3,
+        "w": 12.5,
+        "h": 3.5
+      },
+      {
+        "x": 94.8,
+        "y": 60.6,
+        "w": 5.2,
+        "h": 22.9
+      },
+      {
+        "x": 37.6,
+        "y": 68.8,
+        "w": 9.8,
+        "h": 23.5
+      }
+    ]
+  },
+  {
+    "id": "gray235-hipbone",
+    "file": "img/gray235-hipbone.png",
+    "width": 793,
+    "height": 911,
+    "title": "Right hip bone, external surface (Gray's Anatomy, fig. 235)",
+    "author": "Henry Vandyke Carter",
+    "source": "Henry Gray, Anatomy of the Human Body, 1918 — Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gray235.png",
+    "license": "Public domain",
+    "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "changes": "Подписи, выдающие ответ, закрыты масками в приложении",
+    "masks": [
+      {
+        "x": 21.7,
+        "y": 3.3,
+        "w": 14.9,
+        "h": 5.5
+      },
+      {
+        "x": 44.8,
+        "y": 7.5,
+        "w": 11.3,
+        "h": 4.2
+      },
+      {
+        "x": 73.1,
+        "y": 34.2,
+        "w": 13.2,
+        "h": 4
+      },
+      {
+        "x": 0,
+        "y": 40.8,
+        "w": 8.8,
+        "h": 6.9
+      },
+      {
+        "x": 0,
+        "y": 49.9,
+        "w": 8.8,
+        "h": 6
+      },
+      {
+        "x": 19.5,
+        "y": 50.5,
+        "w": 13.9,
+        "h": 3.5
+      },
+      {
+        "x": 28,
+        "y": 56.2,
+        "w": 5.8,
+        "h": 6.9
+      },
+      {
+        "x": 66.8,
+        "y": 47.9,
+        "w": 20.4,
+        "h": 2.6
+      },
+      {
+        "x": 39.3,
+        "y": 56.6,
+        "w": 12.4,
+        "h": 3.2
+      },
+      {
+        "x": 36.8,
+        "y": 60.4,
+        "w": 19.7,
+        "h": 6.6
+      },
+      {
+        "x": 31.5,
+        "y": 63.2,
+        "w": 6.6,
+        "h": 14.2
+      },
+      {
+        "x": 55,
+        "y": 61,
+        "w": 5.3,
+        "h": 9.8
+      },
+      {
+        "x": 60.3,
+        "y": 63.9,
+        "w": 7.8,
+        "h": 8
+      },
+      {
+        "x": 5.7,
+        "y": 69.8,
+        "w": 14.5,
+        "h": 2.4
+      },
+      {
+        "x": 44.4,
+        "y": 78.2,
+        "w": 11.7,
+        "h": 5.8
+      },
+      {
+        "x": 22.1,
+        "y": 79.6,
+        "w": 7.6,
+        "h": 19.8
+      },
+      {
+        "x": 37.3,
+        "y": 92.2,
+        "w": 23.8,
+        "h": 4.9
+      },
+      {
+        "x": 70,
+        "y": 76.6,
+        "w": 11.3,
+        "h": 8.5
+      },
+      {
+        "x": 75.2,
+        "y": 69.8,
+        "w": 7.4,
+        "h": 3.5
+      },
+      {
+        "x": 28,
+        "y": 72.4,
+        "w": 3.8,
+        "h": 5.5
+      }
+    ]
+  },
+  {
+    "id": "gray244-femur",
+    "file": "img/gray244-femur.png",
+    "width": 467,
+    "height": 1253,
+    "title": "Right femur, anterior surface (Gray's Anatomy, fig. 244)",
+    "author": "Henry Vandyke Carter",
+    "source": "Henry Gray, Anatomy of the Human Body, 1918 — Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gray244.png",
+    "license": "Public domain",
+    "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "changes": "Подписи, выдающие ответ, закрыты масками в приложении",
+    "masks": [
+      {
+        "x": 64.2,
+        "y": 2,
+        "w": 12.8,
+        "h": 3
+      },
+      {
+        "x": 62.5,
+        "y": 3.4,
+        "w": 12.8,
+        "h": 8.8
+      },
+      {
+        "x": 81.4,
+        "y": 1.2,
+        "w": 6.9,
+        "h": 6.8
+      },
+      {
+        "x": 50.5,
+        "y": 8,
+        "w": 12.6,
+        "h": 3.8
+      },
+      {
+        "x": 15,
+        "y": 6,
+        "w": 14.6,
+        "h": 8.8
+      },
+      {
+        "x": 35.3,
+        "y": 10.4,
+        "w": 18.2,
+        "h": 8.8
+      },
+      {
+        "x": 74.9,
+        "y": 15.6,
+        "w": 13.7,
+        "h": 1.8
+      },
+      {
+        "x": 36.4,
+        "y": 39.9,
+        "w": 8.6,
+        "h": 1.9
+      },
+      {
+        "x": 3.2,
+        "y": 84.2,
+        "w": 6.4,
+        "h": 10.8
+      },
+      {
+        "x": 78.2,
+        "y": 85.8,
+        "w": 12.8,
+        "h": 3.2
+      },
+      {
+        "x": 78.2,
+        "y": 90.2,
+        "w": 13.9,
+        "h": 3.2
+      },
+      {
+        "x": 38.5,
+        "y": 93,
+        "w": 22.5,
+        "h": 2.8
+      },
+      {
+        "x": 22.5,
+        "y": 95.1,
+        "w": 20.3,
+        "h": 3
+      },
+      {
+        "x": 47.1,
+        "y": 95.9,
+        "w": 19.3,
+        "h": 3
+      }
+    ]
+  },
+  {
+    "id": "gray129-occipital",
+    "file": "img/gray129-occipital.png",
+    "width": 550,
+    "height": 529,
+    "title": "Occipital bone, outer surface (Gray's Anatomy, fig. 129)",
+    "author": "Henry Vandyke Carter",
+    "source": "Henry Gray, Anatomy of the Human Body, 1918 — Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gray129.png",
+    "license": "Public domain",
+    "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "changes": "Подписи, выдающие ответ, закрыты масками в приложении",
+    "masks": [
+      {
+        "x": 45.5,
+        "y": 13.6,
+        "w": 11.8,
+        "h": 7.6
+      },
+      {
+        "x": 5.5,
+        "y": 10.6,
+        "w": 12.7,
+        "h": 6.8
+      },
+      {
+        "x": 16.7,
+        "y": 17.4,
+        "w": 23.3,
+        "h": 13.2
+      },
+      {
+        "x": 21.1,
+        "y": 33.3,
+        "w": 21.5,
+        "h": 9.8
+      },
+      {
+        "x": 44.7,
+        "y": 23.8,
+        "w": 6.9,
+        "h": 25
+      },
+      {
+        "x": 21.8,
+        "y": 53.3,
+        "w": 12.7,
+        "h": 4.9
+      },
+      {
+        "x": 40.4,
+        "y": 56,
+        "w": 18.7,
+        "h": 7.9
+      },
+      {
+        "x": 40.4,
+        "y": 64.7,
+        "w": 18.7,
+        "h": 7.6
+      },
+      {
+        "x": 32.7,
+        "y": 59,
+        "w": 8.7,
+        "h": 17
+      },
+      {
+        "x": 16.7,
+        "y": 68.4,
+        "w": 10.2,
+        "h": 7.6
+      },
+      {
+        "x": 13.1,
+        "y": 81.7,
+        "w": 21.1,
+        "h": 3.8
+      },
+      {
+        "x": 51.3,
+        "y": 90,
+        "w": 12,
+        "h": 4.9
+      }
+    ]
+  },
+  {
+    "id": "gray134-frontal",
+    "file": "img/gray134-frontal.png",
+    "width": 518,
+    "height": 500,
+    "title": "Frontal bone, outer surface (Gray's Anatomy, fig. 134)",
+    "author": "Henry Vandyke Carter",
+    "source": "Henry Gray, Anatomy of the Human Body, 1918 — Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gray134.png",
+    "license": "Public domain",
+    "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "changes": "Подписи, выдающие ответ, закрыты масками в приложении",
+    "masks": [
+      {
+        "x": 59.8,
+        "y": 42,
+        "w": 16.4,
+        "h": 10.4
+      },
+      {
+        "x": 47.5,
+        "y": 37,
+        "w": 6.2,
+        "h": 26
+      },
+      {
+        "x": 54.1,
+        "y": 62.4,
+        "w": 23.2,
+        "h": 7.2
+      },
+      {
+        "x": 44.8,
+        "y": 69.8,
+        "w": 10,
+        "h": 4.6
+      },
+      {
+        "x": 55.2,
+        "y": 75.4,
+        "w": 18.9,
+        "h": 7.4
+      },
+      {
+        "x": 63.7,
+        "y": 70.4,
+        "w": 23.2,
+        "h": 5.2
+      },
+      {
+        "x": 1,
+        "y": 33,
+        "w": 10.2,
+        "h": 35
+      },
+      {
+        "x": 62.9,
+        "y": 86.4,
+        "w": 12.4,
+        "h": 4
+      },
+      {
+        "x": 82.2,
+        "y": 87.4,
+        "w": 11.2,
+        "h": 7
+      },
+      {
+        "x": 39.6,
+        "y": 95.2,
+        "w": 19.3,
+        "h": 4.8
+      }
+    ]
+  },
+  {
+    "id": "gray145-sphenoid",
+    "file": "img/gray145-sphenoid.png",
+    "width": 724,
+    "height": 446,
+    "title": "Sphenoid bone, upper surface (Gray's Anatomy, fig. 145)",
+    "author": "Henry Vandyke Carter",
+    "source": "Henry Gray, Anatomy of the Human Body, 1918 — Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gray145.png",
+    "license": "Public domain",
+    "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "changes": "Подписи, выдающие ответ, закрыты масками в приложении",
+    "masks": [
+      {
+        "x": 19.3,
+        "y": 3.6,
+        "w": 20,
+        "h": 4.9
+      },
+      {
+        "x": 14.5,
+        "y": 8.3,
+        "w": 24.9,
+        "h": 4.7
+      },
+      {
+        "x": 43.6,
+        "y": 2.7,
+        "w": 8.1,
+        "h": 7.6
+      },
+      {
+        "x": 39,
+        "y": 10.8,
+        "w": 8.6,
+        "h": 9.9
+      },
+      {
+        "x": 50,
+        "y": 13,
+        "w": 6.4,
+        "h": 6.7
+      },
+      {
+        "x": 70.7,
+        "y": 4.9,
+        "w": 25.1,
+        "h": 12.6
+      },
+      {
+        "x": 94.8,
+        "y": 17.5,
+        "w": 5.2,
+        "h": 12.6
+      },
+      {
+        "x": 11.3,
+        "y": 28.3,
+        "w": 21.5,
+        "h": 12.6
+      },
+      {
+        "x": 28.5,
+        "y": 25.1,
+        "w": 12.2,
+        "h": 5.8
+      },
+      {
+        "x": 36.2,
+        "y": 34.1,
+        "w": 5.5,
+        "h": 5.8
+      },
+      {
+        "x": 43.1,
+        "y": 31.8,
+        "w": 14.6,
+        "h": 4.5
+      },
+      {
+        "x": 50,
+        "y": 35.4,
+        "w": 8.6,
+        "h": 6.7
+      },
+      {
+        "x": 47.8,
+        "y": 40.8,
+        "w": 9.9,
+        "h": 4.5
+      },
+      {
+        "x": 39.6,
+        "y": 42.2,
+        "w": 5.1,
+        "h": 22.4
+      },
+      {
+        "x": 45.9,
+        "y": 52.9,
+        "w": 8,
+        "h": 10.8
+      },
+      {
+        "x": 58.3,
+        "y": 49.8,
+        "w": 3.6,
+        "h": 10.3
+      },
+      {
+        "x": 2.1,
+        "y": 45.3,
+        "w": 15.6,
+        "h": 14.8
+      },
+      {
+        "x": 0,
+        "y": 58.7,
+        "w": 17.7,
+        "h": 16.1
+      },
+      {
+        "x": 3.6,
+        "y": 78.9,
+        "w": 12.7,
+        "h": 5.2
+      },
+      {
+        "x": 45,
+        "y": 66.4,
+        "w": 12.2,
+        "h": 8.5
+      },
+      {
+        "x": 40.9,
+        "y": 78.9,
+        "w": 10.8,
+        "h": 8.1
+      },
+      {
+        "x": 52.8,
+        "y": 84.3,
+        "w": 7.7,
+        "h": 8.1
+      },
+      {
+        "x": 65.7,
+        "y": 90.1,
+        "w": 8,
+        "h": 6.7
+      },
+      {
+        "x": 81.5,
+        "y": 37.2,
+        "w": 7.5,
+        "h": 37.7
+      },
+      {
+        "x": 71.3,
+        "y": 69.5,
+        "w": 10.2,
+        "h": 8.5
+      }
+    ]
+  },
+  {
+    "id": "gray137-temporal",
+    "file": "img/gray137-temporal.png",
+    "width": 500,
+    "height": 449,
+    "title": "Left temporal bone, outer surface (Gray's Anatomy, fig. 137)",
+    "author": "Henry Vandyke Carter",
+    "source": "Henry Gray, Anatomy of the Human Body, 1918 — Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gray137.png",
+    "license": "Public domain",
+    "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "changes": "Подписи, выдающие ответ, закрыты масками в приложении",
+    "masks": [
+      {
+        "x": 35,
+        "y": 24.1,
+        "w": 12.2,
+        "h": 4.5
+      },
+      {
+        "x": 78,
+        "y": 16.9,
+        "w": 20,
+        "h": 8
+      },
+      {
+        "x": 78,
+        "y": 29.4,
+        "w": 15,
+        "h": 4.7
+      },
+      {
+        "x": 81,
+        "y": 36.1,
+        "w": 16,
+        "h": 7.8
+      },
+      {
+        "x": 9,
+        "y": 40.5,
+        "w": 26,
+        "h": 6.7
+      },
+      {
+        "x": 5,
+        "y": 57,
+        "w": 26,
+        "h": 10.2
+      },
+      {
+        "x": 6,
+        "y": 66.1,
+        "w": 20,
+        "h": 4.7
+      },
+      {
+        "x": 9,
+        "y": 75.1,
+        "w": 26,
+        "h": 6.9
+      },
+      {
+        "x": 35,
+        "y": 94.7,
+        "w": 18,
+        "h": 4.9
+      },
+      {
+        "x": 52,
+        "y": 85.1,
+        "w": 14,
+        "h": 4.5
+      },
+      {
+        "x": 57,
+        "y": 56.8,
+        "w": 19,
+        "h": 8.2
+      },
+      {
+        "x": 73,
+        "y": 82.9,
+        "w": 18,
+        "h": 4.7
+      }
+    ]
+  },
+  {
+    "id": "gray176-mandible",
+    "file": "img/gray176-mandible.png",
+    "width": 600,
+    "height": 402,
+    "title": "Mandible, outer surface, side view (Gray's Anatomy, fig. 176)",
+    "author": "Henry Vandyke Carter",
+    "source": "Henry Gray, Anatomy of the Human Body, 1918 — Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gray176.png",
+    "license": "Public domain",
+    "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "changes": "Подписи, выдающие ответ, закрыты масками в приложении",
+    "masks": [
+      {
+        "x": 56.7,
+        "y": 1.5,
+        "w": 19.2,
+        "h": 5.2
+      },
+      {
+        "x": 89.2,
+        "y": 1.5,
+        "w": 9.2,
+        "h": 5.5
+      },
+      {
+        "x": 72.5,
+        "y": 15.4,
+        "w": 12.5,
+        "h": 10
+      },
+      {
+        "x": 89.2,
+        "y": 19.4,
+        "w": 7.5,
+        "h": 6
+      },
+      {
+        "x": 86.7,
+        "y": 48.5,
+        "w": 5,
+        "h": 17.4
+      },
+      {
+        "x": 85,
+        "y": 85.1,
+        "w": 10.8,
+        "h": 5
+      },
+      {
+        "x": 36.7,
+        "y": 68.4,
+        "w": 9.2,
+        "h": 5.7
+      },
+      {
+        "x": 26.7,
+        "y": 68.9,
+        "w": 10,
+        "h": 7.7
+      },
+      {
+        "x": 50.8,
+        "y": 62.2,
+        "w": 10,
+        "h": 14.4
+      },
+      {
+        "x": 14.2,
+        "y": 52.2,
+        "w": 6.7,
+        "h": 22.9
+      },
+      {
+        "x": 0,
+        "y": 72.6,
+        "w": 13.3,
+        "h": 10.2
+      },
+      {
+        "x": 47.5,
+        "y": 90,
+        "w": 23.3,
+        "h": 9.5
+      }
+    ]
+  },
+  {
+    "id": "gray157-maxilla",
+    "file": "img/gray157-maxilla.png",
+    "width": 600,
+    "height": 434,
+    "title": "Left maxilla, outer surface (Gray's Anatomy, fig. 157)",
+    "author": "Henry Vandyke Carter",
+    "source": "Henry Gray, Anatomy of the Human Body, 1918 — Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gray157.png",
+    "license": "Public domain",
+    "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "changes": "Подписи, выдающие ответ, закрыты масками в приложении",
+    "masks": [
+      {
+        "x": 35,
+        "y": 1.2,
+        "w": 5,
+        "h": 16.8
+      },
+      {
+        "x": 41,
+        "y": 5.1,
+        "w": 6.5,
+        "h": 17.5
+      },
+      {
+        "x": 47,
+        "y": 8.3,
+        "w": 20,
+        "h": 5.5
+      },
+      {
+        "x": 13.7,
+        "y": 14.3,
+        "w": 16.7,
+        "h": 5.1
+      },
+      {
+        "x": 51.7,
+        "y": 17.5,
+        "w": 19.2,
+        "h": 6
+      },
+      {
+        "x": 69.2,
+        "y": 23,
+        "w": 10,
+        "h": 7.4
+      },
+      {
+        "x": 43.3,
+        "y": 26.7,
+        "w": 25.8,
+        "h": 7.4
+      },
+      {
+        "x": 52.7,
+        "y": 32.7,
+        "w": 18.2,
+        "h": 6.9
+      },
+      {
+        "x": 69.2,
+        "y": 33.6,
+        "w": 7.8,
+        "h": 33.2
+      },
+      {
+        "x": 33.3,
+        "y": 46.5,
+        "w": 6.3,
+        "h": 10.6
+      },
+      {
+        "x": 44.2,
+        "y": 65,
+        "w": 6.7,
+        "h": 15.2
+      },
+      {
+        "x": 42,
+        "y": 45.2,
+        "w": 4.3,
+        "h": 12
+      },
+      {
+        "x": 55,
+        "y": 47.5,
+        "w": 8.3,
+        "h": 11.1
+      },
+      {
+        "x": 47.7,
+        "y": 68.2,
+        "w": 8.2,
+        "h": 8.8
+      },
+      {
+        "x": 36.7,
+        "y": 65.9,
+        "w": 7,
+        "h": 14.3
+      },
+      {
+        "x": 8.3,
+        "y": 65.9,
+        "w": 17,
+        "h": 5.1
+      },
+      {
+        "x": 79.3,
+        "y": 56.7,
+        "w": 18.2,
+        "h": 5.1
+      },
+      {
+        "x": 76.7,
+        "y": 67.7,
+        "w": 23,
+        "h": 4.8
+      },
+      {
+        "x": 50,
+        "y": 76,
+        "w": 17.5,
+        "h": 7.4
+      },
+      {
+        "x": 20,
+        "y": 92.6,
+        "w": 50.8,
+        "h": 6.9
+      }
+    ]
+  },
+  {
+    "id": "gray193-skullbase",
+    "file": "img/gray193-skullbase.png",
+    "width": 719,
+    "height": 1057,
+    "title": "Base of the skull, inner (cerebral) surface (Gray's Anatomy, fig. 193)",
+    "author": "Henry Vandyke Carter",
+    "source": "Henry Gray, Anatomy of the Human Body, 1918 — Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gray193.png",
+    "license": "Public domain",
+    "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "changes": "Подписи, выдающие ответ, закрыты масками в приложении",
+    "masks": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 39.2,
+        "h": 71.9
+      },
+      {
+        "x": 36.9,
+        "y": 62.4,
+        "w": 16,
+        "h": 4.5
+      },
+      {
+        "x": 50.8,
+        "y": 16.3,
+        "w": 17.4,
+        "h": 2.5
+      },
+      {
+        "x": 50.8,
+        "y": 21.3,
+        "w": 22.9,
+        "h": 2.2
+      },
+      {
+        "x": 42.4,
+        "y": 28,
+        "w": 18.1,
+        "h": 4.9
+      },
+      {
+        "x": 59.1,
+        "y": 28.2,
+        "w": 21.6,
+        "h": 11.9
+      },
+      {
+        "x": 68.8,
+        "y": 38.4,
+        "w": 12.5,
+        "h": 3.6
+      },
+      {
+        "x": 54.5,
+        "y": 34.2,
+        "w": 5.8,
+        "h": 3.8
+      },
+      {
+        "x": 59.1,
+        "y": 40.9,
+        "w": 6.8,
+        "h": 1.9
+      },
+      {
+        "x": 41.2,
+        "y": 50.3,
+        "w": 7.5,
+        "h": 3.4
+      },
+      {
+        "x": 60.6,
+        "y": 48.9,
+        "w": 6.7,
+        "h": 3.3
+      },
+      {
+        "x": 62.6,
+        "y": 50.7,
+        "w": 22.9,
+        "h": 10.3
+      },
+      {
+        "x": 77.2,
+        "y": 46,
+        "w": 9.7,
+        "h": 7.2
+      },
+      {
+        "x": 78.6,
+        "y": 35.6,
+        "w": 13.9,
+        "h": 12.2
+      },
+      {
+        "x": 54.9,
+        "y": 71,
+        "w": 14.6,
+        "h": 2.6
+      },
+      {
+        "x": 45.2,
+        "y": 78.1,
+        "w": 20.9,
+        "h": 3
+      },
+      {
+        "x": 46.6,
+        "y": 79.3,
+        "w": 32,
+        "h": 7.9
+      },
+      {
+        "x": 38.9,
+        "y": 75.2,
+        "w": 4.2,
+        "h": 10.4
+      },
+      {
+        "x": 40.6,
+        "y": 89.4,
+        "w": 3.2,
+        "h": 5.5
+      },
+      {
+        "x": 68.8,
+        "y": 28.9,
+        "w": 9.7,
+        "h": 2.7
+      },
+      {
+        "x": 45.3,
+        "y": 14.7,
+        "w": 3.9,
+        "h": 12.3
+      }
+    ]
+  },
+  {
+    "id": "gray197-newborn",
+    "file": "img/gray197-newborn.png",
+    "width": 350,
+    "height": 476,
+    "title": "The skull at birth, superior view (Gray's Anatomy, fig. 197)",
+    "author": "Henry Vandyke Carter",
+    "source": "Henry Gray, Anatomy of the Human Body, 1918 — Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gray197.png",
+    "license": "Public domain",
+    "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "changes": "Подписи, выдающие ответ, закрыты масками в приложении",
+    "masks": [
+      {
+        "x": 32.9,
+        "y": 0.4,
+        "w": 35.7,
+        "h": 4.2
+      },
+      {
+        "x": 30,
+        "y": 95,
+        "w": 41.4,
+        "h": 5
+      }
+    ]
+  },
+  {
+    "id": "gray190-skullfront",
+    "file": "img/gray190-skullfront.png",
+    "width": 582,
+    "height": 600,
+    "title": "The skull from the front (Gray's Anatomy, fig. 190)",
+    "author": "Henry Vandyke Carter",
+    "source": "Henry Gray, Anatomy of the Human Body, 1918 — Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gray190.png",
+    "license": "Public domain",
+    "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "changes": "Подписи, выдающие ответ, закрыты масками в приложении",
+    "masks": [
+      {
+        "x": 69.1,
+        "y": 37,
+        "w": 30.9,
+        "h": 29.3
+      },
+      {
+        "x": 60.5,
+        "y": 87.2,
+        "w": 17.7,
+        "h": 4.2
+      },
+      {
+        "x": 29.6,
+        "y": 24.2,
+        "w": 10.8,
+        "h": 3.3
+      },
+      {
+        "x": 0,
+        "y": 13.7,
+        "w": 6.2,
+        "h": 16
+      },
+      {
+        "x": 8.6,
+        "y": 5.7,
+        "w": 10,
+        "h": 11.7
+      },
+      {
+        "x": 16.8,
+        "y": 47,
+        "w": 8.9,
+        "h": 3.5
+      },
+      {
+        "x": 32,
+        "y": 48.2,
+        "w": 6.2,
+        "h": 3.2
+      },
+      {
+        "x": 2.6,
+        "y": 40.8,
+        "w": 8.4,
+        "h": 9.5
+      },
+      {
+        "x": 52.6,
+        "y": 55.2,
+        "w": 9.3,
+        "h": 3.5
+      },
+      {
+        "x": 28.5,
+        "y": 69.5,
+        "w": 12.7,
+        "h": 3.5
+      },
+      {
+        "x": 28.5,
+        "y": 90.3,
+        "w": 12.7,
+        "h": 3.5
+      },
+      {
+        "x": 54.6,
+        "y": 6,
+        "w": 8.1,
+        "h": 8
+      }
+    ]
+  },
+  {
+    "id": "gray188-skullside",
+    "file": "img/gray188-skullside.png",
+    "width": 500,
+    "height": 463,
+    "title": "Side view of the skull (Gray's Anatomy, fig. 188)",
+    "author": "Henry Vandyke Carter",
+    "source": "Henry Gray, Anatomy of the Human Body, 1918 — Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gray188.png",
+    "license": "Public domain",
+    "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "changes": "Подписи, выдающие ответ, закрыты масками в приложении",
+    "masks": [
+      {
+        "x": 22.4,
+        "y": 15.6,
+        "w": 8.6,
+        "h": 4.5
+      },
+      {
+        "x": 36.4,
+        "y": 7.8,
+        "w": 11.6,
+        "h": 16.8
+      },
+      {
+        "x": 50.4,
+        "y": 4.8,
+        "w": 19.6,
+        "h": 5.6
+      },
+      {
+        "x": 50.4,
+        "y": 9.3,
+        "w": 21.6,
+        "h": 5.4
+      },
+      {
+        "x": 60.4,
+        "y": 21.2,
+        "w": 9.6,
+        "h": 4.3
+      },
+      {
+        "x": 47.2,
+        "y": 32,
+        "w": 21.8,
+        "h": 4.5
+      },
+      {
+        "x": 29.2,
+        "y": 39.3,
+        "w": 12.8,
+        "h": 4.5
+      },
+      {
+        "x": 49.2,
+        "y": 47.3,
+        "w": 12.8,
+        "h": 4.5
+      },
+      {
+        "x": 19.2,
+        "y": 55.1,
+        "w": 12.8,
+        "h": 4.3
+      },
+      {
+        "x": 6,
+        "y": 40.8,
+        "w": 5.6,
+        "h": 4.8
+      },
+      {
+        "x": 15.6,
+        "y": 43.4,
+        "w": 9.2,
+        "h": 3.7
+      },
+      {
+        "x": 8.4,
+        "y": 61.8,
+        "w": 7.6,
+        "h": 10.4
+      },
+      {
+        "x": 29.2,
+        "y": 84.7,
+        "w": 10.8,
+        "h": 4.5
+      },
+      {
+        "x": 81.2,
+        "y": 41,
+        "w": 17.8,
+        "h": 24.6
+      }
+    ]
+  },
+  {
+    "id": "openstax-planes",
+    "file": "img/openstax-planes.jpg",
+    "width": 538,
+    "height": 632,
+    "title": "Planes of the body (OpenStax Anatomy and Physiology)",
+    "author": "OpenStax College",
+    "source": "OpenStax, Anatomy and Physiology, 2013 — Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Planes_of_Body_unlabeled.jpg",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "masks": []
+  },
+  {
+    "id": "openstax-long-bone",
+    "file": "img/openstax-long-bone.jpg",
+    "width": 684,
+    "height": 1156,
+    "title": "Anatomy of a long bone (OpenStax Anatomy and Physiology)",
+    "author": "OpenStax College",
+    "source": "OpenStax, Anatomy and Physiology, 2013 — Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:603_Anatomy_of_a_Long_Bone.jpg",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "changes": "Подписи закрыты масками в приложении",
+    "masks": [
+      {
+        "x": 0,
+        "y": 4.3,
+        "w": 16.1,
+        "h": 3.9
+      },
+      {
+        "x": 0,
+        "y": 13,
+        "w": 14.6,
+        "h": 2.6
+      },
+      {
+        "x": 0,
+        "y": 49.7,
+        "w": 13.9,
+        "h": 2.2
+      },
+      {
+        "x": 0,
+        "y": 78.3,
+        "w": 14.6,
+        "h": 2.6
+      },
+      {
+        "x": 0,
+        "y": 90.8,
+        "w": 12.4,
+        "h": 3.9
+      },
+      {
+        "x": 62.9,
+        "y": 0.4,
+        "w": 37.1,
+        "h": 2.6
+      },
+      {
+        "x": 62.9,
+        "y": 13.8,
+        "w": 37.1,
+        "h": 41.5
+      },
+      {
+        "x": 62.9,
+        "y": 63,
+        "w": 37.1,
+        "h": 2.3
+      },
+      {
+        "x": 62.9,
+        "y": 95.2,
+        "w": 37.1,
+        "h": 2.6
+      }
     ]
   }
 ]

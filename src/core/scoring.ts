@@ -1,6 +1,10 @@
 import type { ScoringRule } from '../types';
 
-export const DEFAULT_SCORING: ScoringRule = {
+/** По умолчанию: балл 0–2.0 с шагом 0.1 (доля верных × 2, вниз до десятых). */
+export const DEFAULT_SCORING: ScoringRule = { mode: 'linear', max: 2, step: 0.1 };
+
+/** Пороговая шкала (≥86% → 2, ≥56% → 1, иначе 0) — доступна в конструкторе. */
+export const THRESHOLD_SCORING: ScoringRule = {
   mode: 'thresholds',
   thresholds: [
     { min: 86, grade: 2 },

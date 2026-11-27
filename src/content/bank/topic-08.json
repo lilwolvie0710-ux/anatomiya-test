@@ -1,0 +1,1089 @@
+[
+  {
+    "id": "t08-001",
+    "topic": 8,
+    "type": "single",
+    "status": "draft",
+    "prompt": {
+      "uz": "Ko‘z kosasining lateral devorini qaysi suyaklar hosil qiladi?",
+      "ru": "Какие кости образуют латеральную стенку глазницы?"
+    },
+    "options": [
+      {
+        "id": "a",
+        "text": {
+          "uz": "yonoq suyagi va ponasimon suyakning katta qanoti",
+          "ru": "скуловая кость и большое крыло клиновидной"
+        }
+      },
+      {
+        "id": "b",
+        "text": {
+          "uz": "peshona suyagi va kichik qanot",
+          "ru": "лобная кость и малое крыло"
+        }
+      },
+      {
+        "id": "c",
+        "text": {
+          "uz": "yuqori jag‘ va tanglay suyagi",
+          "ru": "верхняя челюсть и нёбная кость"
+        }
+      },
+      {
+        "id": "d",
+        "text": {
+          "uz": "ko‘z yoshi va g‘alvirsimon suyak",
+          "ru": "слёзная и решётчатая кости"
+        }
+      }
+    ],
+    "correct": "a"
+  },
+  {
+    "id": "t08-002",
+    "topic": 8,
+    "type": "single",
+    "status": "draft",
+    "prompt": {
+      "uz": "Ko‘z kosasining eng yupqa devori qaysi?",
+      "ru": "Какая стенка глазницы самая тонкая?"
+    },
+    "explanation": {
+      "uz": "Medial devordagi g‘alvirsimon suyakning ko‘z kosasi plastinkasi (lamina orbitalis) juda yupqa.",
+      "ru": "Глазничная пластинка решётчатой кости в медиальной стенке очень тонкая (lamina papyracea)."
+    },
+    "options": [
+      {
+        "id": "a",
+        "text": {
+          "uz": "medial",
+          "ru": "медиальная"
+        }
+      },
+      {
+        "id": "b",
+        "text": {
+          "uz": "lateral",
+          "ru": "латеральная"
+        }
+      },
+      {
+        "id": "c",
+        "text": {
+          "uz": "yuqori",
+          "ru": "верхняя"
+        }
+      },
+      {
+        "id": "d",
+        "text": {
+          "uz": "pastki",
+          "ru": "нижняя"
+        }
+      }
+    ],
+    "correct": "a"
+  },
+  {
+    "id": "t08-003",
+    "topic": 8,
+    "type": "single",
+    "status": "draft",
+    "prompt": {
+      "uz": "Ko‘z yoshi-burun kanali qaysi burun yo‘liga ochiladi?",
+      "ru": "В какой носовой ход открывается носослёзный канал?"
+    },
+    "options": [
+      {
+        "id": "a",
+        "text": "meatus nasi inferior"
+      },
+      {
+        "id": "b",
+        "text": "meatus nasi medius"
+      },
+      {
+        "id": "c",
+        "text": "meatus nasi superior"
+      },
+      {
+        "id": "d",
+        "text": "recessus sphenoethmoidalis"
+      }
+    ],
+    "correct": "a"
+  },
+  {
+    "id": "t08-004",
+    "topic": 8,
+    "type": "single",
+    "status": "draft",
+    "prompt": {
+      "uz": "Ponasimon bo‘shliq qayerga ochiladi?",
+      "ru": "Куда открывается клиновидная пазуха?"
+    },
+    "options": [
+      {
+        "id": "a",
+        "text": "recessus sphenoethmoidalis"
+      },
+      {
+        "id": "b",
+        "text": "meatus nasi medius"
+      },
+      {
+        "id": "c",
+        "text": "meatus nasi inferior"
+      },
+      {
+        "id": "d",
+        "text": "fossa pterygopalatina"
+      }
+    ],
+    "correct": "a"
+  },
+  {
+    "id": "t08-005",
+    "topic": 8,
+    "type": "single",
+    "status": "draft",
+    "prompt": {
+      "uz": "Qanot-tanglay chuqurchasi kalla bo‘shlig‘i bilan qaysi teshik orqali tutashadi?",
+      "ru": "Через какое отверстие крыловидно-нёбная ямка сообщается с полостью черепа?"
+    },
+    "options": [
+      {
+        "id": "a",
+        "text": "foramen rotundum"
+      },
+      {
+        "id": "b",
+        "text": "foramen ovale"
+      },
+      {
+        "id": "c",
+        "text": "foramen spinosum"
+      },
+      {
+        "id": "d",
+        "text": "canalis opticus"
+      }
+    ],
+    "correct": "a"
+  },
+  {
+    "id": "t08-006",
+    "topic": 8,
+    "type": "single",
+    "status": "draft",
+    "prompt": {
+      "uz": "Qanot-tanglay chuqurchasi burun bo‘shlig‘i bilan qaysi teshik orqali tutashadi?",
+      "ru": "Через какое отверстие крыловидно-нёбная ямка сообщается с полостью носа?"
+    },
+    "options": [
+      {
+        "id": "a",
+        "text": "foramen sphenopalatinum"
+      },
+      {
+        "id": "b",
+        "text": "canalis palatinus major"
+      },
+      {
+        "id": "c",
+        "text": "fissura orbitalis inferior"
+      },
+      {
+        "id": "d",
+        "text": "canalis incisivus"
+      }
+    ],
+    "correct": "a"
+  },
+  {
+    "id": "t08-007",
+    "topic": 8,
+    "type": "single",
+    "status": "draft",
+    "prompt": {
+      "uz": "Qanot-tanglay chuqurchasi og‘iz bo‘shlig‘i bilan qanday tutashadi?",
+      "ru": "Как крыловидно-нёбная ямка сообщается с полостью рта?"
+    },
+    "options": [
+      {
+        "id": "a",
+        "text": "canalis palatinus major"
+      },
+      {
+        "id": "b",
+        "text": "foramen sphenopalatinum"
+      },
+      {
+        "id": "c",
+        "text": "canalis pterygoideus"
+      },
+      {
+        "id": "d",
+        "text": "fissura pterygomaxillaris"
+      }
+    ],
+    "correct": "a"
+  },
+  {
+    "id": "t08-008",
+    "topic": 8,
+    "type": "single",
+    "status": "draft",
+    "prompt": {
+      "uz": "Chakka chuqurchasining lateral devorini nima hosil qiladi?",
+      "ru": "Что образует латеральную стенку височной ямки?"
+    },
+    "options": [
+      {
+        "id": "a",
+        "text": "arcus zygomaticus"
+      },
+      {
+        "id": "b",
+        "text": "ala major ossis sphenoidalis"
+      },
+      {
+        "id": "c",
+        "text": "squama temporalis"
+      },
+      {
+        "id": "d",
+        "text": "processus pterygoideus"
+      }
+    ],
+    "correct": "a"
+  },
+  {
+    "id": "t08-009",
+    "topic": 8,
+    "type": "single",
+    "status": "draft",
+    "prompt": {
+      "uz": "Burun bo‘shlig‘ining kirish teshigi (oldingi) qanday ataladi?",
+      "ru": "Как называется переднее (входное) отверстие костной полости носа?"
+    },
+    "options": [
+      {
+        "id": "a",
+        "text": "apertura piriformis"
+      },
+      {
+        "id": "b",
+        "text": "choanae"
+      },
+      {
+        "id": "c",
+        "text": "foramen incisivum"
+      },
+      {
+        "id": "d",
+        "text": "aditus orbitae"
+      }
+    ],
+    "correct": "a"
+  },
+  {
+    "id": "t08-010",
+    "topic": 8,
+    "type": "single",
+    "status": "draft",
+    "prompt": {
+      "uz": "Pastki ko‘z kosasi yorig‘i ko‘z kosasini qayerlar bilan tutashtiradi?",
+      "ru": "С чем сообщает глазницу нижняя глазничная щель?"
+    },
+    "options": [
+      {
+        "id": "a",
+        "text": {
+          "uz": "qanot-tanglay va chakka osti chuqurchalari",
+          "ru": "крыловидно-нёбная и подвисочная ямки"
+        }
+      },
+      {
+        "id": "b",
+        "text": {
+          "uz": "o‘rta kalla chuqurchasi",
+          "ru": "средняя черепная ямка"
+        }
+      },
+      {
+        "id": "c",
+        "text": {
+          "uz": "burun bo‘shlig‘i",
+          "ru": "полость носа"
+        }
+      },
+      {
+        "id": "d",
+        "text": {
+          "uz": "og‘iz bo‘shlig‘i",
+          "ru": "полость рта"
+        }
+      }
+    ],
+    "correct": "a"
+  },
+  {
+    "id": "t08-011",
+    "topic": 8,
+    "type": "multi",
+    "status": "draft",
+    "prompt": {
+      "uz": "O‘rta burun yo‘liga ochiladigan bo‘shliqlar",
+      "ru": "Пазухи, открывающиеся в средний носовой ход"
+    },
+    "options": [
+      {
+        "id": "a",
+        "text": "sinus maxillaris"
+      },
+      {
+        "id": "b",
+        "text": "sinus frontalis"
+      },
+      {
+        "id": "c",
+        "text": {
+          "uz": "g‘alvirsimon suyakning oldingi va o‘rta hujayralari",
+          "ru": "передние и средние ячейки решётчатой кости"
+        }
+      },
+      {
+        "id": "d",
+        "text": "sinus sphenoidalis"
+      },
+      {
+        "id": "e",
+        "text": "canalis nasolacrimalis"
+      }
+    ],
+    "correct": [
+      "a",
+      "b",
+      "c"
+    ]
+  },
+  {
+    "id": "t08-012",
+    "topic": 8,
+    "type": "multi",
+    "status": "draft",
+    "prompt": {
+      "uz": "Ko‘z kosasining medial devorini hosil qiluvchi suyaklar",
+      "ru": "Кости медиальной стенки глазницы"
+    },
+    "options": [
+      {
+        "id": "a",
+        "text": "os lacrimale"
+      },
+      {
+        "id": "b",
+        "text": "os ethmoidale (lamina orbitalis)"
+      },
+      {
+        "id": "c",
+        "text": "maxilla (processus frontalis)"
+      },
+      {
+        "id": "d",
+        "text": "os zygomaticum"
+      },
+      {
+        "id": "e",
+        "text": "ala major"
+      }
+    ],
+    "correct": [
+      "a",
+      "b",
+      "c"
+    ]
+  },
+  {
+    "id": "t08-013",
+    "topic": 8,
+    "type": "multi",
+    "status": "draft",
+    "prompt": {
+      "uz": "Burun bo‘shlig‘ining lateral devoridagi chig‘anoqlar",
+      "ru": "Раковины на латеральной стенке полости носа"
+    },
+    "options": [
+      {
+        "id": "a",
+        "text": "concha nasalis superior"
+      },
+      {
+        "id": "b",
+        "text": "concha nasalis media"
+      },
+      {
+        "id": "c",
+        "text": "concha nasalis inferior"
+      },
+      {
+        "id": "d",
+        "text": "vomer"
+      }
+    ],
+    "correct": [
+      "a",
+      "b",
+      "c"
+    ]
+  },
+  {
+    "id": "t08-014",
+    "topic": 8,
+    "type": "multi",
+    "status": "draft",
+    "prompt": {
+      "uz": "Ko‘z kosasi bilan o‘rta kalla chuqurchasini tutashtiruvchi teshiklar",
+      "ru": "Отверстия, соединяющие глазницу со средней черепной ямкой"
+    },
+    "options": [
+      {
+        "id": "a",
+        "text": "canalis opticus"
+      },
+      {
+        "id": "b",
+        "text": "fissura orbitalis superior"
+      },
+      {
+        "id": "c",
+        "text": "fissura orbitalis inferior"
+      },
+      {
+        "id": "d",
+        "text": "foramen rotundum"
+      }
+    ],
+    "correct": [
+      "a",
+      "b"
+    ]
+  },
+  {
+    "id": "t08-015",
+    "topic": 8,
+    "type": "multi",
+    "status": "draft",
+    "prompt": {
+      "uz": "Burun to‘sig‘ini hosil qiluvchi suyaklar",
+      "ru": "Кости, образующие перегородку носа"
+    },
+    "options": [
+      {
+        "id": "a",
+        "text": "vomer"
+      },
+      {
+        "id": "b",
+        "text": "lamina perpendicularis ossis ethmoidalis"
+      },
+      {
+        "id": "c",
+        "text": "concha nasalis inferior"
+      },
+      {
+        "id": "d",
+        "text": "os lacrimale"
+      }
+    ],
+    "correct": [
+      "a",
+      "b"
+    ]
+  },
+  {
+    "id": "t08-016",
+    "topic": 8,
+    "type": "truefalse",
+    "status": "draft",
+    "prompt": {
+      "uz": "Ko‘z kosasining yuqori devorini peshona suyagi va ponasimon suyakning kichik qanoti hosil qiladi.",
+      "ru": "Верхнюю стенку глазницы образуют лобная кость и малое крыло клиновидной."
+    },
+    "correct": true
+  },
+  {
+    "id": "t08-017",
+    "topic": 8,
+    "type": "truefalse",
+    "status": "draft",
+    "prompt": {
+      "uz": "Yuqori burun yo‘liga g‘alvirsimon suyakning orqa hujayralari ochiladi.",
+      "ru": "В верхний носовой ход открываются задние ячейки решётчатой кости."
+    },
+    "correct": true
+  },
+  {
+    "id": "t08-018",
+    "topic": 8,
+    "type": "truefalse",
+    "status": "draft",
+    "prompt": {
+      "uz": "Chakka osti chuqurchasi chakka chuqurchasidan yuqorida joylashgan.",
+      "ru": "Подвисочная ямка расположена выше височной ямки."
+    },
+    "explanation": {
+      "uz": "Noto‘g‘ri: chakka osti chuqurchasi pastda; chegara — ponasimon suyak katta qanotidagi chakka osti qirrasi (crista infratemporalis).",
+      "ru": "Неверно: подвисочная ямка лежит ниже; границей служит подвисочный гребень большого крыла клиновидной кости."
+    },
+    "correct": false
+  },
+  {
+    "id": "t08-019",
+    "topic": 8,
+    "type": "truefalse",
+    "status": "draft",
+    "prompt": {
+      "uz": "Qanot-tanglay chuqurchasi chakka osti chuqurchasining medial davomi.",
+      "ru": "Крыловидно-нёбная ямка — медиальное продолжение подвисочной ямки."
+    },
+    "correct": true
+  },
+  {
+    "id": "t08-020",
+    "topic": 8,
+    "type": "truefalse",
+    "status": "draft",
+    "prompt": {
+      "uz": "Pastki burun chig‘anog‘i burun to‘sig‘ida joylashgan.",
+      "ru": "Нижняя носовая раковина расположена на перегородке носа."
+    },
+    "explanation": {
+      "uz": "Noto‘g‘ri: lateral devorda.",
+      "ru": "Неверно: на латеральной стенке."
+    },
+    "correct": false
+  },
+  {
+    "id": "t08-021",
+    "topic": 8,
+    "type": "truefalse",
+    "status": "draft",
+    "prompt": {
+      "uz": "Ko‘z kosasining pastki devori yuqori jag‘ bo‘shlig‘ining yuqori devori hamdir.",
+      "ru": "Нижняя стенка глазницы является одновременно верхней стенкой верхнечелюстной пазухи."
+    },
+    "correct": true
+  },
+  {
+    "id": "t08-022",
+    "topic": 8,
+    "type": "latin",
+    "status": "draft",
+    "prompt": {
+      "uz": "Lotincha yozing: ko‘z kosasi",
+      "ru": "Напишите по-латыни: глазница"
+    },
+    "accepted": [
+      "orbita"
+    ]
+  },
+  {
+    "id": "t08-023",
+    "topic": 8,
+    "type": "latin",
+    "status": "draft",
+    "prompt": {
+      "uz": "Lotincha yozing: noksimon teshik",
+      "ru": "Напишите по-латыни: грушевидная апертура"
+    },
+    "accepted": [
+      "apertura piriformis"
+    ]
+  },
+  {
+    "id": "t08-024",
+    "topic": 8,
+    "type": "latin",
+    "status": "draft",
+    "prompt": {
+      "uz": "Lotincha yozing: qanot-tanglay chuqurchasi",
+      "ru": "Напишите по-латыни: крыловидно-нёбная ямка"
+    },
+    "accepted": [
+      "fossa pterygopalatina"
+    ]
+  },
+  {
+    "id": "t08-025",
+    "topic": 8,
+    "type": "latin",
+    "status": "draft",
+    "prompt": {
+      "uz": "Lotincha yozing: chakka osti chuqurchasi",
+      "ru": "Напишите по-латыни: подвисочная ямка"
+    },
+    "accepted": [
+      "fossa infratemporalis"
+    ]
+  },
+  {
+    "id": "t08-026",
+    "topic": 8,
+    "type": "latin",
+    "status": "draft",
+    "prompt": {
+      "uz": "Lotincha yozing: ko‘z yoshi-burun kanali",
+      "ru": "Напишите по-латыни: носослёзный канал"
+    },
+    "accepted": [
+      "canalis nasolacrimalis"
+    ]
+  },
+  {
+    "id": "t08-027",
+    "topic": 8,
+    "type": "latin",
+    "status": "draft",
+    "prompt": {
+      "uz": "Lotincha yozing: o‘rta burun yo‘li",
+      "ru": "Напишите по-латыни: средний носовой ход"
+    },
+    "accepted": [
+      "meatus nasi medius"
+    ]
+  },
+  {
+    "id": "t08-028",
+    "topic": 8,
+    "type": "matching",
+    "status": "draft",
+    "prompt": {
+      "uz": "Qanot-tanglay chuqurchasi tutashuvini moslang",
+      "ru": "Сопоставьте сообщение крыловидно-нёбной ямки"
+    },
+    "pairs": [
+      {
+        "left": "foramen rotundum",
+        "right": {
+          "uz": "o‘rta kalla chuqurchasi",
+          "ru": "средняя черепная ямка"
+        }
+      },
+      {
+        "left": "foramen sphenopalatinum",
+        "right": {
+          "uz": "burun bo‘shlig‘i",
+          "ru": "полость носа"
+        }
+      },
+      {
+        "left": "canalis palatinus major",
+        "right": {
+          "uz": "og‘iz bo‘shlig‘i",
+          "ru": "полость рта"
+        }
+      },
+      {
+        "left": "fissura orbitalis inferior",
+        "right": {
+          "uz": "ko‘z kosasi",
+          "ru": "глазница"
+        }
+      },
+      {
+        "left": "fissura pterygomaxillaris",
+        "right": {
+          "uz": "chakka osti chuqurchasi",
+          "ru": "подвисочная ямка"
+        }
+      }
+    ]
+  },
+  {
+    "id": "t08-029",
+    "topic": 8,
+    "type": "matching",
+    "status": "draft",
+    "prompt": {
+      "uz": "Burun yo‘li va unga ochiladigan tuzilmani moslang",
+      "ru": "Сопоставьте носовой ход и то, что в него открывается"
+    },
+    "pairs": [
+      {
+        "left": "meatus nasi superior",
+        "right": {
+          "uz": "g‘alvirsimon orqa hujayralar",
+          "ru": "задние ячейки решётчатой"
+        }
+      },
+      {
+        "left": "meatus nasi medius",
+        "right": "sinus maxillaris"
+      },
+      {
+        "left": "meatus nasi inferior",
+        "right": "canalis nasolacrimalis"
+      }
+    ]
+  },
+  {
+    "id": "t08-030",
+    "topic": 8,
+    "type": "matching",
+    "status": "draft",
+    "prompt": {
+      "uz": "Ko‘z kosasi devori va uni hosil qiluvchi asosiy suyakni moslang",
+      "ru": "Сопоставьте стенку глазницы и основную кость"
+    },
+    "pairs": [
+      {
+        "left": {
+          "uz": "yuqori",
+          "ru": "верхняя"
+        },
+        "right": "os frontale"
+      },
+      {
+        "left": {
+          "uz": "pastki",
+          "ru": "нижняя"
+        },
+        "right": "maxilla"
+      },
+      {
+        "left": {
+          "uz": "lateral",
+          "ru": "латеральная"
+        },
+        "right": "os zygomaticum"
+      },
+      {
+        "left": {
+          "uz": "medial",
+          "ru": "медиальная"
+        },
+        "right": "os ethmoidale"
+      }
+    ]
+  },
+  {
+    "id": "t08-031",
+    "topic": 8,
+    "type": "ordering",
+    "status": "draft",
+    "prompt": {
+      "uz": "Burun yo‘llarini yuqoridan pastga tartiblang",
+      "ru": "Расположите носовые ходы сверху вниз"
+    },
+    "items": [
+      "meatus nasi superior",
+      "meatus nasi medius",
+      "meatus nasi inferior"
+    ]
+  },
+  {
+    "id": "t08-032",
+    "topic": 8,
+    "type": "ordering",
+    "status": "draft",
+    "prompt": {
+      "uz": "Chuqurchalarni lateraldan medialga tartiblang",
+      "ru": "Расположите ямки от латеральной к медиальной"
+    },
+    "items": [
+      "fossa temporalis",
+      "fossa infratemporalis",
+      "fossa pterygopalatina"
+    ]
+  },
+  {
+    "id": "t08-033",
+    "topic": 8,
+    "type": "cloze",
+    "status": "draft",
+    "prompt": {
+      "uz": "Lotincha atamalarni yozing",
+      "ru": "Впишите латинские термины"
+    },
+    "text": {
+      "uz": "Burun bo‘shlig‘ining orqa teshiklari {{1}} deyiladi; ular burun bo‘shlig‘ini halqum bilan tutashtiradi.",
+      "ru": "Задние отверстия полости носа называются {{1}}; они соединяют полость носа с глоткой."
+    },
+    "blanks": [
+      [
+        "choanae",
+        "choana"
+      ]
+    ]
+  },
+  {
+    "id": "t08-034",
+    "topic": 8,
+    "type": "cloze",
+    "status": "draft",
+    "prompt": {
+      "uz": "Lotincha atamalarni yozing",
+      "ru": "Впишите латинские термины"
+    },
+    "text": {
+      "uz": "Ko‘z kosasidan o‘rta kalla chuqurchasiga {{1}} kanal va {{2}} yoriq ochiladi.",
+      "ru": "Из глазницы в среднюю черепную ямку ведут {{1}} канал и {{2}} щель."
+    },
+    "blanks": [
+      [
+        "canalis opticus",
+        "opticus"
+      ],
+      [
+        "fissura orbitalis superior",
+        "orbitalis superior"
+      ]
+    ]
+  },
+  {
+    "id": "t08-035",
+    "topic": 8,
+    "type": "cloze",
+    "status": "draft",
+    "prompt": {
+      "uz": "Lotincha atamalarni yozing",
+      "ru": "Впишите латинские термины"
+    },
+    "text": {
+      "uz": "Qanot-tanglay chuqurchasini kalla tashqi asosi bilan {{1}} kanal tutashtiradi.",
+      "ru": "Крыловидно-нёбную ямку с наружным основанием черепа соединяет {{1}} канал."
+    },
+    "blanks": [
+      [
+        "canalis pterygoideus",
+        "pterygoideus"
+      ]
+    ]
+  },
+  {
+    "id": "t08-036",
+    "topic": 8,
+    "type": "hotspot",
+    "status": "draft",
+    "prompt": {
+      "uz": "Ko‘z kosasini toping",
+      "ru": "Найдите глазницу"
+    },
+    "explanation": {
+      "uz": "Orbita — o‘ng yoki chap.",
+      "ru": "Orbita — правая или левая."
+    },
+    "image": "gray190-skullfront",
+    "zones": [
+      {
+        "id": "ol",
+        "kind": "circle",
+        "cx": 22.3,
+        "cy": 48.3,
+        "r": 9.5
+      },
+      {
+        "id": "or",
+        "kind": "circle",
+        "cx": 51.5,
+        "cy": 49.2,
+        "r": 9.5
+      }
+    ],
+    "correct": [
+      "ol",
+      "or"
+    ]
+  },
+  {
+    "id": "t08-037",
+    "topic": 8,
+    "type": "hotspot",
+    "status": "draft",
+    "prompt": {
+      "uz": "Noksimon teshikni toping",
+      "ru": "Найдите грушевидную апертуру"
+    },
+    "explanation": {
+      "uz": "Apertura piriformis — burun bo‘shlig‘ining oldingi teshigi.",
+      "ru": "Apertura piriformis — переднее отверстие костной полости носа."
+    },
+    "image": "gray190-skullfront",
+    "zones": [
+      {
+        "id": "ap",
+        "kind": "polygon",
+        "points": [
+          [
+            33.5,
+            53.3
+          ],
+          [
+            38.1,
+            53
+          ],
+          [
+            42.1,
+            59.2
+          ],
+          [
+            41.2,
+            68.3
+          ],
+          [
+            29.6,
+            68.3
+          ],
+          [
+            29.2,
+            60
+          ]
+        ]
+      }
+    ],
+    "correct": [
+      "ap"
+    ]
+  },
+  {
+    "id": "t08-038",
+    "topic": 8,
+    "type": "hotspot",
+    "status": "draft",
+    "prompt": {
+      "uz": "Chakka chuqurchasini toping",
+      "ru": "Найдите височную ямку"
+    },
+    "explanation": {
+      "uz": "Fossa temporalis.",
+      "ru": "Fossa temporalis."
+    },
+    "image": "gray188-skullside",
+    "zones": [
+      {
+        "id": "ft",
+        "kind": "polygon",
+        "points": [
+          [
+            38,
+            27
+          ],
+          [
+            70,
+            24.8
+          ],
+          [
+            74,
+            54
+          ],
+          [
+            42,
+            56.6
+          ],
+          [
+            36,
+            41
+          ]
+        ]
+      }
+    ],
+    "correct": [
+      "ft"
+    ]
+  },
+  {
+    "id": "t08-039",
+    "topic": 8,
+    "type": "labels",
+    "status": "draft",
+    "prompt": {
+      "uz": "Kallaning old ko‘rinishini belgilang",
+      "ru": "Подпишите череп спереди"
+    },
+    "image": "gray190-skullfront",
+    "targets": [
+      {
+        "id": "o",
+        "x": 22.3,
+        "y": 48.3,
+        "label": "orbita"
+      },
+      {
+        "id": "ap",
+        "x": 35.2,
+        "y": 62.5,
+        "label": "apertura piriformis"
+      },
+      {
+        "id": "fio",
+        "x": 49.5,
+        "y": 59.2,
+        "label": "foramen infraorbitale"
+      },
+      {
+        "id": "oz",
+        "x": 57.6,
+        "y": 55,
+        "label": "os zygomaticum"
+      },
+      {
+        "id": "fm",
+        "x": 46.4,
+        "y": 90,
+        "label": "foramen mentale"
+      }
+    ],
+    "distractors": [
+      "foramen magnum"
+    ]
+  },
+  {
+    "id": "t08-040",
+    "topic": 8,
+    "type": "labels",
+    "status": "draft",
+    "prompt": {
+      "uz": "Kallaning yon ko‘rinishida suyaklarni belgilang",
+      "ru": "Подпишите кости черепа сбоку"
+    },
+    "image": "gray188-skullside",
+    "targets": [
+      {
+        "id": "f",
+        "x": 26,
+        "y": 19.4,
+        "label": "os frontale"
+      },
+      {
+        "id": "p",
+        "x": 66,
+        "y": 23.8,
+        "label": "os parietale"
+      },
+      {
+        "id": "t",
+        "x": 54,
+        "y": 50.8,
+        "label": "os temporale"
+      },
+      {
+        "id": "z",
+        "x": 25,
+        "y": 57.2,
+        "label": "os zygomaticum"
+      },
+      {
+        "id": "m",
+        "x": 34,
+        "y": 83.2,
+        "label": "mandibula"
+      }
+    ],
+    "distractors": [
+      "os ethmoidale"
+    ]
+  }
+]

@@ -1,0 +1,1101 @@
+[
+  {
+    "id": "t03-001",
+    "topic": 3,
+    "type": "single",
+    "status": "draft",
+    "prompt": {
+      "uz": "Chanoq suyagi (os coxae) nechta suyakning qo‘shilishidan hosil bo‘ladi?",
+      "ru": "Из скольких костей образуется тазовая кость (os coxae)?"
+    },
+    "explanation": {
+      "uz": "Yonbosh, quymich va qov suyaklari 14–16 yoshda quymich kosasi sohasida qo‘shiladi.",
+      "ru": "Подвздошная, седалищная и лобковая кости срастаются в области вертлужной впадины к 14–16 годам."
+    },
+    "options": [
+      {
+        "id": "a",
+        "text": "2"
+      },
+      {
+        "id": "b",
+        "text": "3"
+      },
+      {
+        "id": "c",
+        "text": "4"
+      },
+      {
+        "id": "d",
+        "text": "5"
+      }
+    ],
+    "correct": "b"
+  },
+  {
+    "id": "t03-002",
+    "topic": 3,
+    "type": "single",
+    "status": "draft",
+    "prompt": {
+      "uz": "Son suyagi boshchasi qaysi tuzilma bilan bo‘g‘im hosil qiladi?",
+      "ru": "С каким образованием сочленяется головка бедренной кости?"
+    },
+    "options": [
+      {
+        "id": "a",
+        "text": "acetabulum"
+      },
+      {
+        "id": "b",
+        "text": "facies auricularis"
+      },
+      {
+        "id": "c",
+        "text": "foramen obturatum"
+      },
+      {
+        "id": "d",
+        "text": "incisura ischiadica major"
+      }
+    ],
+    "correct": "a"
+  },
+  {
+    "id": "t03-003",
+    "topic": 3,
+    "type": "single",
+    "status": "draft",
+    "prompt": {
+      "uz": "O‘tirganda tana og‘irligi qaysi tuzilmaga tushadi?",
+      "ru": "На какое образование приходится вес тела в положении сидя?"
+    },
+    "options": [
+      {
+        "id": "a",
+        "text": "tuber ischiadicum"
+      },
+      {
+        "id": "b",
+        "text": "spina iliaca anterior superior"
+      },
+      {
+        "id": "c",
+        "text": "tuberculum pubicum"
+      },
+      {
+        "id": "d",
+        "text": "crista iliaca"
+      }
+    ],
+    "correct": "a"
+  },
+  {
+    "id": "t03-004",
+    "topic": 3,
+    "type": "single",
+    "status": "draft",
+    "prompt": {
+      "uz": "Son suyagining orqa yuzasidagi g‘adir-budur chiziq qanday ataladi?",
+      "ru": "Как называется шероховатая линия на задней поверхности бедренной кости?"
+    },
+    "explanation": {
+      "uz": "Linea aspera ikki labdan iborat (labium mediale et laterale), mushaklar birikadi.",
+      "ru": "Linea aspera состоит из двух губ (labium mediale et laterale), к ним крепятся мышцы."
+    },
+    "options": [
+      {
+        "id": "a",
+        "text": "linea aspera"
+      },
+      {
+        "id": "b",
+        "text": "linea intertrochanterica"
+      },
+      {
+        "id": "c",
+        "text": "linea arcuata"
+      },
+      {
+        "id": "d",
+        "text": "linea pectinea"
+      }
+    ],
+    "correct": "a"
+  },
+  {
+    "id": "t03-005",
+    "topic": 3,
+    "type": "single",
+    "status": "draft",
+    "prompt": {
+      "uz": "Organizmdagi eng katta sesamasimon suyak qaysi?",
+      "ru": "Самая крупная сесамовидная кость организма?"
+    },
+    "explanation": {
+      "uz": "Tizza qopqog‘i son to‘rt boshli mushagi payi ichida rivojlanadi.",
+      "ru": "Надколенник развивается в сухожилии четырёхглавой мышцы бедра."
+    },
+    "options": [
+      {
+        "id": "a",
+        "text": "patella"
+      },
+      {
+        "id": "b",
+        "text": "os pisiforme"
+      },
+      {
+        "id": "c",
+        "text": "talus"
+      },
+      {
+        "id": "d",
+        "text": "os naviculare"
+      }
+    ],
+    "correct": "a"
+  },
+  {
+    "id": "t03-006",
+    "topic": 3,
+    "type": "single",
+    "status": "draft",
+    "prompt": {
+      "uz": "Medial to‘piq qaysi suyakda joylashgan?",
+      "ru": "На какой кости находится медиальная лодыжка?"
+    },
+    "explanation": {
+      "uz": "Malleolus medialis — katta boldir suyagida, malleolus lateralis — kichik boldir suyagida.",
+      "ru": "Malleolus medialis — на большеберцовой кости, malleolus lateralis — на малоберцовой."
+    },
+    "options": [
+      {
+        "id": "a",
+        "text": "tibia"
+      },
+      {
+        "id": "b",
+        "text": "fibula"
+      },
+      {
+        "id": "c",
+        "text": "talus"
+      },
+      {
+        "id": "d",
+        "text": "calcaneus"
+      }
+    ],
+    "correct": "a"
+  },
+  {
+    "id": "t03-007",
+    "topic": 3,
+    "type": "single",
+    "status": "draft",
+    "prompt": {
+      "uz": "Oyoq panjasining eng katta suyagi qaysi?",
+      "ru": "Самая крупная кость стопы?"
+    },
+    "options": [
+      {
+        "id": "a",
+        "text": "calcaneus"
+      },
+      {
+        "id": "b",
+        "text": "talus"
+      },
+      {
+        "id": "c",
+        "text": "os cuboideum"
+      },
+      {
+        "id": "d",
+        "text": "os naviculare"
+      }
+    ],
+    "correct": "a"
+  },
+  {
+    "id": "t03-008",
+    "topic": 3,
+    "type": "single",
+    "status": "draft",
+    "prompt": {
+      "uz": "Qaysi suyak boldir suyaklari bilan bo‘g‘im hosil qiladi (oshiq suyak)?",
+      "ru": "Какая кость стопы сочленяется с костями голени?"
+    },
+    "explanation": {
+      "uz": "Oshiq suyak bloki (trochlea tali) boldir suyaklari bilan boldir-panja bo‘g‘imini hosil qiladi.",
+      "ru": "Блок таранной кости образует с костями голени голеностопный сустав."
+    },
+    "options": [
+      {
+        "id": "a",
+        "text": "talus"
+      },
+      {
+        "id": "b",
+        "text": "calcaneus"
+      },
+      {
+        "id": "c",
+        "text": "os cuboideum"
+      },
+      {
+        "id": "d",
+        "text": "os cuneiforme mediale"
+      }
+    ],
+    "correct": "a"
+  },
+  {
+    "id": "t03-009",
+    "topic": 3,
+    "type": "single",
+    "status": "draft",
+    "prompt": {
+      "uz": "Katta boldir suyagining oldingi yuzasidagi g‘adir-budurlik nima uchun xizmat qiladi?",
+      "ru": "Для чего служит бугристость большеберцовой кости (tuberositas tibiae)?"
+    },
+    "options": [
+      {
+        "id": "a",
+        "text": {
+          "uz": "tizza qopqog‘i boylamining birikishi",
+          "ru": "прикрепление связки надколенника"
+        }
+      },
+      {
+        "id": "b",
+        "text": {
+          "uz": "son suyagi bilan bo‘g‘im",
+          "ru": "сочленение с бедренной костью"
+        }
+      },
+      {
+        "id": "c",
+        "text": {
+          "uz": "kichik boldir suyagi bilan bo‘g‘im",
+          "ru": "сочленение с малоберцовой костью"
+        }
+      },
+      {
+        "id": "d",
+        "text": {
+          "uz": "tikuvchi mushak boshlanishi",
+          "ru": "начало портняжной мышцы"
+        }
+      }
+    ],
+    "correct": "a"
+  },
+  {
+    "id": "t03-010",
+    "topic": 3,
+    "type": "single",
+    "status": "draft",
+    "prompt": {
+      "uz": "Yopqich teshik (foramen obturatum) qaysi suyaklar orasida joylashgan?",
+      "ru": "Между какими костями расположено запирательное отверстие?"
+    },
+    "options": [
+      {
+        "id": "a",
+        "text": {
+          "uz": "quymich va qov suyaklari",
+          "ru": "седалищной и лобковой"
+        }
+      },
+      {
+        "id": "b",
+        "text": {
+          "uz": "yonbosh va quymich suyaklari",
+          "ru": "подвздошной и седалищной"
+        }
+      },
+      {
+        "id": "c",
+        "text": {
+          "uz": "yonbosh va qov suyaklari",
+          "ru": "подвздошной и лобковой"
+        }
+      },
+      {
+        "id": "d",
+        "text": {
+          "uz": "dumg‘aza va yonbosh suyaklari",
+          "ru": "крестцом и подвздошной"
+        }
+      }
+    ],
+    "correct": "a"
+  },
+  {
+    "id": "t03-011",
+    "topic": 3,
+    "type": "single",
+    "status": "draft",
+    "prompt": {
+      "uz": "Son suyagining bo‘yni va tanasi orasidagi burchak (kattalarda) taxminan qancha?",
+      "ru": "Каков шеечно-диафизарный угол бедренной кости у взрослого?"
+    },
+    "explanation": {
+      "uz": "Taxminan 125–130°; bolalarda kattaroq, keksalarda kichikroq.",
+      "ru": "Около 125–130°; у детей больше, у пожилых меньше."
+    },
+    "options": [
+      {
+        "id": "a",
+        "text": "90°"
+      },
+      {
+        "id": "b",
+        "text": "110°"
+      },
+      {
+        "id": "c",
+        "text": "130°"
+      },
+      {
+        "id": "d",
+        "text": "160°"
+      }
+    ],
+    "correct": "c"
+  },
+  {
+    "id": "t03-012",
+    "topic": 3,
+    "type": "multi",
+    "status": "draft",
+    "prompt": {
+      "uz": "Yonbosh suyagidagi tuzilmalar",
+      "ru": "Образования подвздошной кости"
+    },
+    "options": [
+      {
+        "id": "a",
+        "text": "crista iliaca"
+      },
+      {
+        "id": "b",
+        "text": "spina iliaca anterior superior"
+      },
+      {
+        "id": "c",
+        "text": "fossa iliaca"
+      },
+      {
+        "id": "d",
+        "text": "tuber ischiadicum"
+      },
+      {
+        "id": "e",
+        "text": "tuberculum pubicum"
+      }
+    ],
+    "correct": [
+      "a",
+      "b",
+      "c"
+    ]
+  },
+  {
+    "id": "t03-013",
+    "topic": 3,
+    "type": "multi",
+    "status": "draft",
+    "prompt": {
+      "uz": "Son suyagining proksimal uchidagi tuzilmalar",
+      "ru": "Образования проксимального конца бедренной кости"
+    },
+    "options": [
+      {
+        "id": "a",
+        "text": "caput femoris"
+      },
+      {
+        "id": "b",
+        "text": "collum femoris"
+      },
+      {
+        "id": "c",
+        "text": "trochanter major"
+      },
+      {
+        "id": "d",
+        "text": "trochanter minor"
+      },
+      {
+        "id": "e",
+        "text": "condylus medialis"
+      }
+    ],
+    "correct": [
+      "a",
+      "b",
+      "c",
+      "d"
+    ]
+  },
+  {
+    "id": "t03-014",
+    "topic": 3,
+    "type": "multi",
+    "status": "draft",
+    "prompt": {
+      "uz": "Oyoq kafti (tarsus) suyaklari",
+      "ru": "Кости предплюсны"
+    },
+    "explanation": {
+      "uz": "Tarsus 7 suyakdan iborat: oshiq, tovon, qayiqsimon, kubsimon va 3 ta ponasimon.",
+      "ru": "Предплюсна — 7 костей: таранная, пяточная, ладьевидная, кубовидная и 3 клиновидные."
+    },
+    "options": [
+      {
+        "id": "a",
+        "text": "talus"
+      },
+      {
+        "id": "b",
+        "text": "calcaneus"
+      },
+      {
+        "id": "c",
+        "text": "os naviculare"
+      },
+      {
+        "id": "d",
+        "text": "os cuboideum"
+      },
+      {
+        "id": "e",
+        "text": "patella"
+      }
+    ],
+    "correct": [
+      "a",
+      "b",
+      "c",
+      "d"
+    ]
+  },
+  {
+    "id": "t03-015",
+    "topic": 3,
+    "type": "multi",
+    "status": "draft",
+    "prompt": {
+      "uz": "Oyoq kamari (cingulum membri inferioris) tarkibi",
+      "ru": "Пояс нижней конечности образуют"
+    },
+    "explanation": {
+      "uz": "Oyoq kamari — ikkita chanoq suyagi; dumg‘aza umurtqa pog‘onasiga tegishli, lekin chanoq hosil qilishda qatnashadi.",
+      "ru": "Пояс — две тазовые кости; крестец относится к позвоночнику, хотя участвует в образовании таза."
+    },
+    "options": [
+      {
+        "id": "a",
+        "text": "os coxae (dextrum)"
+      },
+      {
+        "id": "b",
+        "text": "os coxae (sinistrum)"
+      },
+      {
+        "id": "c",
+        "text": "femur"
+      },
+      {
+        "id": "d",
+        "text": "os sacrum"
+      }
+    ],
+    "correct": [
+      "a",
+      "b"
+    ]
+  },
+  {
+    "id": "t03-016",
+    "topic": 3,
+    "type": "multi",
+    "status": "draft",
+    "prompt": {
+      "uz": "Kichik boldir suyagiga tegishli tuzilmalar",
+      "ru": "Образования малоберцовой кости"
+    },
+    "options": [
+      {
+        "id": "a",
+        "text": "caput fibulae"
+      },
+      {
+        "id": "b",
+        "text": "malleolus lateralis"
+      },
+      {
+        "id": "c",
+        "text": "malleolus medialis"
+      },
+      {
+        "id": "d",
+        "text": "tuberositas tibiae"
+      }
+    ],
+    "correct": [
+      "a",
+      "b"
+    ]
+  },
+  {
+    "id": "t03-017",
+    "topic": 3,
+    "type": "truefalse",
+    "status": "draft",
+    "prompt": {
+      "uz": "Quymich kosasi yonbosh, quymich va qov suyaklari tanalaridan hosil bo‘ladi.",
+      "ru": "Вертлужную впадину образуют тела подвздошной, седалищной и лобковой костей."
+    },
+    "correct": true
+  },
+  {
+    "id": "t03-018",
+    "topic": 3,
+    "type": "truefalse",
+    "status": "draft",
+    "prompt": {
+      "uz": "Kichik boldir suyagi tizza bo‘g‘imini hosil qilishda qatnashadi.",
+      "ru": "Малоберцовая кость участвует в образовании коленного сустава."
+    },
+    "explanation": {
+      "uz": "Noto‘g‘ri: tizza bo‘g‘imini son, katta boldir suyaklari va tizza qopqog‘i hosil qiladi.",
+      "ru": "Неверно: коленный сустав образуют бедренная, большеберцовая кости и надколенник."
+    },
+    "correct": false
+  },
+  {
+    "id": "t03-019",
+    "topic": 3,
+    "type": "truefalse",
+    "status": "draft",
+    "prompt": {
+      "uz": "Katta ko‘st (trochanter major) teri ostida paypaslanadi.",
+      "ru": "Большой вертел прощупывается под кожей."
+    },
+    "correct": true
+  },
+  {
+    "id": "t03-020",
+    "topic": 3,
+    "type": "truefalse",
+    "status": "draft",
+    "prompt": {
+      "uz": "Ayollarda chanoq erkaklarnikiga nisbatan kengroq va pastroq.",
+      "ru": "Женский таз шире и ниже мужского."
+    },
+    "correct": true
+  },
+  {
+    "id": "t03-021",
+    "topic": 3,
+    "type": "truefalse",
+    "status": "draft",
+    "prompt": {
+      "uz": "Oyoq panjasida 5 ta oyoq kaft suyagi (ossa metatarsi) bor.",
+      "ru": "В стопе 5 плюсневых костей."
+    },
+    "correct": true
+  },
+  {
+    "id": "t03-022",
+    "topic": 3,
+    "type": "truefalse",
+    "status": "draft",
+    "prompt": {
+      "uz": "Son suyagi boshchasida chuqurcha (fovea capitis femoris) bor — unga son boshchasi boylami birikadi.",
+      "ru": "На головке бедра есть ямка — место прикрепления связки головки бедренной кости."
+    },
+    "correct": true
+  },
+  {
+    "id": "t03-023",
+    "topic": 3,
+    "type": "latin",
+    "status": "draft",
+    "prompt": {
+      "uz": "Lotincha yozing: son suyagi",
+      "ru": "Напишите по-латыни: бедренная кость"
+    },
+    "accepted": [
+      "femur",
+      "os femoris"
+    ]
+  },
+  {
+    "id": "t03-024",
+    "topic": 3,
+    "type": "latin",
+    "status": "draft",
+    "prompt": {
+      "uz": "Lotincha yozing: tizza qopqog‘i",
+      "ru": "Напишите по-латыни: надколенник"
+    },
+    "accepted": [
+      "patella"
+    ]
+  },
+  {
+    "id": "t03-025",
+    "topic": 3,
+    "type": "latin",
+    "status": "draft",
+    "prompt": {
+      "uz": "Lotincha yozing: quymich kosasi",
+      "ru": "Напишите по-латыни: вертлужная впадина"
+    },
+    "accepted": [
+      "acetabulum"
+    ]
+  },
+  {
+    "id": "t03-026",
+    "topic": 3,
+    "type": "latin",
+    "status": "draft",
+    "prompt": {
+      "uz": "Lotincha yozing: yonbosh suyagi qirrasi",
+      "ru": "Напишите по-латыни: гребень подвздошной кости"
+    },
+    "accepted": [
+      "crista iliaca"
+    ]
+  },
+  {
+    "id": "t03-027",
+    "topic": 3,
+    "type": "latin",
+    "status": "draft",
+    "prompt": {
+      "uz": "Lotincha yozing: tovon suyagi",
+      "ru": "Напишите по-латыни: пяточная кость"
+    },
+    "accepted": [
+      "calcaneus"
+    ]
+  },
+  {
+    "id": "t03-028",
+    "topic": 3,
+    "type": "latin",
+    "status": "draft",
+    "prompt": {
+      "uz": "Lotincha yozing: lateral to‘piq",
+      "ru": "Напишите по-латыни: латеральная лодыжка"
+    },
+    "accepted": [
+      "malleolus lateralis"
+    ]
+  },
+  {
+    "id": "t03-029",
+    "topic": 3,
+    "type": "matching",
+    "status": "draft",
+    "prompt": {
+      "uz": "Tuzilma va suyakni moslang",
+      "ru": "Сопоставьте образование и кость"
+    },
+    "pairs": [
+      {
+        "left": "crista iliaca",
+        "right": "os ilium"
+      },
+      {
+        "left": "tuber ischiadicum",
+        "right": "os ischii"
+      },
+      {
+        "left": "tuberculum pubicum",
+        "right": "os pubis"
+      },
+      {
+        "left": "trochanter major",
+        "right": "femur"
+      },
+      {
+        "left": "malleolus medialis",
+        "right": "tibia"
+      }
+    ]
+  },
+  {
+    "id": "t03-030",
+    "topic": 3,
+    "type": "matching",
+    "status": "draft",
+    "prompt": {
+      "uz": "Oyoq suyagi va o‘zbekcha nomini moslang",
+      "ru": "Сопоставьте кость и её русское название"
+    },
+    "pairs": [
+      {
+        "left": "talus",
+        "right": {
+          "uz": "oshiq suyak",
+          "ru": "таранная кость"
+        }
+      },
+      {
+        "left": "calcaneus",
+        "right": {
+          "uz": "tovon suyagi",
+          "ru": "пяточная кость"
+        }
+      },
+      {
+        "left": "os cuboideum",
+        "right": {
+          "uz": "kubsimon suyak",
+          "ru": "кубовидная кость"
+        }
+      },
+      {
+        "left": "os naviculare",
+        "right": {
+          "uz": "qayiqsimon suyak",
+          "ru": "ладьевидная кость"
+        }
+      }
+    ]
+  },
+  {
+    "id": "t03-031",
+    "topic": 3,
+    "type": "matching",
+    "status": "draft",
+    "prompt": {
+      "uz": "Son suyagining distal uchidagi tuzilma va vazifasini moslang",
+      "ru": "Сопоставьте образование дистального конца бедра и его роль"
+    },
+    "pairs": [
+      {
+        "left": "condylus medialis",
+        "right": {
+          "uz": "tibia bilan bo‘g‘im",
+          "ru": "сочленение с большеберцовой"
+        }
+      },
+      {
+        "left": "facies patellaris",
+        "right": {
+          "uz": "tizza qopqog‘i bilan bo‘g‘im",
+          "ru": "сочленение с надколенником"
+        }
+      },
+      {
+        "left": "fossa intercondylaris",
+        "right": {
+          "uz": "xochsimon boylamlar birikadi",
+          "ru": "место крестообразных связок"
+        }
+      }
+    ]
+  },
+  {
+    "id": "t03-032",
+    "topic": 3,
+    "type": "ordering",
+    "status": "draft",
+    "prompt": {
+      "uz": "Oyoq suyaklarini proksimaldan distalga tartiblang",
+      "ru": "Расположите кости нижней конечности от проксимальных к дистальным"
+    },
+    "items": [
+      "os coxae",
+      "femur",
+      "tibia",
+      "talus",
+      "ossa metatarsi",
+      "phalanges"
+    ]
+  },
+  {
+    "id": "t03-033",
+    "topic": 3,
+    "type": "ordering",
+    "status": "draft",
+    "prompt": {
+      "uz": "Son suyagi proksimal uchi tuzilmalarini medialdan lateralga tartiblang",
+      "ru": "Расположите образования проксимального конца бедра от медиального к латеральному"
+    },
+    "items": [
+      "caput femoris",
+      "collum femoris",
+      "trochanter major"
+    ]
+  },
+  {
+    "id": "t03-034",
+    "topic": 3,
+    "type": "cloze",
+    "status": "draft",
+    "prompt": {
+      "uz": "Lotincha atamalarni yozing",
+      "ru": "Впишите латинские термины"
+    },
+    "text": {
+      "uz": "Son suyagining katta va kichik ko‘stlari oldinda {{1}}, orqada {{2}} bilan tutashgan.",
+      "ru": "Большой и малый вертелы соединены спереди {{1}}, сзади — {{2}}."
+    },
+    "blanks": [
+      [
+        "linea intertrochanterica"
+      ],
+      [
+        "crista intertrochanterica"
+      ]
+    ]
+  },
+  {
+    "id": "t03-035",
+    "topic": 3,
+    "type": "cloze",
+    "status": "draft",
+    "prompt": {
+      "uz": "Lotincha atamalarni yozing",
+      "ru": "Впишите латинские термины"
+    },
+    "text": {
+      "uz": "Chanoq suyagida quymich va qov suyaklari {{1}} teshikni chegaralaydi.",
+      "ru": "Седалищная и лобковая кости ограничивают {{1}} отверстие (лат.)."
+    },
+    "blanks": [
+      [
+        "foramen obturatum",
+        "obturatum"
+      ]
+    ]
+  },
+  {
+    "id": "t03-036",
+    "topic": 3,
+    "type": "cloze",
+    "status": "draft",
+    "prompt": {
+      "uz": "Lotincha atamalarni yozing",
+      "ru": "Впишите латинские термины"
+    },
+    "text": {
+      "uz": "Katta boldir suyagi proksimal uchida medial do‘ng (lot. {{1}}) va lateral do‘ng (lot. {{2}}) bor.",
+      "ru": "На проксимальном конце большеберцовой кости медиальный мыщелок (лат. {{1}}) и латеральный (лат. {{2}})."
+    },
+    "blanks": [
+      [
+        "condylus medialis"
+      ],
+      [
+        "condylus lateralis"
+      ]
+    ]
+  },
+  {
+    "id": "t03-037",
+    "topic": 3,
+    "type": "hotspot",
+    "status": "draft",
+    "prompt": {
+      "uz": "Quymich kosasini toping",
+      "ru": "Найдите вертлужную впадину"
+    },
+    "explanation": {
+      "uz": "Acetabulum.",
+      "ru": "Acetabulum."
+    },
+    "image": "gray235-hipbone",
+    "zones": [
+      {
+        "id": "acetabulum",
+        "kind": "circle",
+        "cx": 46,
+        "cy": 65.9,
+        "r": 13.2
+      }
+    ],
+    "correct": [
+      "acetabulum"
+    ]
+  },
+  {
+    "id": "t03-038",
+    "topic": 3,
+    "type": "hotspot",
+    "status": "draft",
+    "prompt": {
+      "uz": "Yopqich teshikni toping",
+      "ru": "Найдите запирательное отверстие"
+    },
+    "explanation": {
+      "uz": "Foramen obturatum.",
+      "ru": "Foramen obturatum."
+    },
+    "image": "gray235-hipbone",
+    "zones": [
+      {
+        "id": "obt",
+        "kind": "polygon",
+        "points": [
+          [
+            42.9,
+            75.7
+          ],
+          [
+            55.5,
+            73
+          ],
+          [
+            62.4,
+            76.8
+          ],
+          [
+            58,
+            85.1
+          ],
+          [
+            47.3,
+            87.3
+          ],
+          [
+            42.2,
+            82.3
+          ]
+        ]
+      }
+    ],
+    "correct": [
+      "obt"
+    ]
+  },
+  {
+    "id": "t03-039",
+    "topic": 3,
+    "type": "hotspot",
+    "status": "draft",
+    "prompt": {
+      "uz": "Son suyagi boshchasini toping",
+      "ru": "Найдите головку бедренной кости"
+    },
+    "explanation": {
+      "uz": "Caput femoris.",
+      "ru": "Caput femoris."
+    },
+    "image": "gray244-femur",
+    "zones": [
+      {
+        "id": "head",
+        "kind": "circle",
+        "cx": 65.3,
+        "cy": 6,
+        "r": 12.4
+      }
+    ],
+    "correct": [
+      "head"
+    ]
+  },
+  {
+    "id": "t03-040",
+    "topic": 3,
+    "type": "labels",
+    "status": "draft",
+    "prompt": {
+      "uz": "Chanoq suyagi tuzilmalarini belgilang",
+      "ru": "Подпишите образования тазовой кости"
+    },
+    "image": "gray235-hipbone",
+    "targets": [
+      {
+        "id": "ci",
+        "x": 41.6,
+        "y": 8.2,
+        "label": "crista iliaca"
+      },
+      {
+        "id": "ac",
+        "x": 46,
+        "y": 65.9,
+        "label": "acetabulum"
+      },
+      {
+        "id": "fo",
+        "x": 51.7,
+        "y": 81.2,
+        "label": "foramen obturatum"
+      },
+      {
+        "id": "ti",
+        "x": 28.4,
+        "y": 90,
+        "label": "tuber ischiadicum"
+      },
+      {
+        "id": "sias",
+        "x": 70.6,
+        "y": 35.1,
+        "label": "spina iliaca anterior superior"
+      }
+    ],
+    "distractors": [
+      "trochanter major"
+    ]
+  },
+  {
+    "id": "t03-041",
+    "topic": 3,
+    "type": "labels",
+    "status": "draft",
+    "prompt": {
+      "uz": "Son suyagi tuzilmalarini belgilang",
+      "ru": "Подпишите образования бедренной кости"
+    },
+    "image": "gray244-femur",
+    "targets": [
+      {
+        "id": "h",
+        "x": 66.4,
+        "y": 6.4,
+        "label": "caput femoris"
+      },
+      {
+        "id": "n",
+        "x": 54.6,
+        "y": 10.4,
+        "label": "collum femoris"
+      },
+      {
+        "id": "tm",
+        "x": 24.6,
+        "y": 10.4,
+        "label": "trochanter major"
+      },
+      {
+        "id": "b",
+        "x": 45,
+        "y": 47.9,
+        "label": "corpus femoris"
+      },
+      {
+        "id": "cm",
+        "x": 64.2,
+        "y": 93.4,
+        "label": "condylus medialis"
+      }
+    ],
+    "distractors": [
+      "tuberositas tibiae"
+    ]
+  }
+]

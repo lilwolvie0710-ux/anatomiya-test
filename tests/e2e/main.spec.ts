@@ -165,7 +165,9 @@ test('полный сценарий экзамена офлайн', async ({ bro
   const qrText = (await qr.getAttribute('data-qr'))!;
   expect(qrText.startsWith('AT1:')).toBeTruthy();
   const grade = Number(await sp.getByTestId('grade').textContent());
-  expect([0, 1, 2]).toContain(grade);
+  expect(grade).toBeGreaterThanOrEqual(0);
+  expect(grade).toBeLessThanOrEqual(2);
+  expect(Math.round(grade * 10)).toBeCloseTo(grade * 10, 5);
   await expect(sp.locator('.stat').nth(2)).toContainText(/[1-9]/); // есть нарушения
 
   // ---------- преподаватель принимает результат ----------

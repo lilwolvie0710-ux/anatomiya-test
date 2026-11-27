@@ -1,0 +1,1099 @@
+[
+  {
+    "id": "t05-001",
+    "topic": 5,
+    "type": "single",
+    "status": "draft",
+    "prompt": {
+      "uz": "Gipofiz qayerda joylashadi?",
+      "ru": "Где располагается гипофиз?"
+    },
+    "explanation": {
+      "uz": "Gipofiz chuqurchasi turk egarining (sella turcica) o‘rtasida, ponasimon suyak tanasida.",
+      "ru": "Гипофизарная ямка — в центре турецкого седла (sella turcica) на теле клиновидной кости."
+    },
+    "options": [
+      {
+        "id": "a",
+        "text": "fossa hypophysialis"
+      },
+      {
+        "id": "b",
+        "text": "fossa pterygoidea"
+      },
+      {
+        "id": "c",
+        "text": "fossa mandibularis"
+      },
+      {
+        "id": "d",
+        "text": "fossa jugularis"
+      }
+    ],
+    "correct": "a"
+  },
+  {
+    "id": "t05-002",
+    "topic": 5,
+    "type": "single",
+    "status": "draft",
+    "prompt": {
+      "uz": "Yumaloq teshik (foramen rotundum) orqali qaysi nerv o‘tadi?",
+      "ru": "Какой нерв проходит через круглое отверстие?"
+    },
+    "options": [
+      {
+        "id": "a",
+        "text": {
+          "uz": "yuqori jag‘ nervi (V2)",
+          "ru": "верхнечелюстной нерв (V2)"
+        }
+      },
+      {
+        "id": "b",
+        "text": {
+          "uz": "pastki jag‘ nervi (V3)",
+          "ru": "нижнечелюстной нерв (V3)"
+        }
+      },
+      {
+        "id": "c",
+        "text": {
+          "uz": "ko‘ruv nervi (II)",
+          "ru": "зрительный нерв (II)"
+        }
+      },
+      {
+        "id": "d",
+        "text": {
+          "uz": "yuz nervi (VII)",
+          "ru": "лицевой нерв (VII)"
+        }
+      }
+    ],
+    "correct": "a"
+  },
+  {
+    "id": "t05-003",
+    "topic": 5,
+    "type": "single",
+    "status": "draft",
+    "prompt": {
+      "uz": "Oval teshik (foramen ovale) orqali qaysi nerv o‘tadi?",
+      "ru": "Какой нерв проходит через овальное отверстие?"
+    },
+    "options": [
+      {
+        "id": "a",
+        "text": {
+          "uz": "pastki jag‘ nervi (V3)",
+          "ru": "нижнечелюстной нерв (V3)"
+        }
+      },
+      {
+        "id": "b",
+        "text": {
+          "uz": "yuqori jag‘ nervi (V2)",
+          "ru": "верхнечелюстной нерв (V2)"
+        }
+      },
+      {
+        "id": "c",
+        "text": {
+          "uz": "ko‘z nervi (V1)",
+          "ru": "глазной нерв (V1)"
+        }
+      },
+      {
+        "id": "d",
+        "text": {
+          "uz": "adashgan nerv (X)",
+          "ru": "блуждающий нерв (X)"
+        }
+      }
+    ],
+    "correct": "a"
+  },
+  {
+    "id": "t05-004",
+    "topic": 5,
+    "type": "single",
+    "status": "draft",
+    "prompt": {
+      "uz": "O‘tkir teshik (foramen spinosum) orqali nima o‘tadi?",
+      "ru": "Что проходит через остистое отверстие?"
+    },
+    "options": [
+      {
+        "id": "a",
+        "text": "a. meningea media"
+      },
+      {
+        "id": "b",
+        "text": "a. carotis interna"
+      },
+      {
+        "id": "c",
+        "text": "v. jugularis interna"
+      },
+      {
+        "id": "d",
+        "text": "n. opticus"
+      }
+    ],
+    "correct": "a"
+  },
+  {
+    "id": "t05-005",
+    "topic": 5,
+    "type": "single",
+    "status": "draft",
+    "prompt": {
+      "uz": "Ko‘ruv kanali (canalis opticus) ponasimon suyakning qaysi qismida?",
+      "ru": "В какой части клиновидной кости находится зрительный канал?"
+    },
+    "explanation": {
+      "uz": "Ko‘ruv kanali kichik qanot asosida; undan n. opticus va a. ophthalmica o‘tadi.",
+      "ru": "Зрительный канал — у основания малого крыла; через него проходят n. opticus и a. ophthalmica."
+    },
+    "options": [
+      {
+        "id": "a",
+        "text": "ala minor"
+      },
+      {
+        "id": "b",
+        "text": "ala major"
+      },
+      {
+        "id": "c",
+        "text": "processus pterygoideus"
+      },
+      {
+        "id": "d",
+        "text": "corpus (sella turcica)"
+      }
+    ],
+    "correct": "a"
+  },
+  {
+    "id": "t05-006",
+    "topic": 5,
+    "type": "single",
+    "status": "draft",
+    "prompt": {
+      "uz": "Chakka suyagining qaysi qismida o‘rta va ichki quloq joylashgan?",
+      "ru": "В какой части височной кости находятся среднее и внутреннее ухо?"
+    },
+    "options": [
+      {
+        "id": "a",
+        "text": "pars petrosa"
+      },
+      {
+        "id": "b",
+        "text": "pars squamosa"
+      },
+      {
+        "id": "c",
+        "text": "pars tympanica"
+      },
+      {
+        "id": "d",
+        "text": "processus zygomaticus"
+      }
+    ],
+    "correct": "a"
+  },
+  {
+    "id": "t05-007",
+    "topic": 5,
+    "type": "single",
+    "status": "draft",
+    "prompt": {
+      "uz": "Yuz nervi kalla suyagidan qaysi teshik orqali chiqadi?",
+      "ru": "Через какое отверстие лицевой нерв выходит из черепа?"
+    },
+    "explanation": {
+      "uz": "N. facialis canalis facialis orqali o‘tib, foramen stylomastoideum orqali chiqadi.",
+      "ru": "N. facialis проходит в canalis facialis и выходит через foramen stylomastoideum."
+    },
+    "options": [
+      {
+        "id": "a",
+        "text": "foramen stylomastoideum"
+      },
+      {
+        "id": "b",
+        "text": "foramen ovale"
+      },
+      {
+        "id": "c",
+        "text": "foramen jugulare"
+      },
+      {
+        "id": "d",
+        "text": "foramen lacerum"
+      }
+    ],
+    "correct": "a"
+  },
+  {
+    "id": "t05-008",
+    "topic": 5,
+    "type": "single",
+    "status": "draft",
+    "prompt": {
+      "uz": "Pastki jag‘ boshchasi chakka suyagining qaysi tuzilmasi bilan bo‘g‘im hosil qiladi?",
+      "ru": "С каким образованием височной кости сочленяется головка нижней челюсти?"
+    },
+    "options": [
+      {
+        "id": "a",
+        "text": "fossa mandibularis"
+      },
+      {
+        "id": "b",
+        "text": "processus mastoideus"
+      },
+      {
+        "id": "c",
+        "text": "meatus acusticus externus"
+      },
+      {
+        "id": "d",
+        "text": "fossa jugularis"
+      }
+    ],
+    "correct": "a"
+  },
+  {
+    "id": "t05-009",
+    "topic": 5,
+    "type": "single",
+    "status": "draft",
+    "prompt": {
+      "uz": "Uyqu kanali (canalis caroticus) orqali nima o‘tadi?",
+      "ru": "Что проходит через сонный канал?"
+    },
+    "options": [
+      {
+        "id": "a",
+        "text": "a. carotis interna"
+      },
+      {
+        "id": "b",
+        "text": "a. carotis externa"
+      },
+      {
+        "id": "c",
+        "text": "a. vertebralis"
+      },
+      {
+        "id": "d",
+        "text": "v. jugularis interna"
+      }
+    ],
+    "correct": "a"
+  },
+  {
+    "id": "t05-010",
+    "topic": 5,
+    "type": "single",
+    "status": "draft",
+    "prompt": {
+      "uz": "Ponasimon suyakning qanotsimon o‘simtasi nechta plastinkadan iborat?",
+      "ru": "Из скольких пластинок состоит крыловидный отросток?"
+    },
+    "explanation": {
+      "uz": "Lamina medialis va lamina lateralis; ular orasida qanotsimon chuqurcha.",
+      "ru": "Lamina medialis и lamina lateralis; между ними крыловидная ямка."
+    },
+    "options": [
+      {
+        "id": "a",
+        "text": "1"
+      },
+      {
+        "id": "b",
+        "text": "2"
+      },
+      {
+        "id": "c",
+        "text": "3"
+      },
+      {
+        "id": "d",
+        "text": "4"
+      }
+    ],
+    "correct": "b"
+  },
+  {
+    "id": "t05-011",
+    "topic": 5,
+    "type": "single",
+    "status": "draft",
+    "prompt": {
+      "uz": "Chakka suyagining qaysi o‘simtasi ichida havo hujayralari bor?",
+      "ru": "В каком отростке височной кости есть воздухоносные ячейки?"
+    },
+    "explanation": {
+      "uz": "Cellulae mastoideae nog‘ora bo‘shlig‘i bilan tutashadi — mastoidit shu bilan bog‘liq.",
+      "ru": "Cellulae mastoideae сообщаются с барабанной полостью — отсюда мастоидит."
+    },
+    "options": [
+      {
+        "id": "a",
+        "text": "processus mastoideus"
+      },
+      {
+        "id": "b",
+        "text": "processus styloideus"
+      },
+      {
+        "id": "c",
+        "text": "processus zygomaticus"
+      },
+      {
+        "id": "d",
+        "text": "processus pterygoideus"
+      }
+    ],
+    "correct": "a"
+  },
+  {
+    "id": "t05-012",
+    "topic": 5,
+    "type": "multi",
+    "status": "draft",
+    "prompt": {
+      "uz": "Ponasimon suyak qismlari",
+      "ru": "Части клиновидной кости"
+    },
+    "options": [
+      {
+        "id": "a",
+        "text": "corpus"
+      },
+      {
+        "id": "b",
+        "text": "alae minores"
+      },
+      {
+        "id": "c",
+        "text": "alae majores"
+      },
+      {
+        "id": "d",
+        "text": "processus pterygoidei"
+      },
+      {
+        "id": "e",
+        "text": "processus mastoideus"
+      }
+    ],
+    "correct": [
+      "a",
+      "b",
+      "c",
+      "d"
+    ]
+  },
+  {
+    "id": "t05-013",
+    "topic": 5,
+    "type": "multi",
+    "status": "draft",
+    "prompt": {
+      "uz": "Katta qanotdagi teshiklar",
+      "ru": "Отверстия большого крыла клиновидной кости"
+    },
+    "options": [
+      {
+        "id": "a",
+        "text": "foramen rotundum"
+      },
+      {
+        "id": "b",
+        "text": "foramen ovale"
+      },
+      {
+        "id": "c",
+        "text": "foramen spinosum"
+      },
+      {
+        "id": "d",
+        "text": "canalis opticus"
+      },
+      {
+        "id": "e",
+        "text": "foramen magnum"
+      }
+    ],
+    "correct": [
+      "a",
+      "b",
+      "c"
+    ]
+  },
+  {
+    "id": "t05-014",
+    "topic": 5,
+    "type": "multi",
+    "status": "draft",
+    "prompt": {
+      "uz": "Chakka suyagi qismlari",
+      "ru": "Части височной кости"
+    },
+    "explanation": {
+      "uz": "Pars basilaris — ensa suyagida.",
+      "ru": "Pars basilaris — у затылочной кости."
+    },
+    "options": [
+      {
+        "id": "a",
+        "text": "pars petrosa"
+      },
+      {
+        "id": "b",
+        "text": "pars squamosa"
+      },
+      {
+        "id": "c",
+        "text": "pars tympanica"
+      },
+      {
+        "id": "d",
+        "text": "pars basilaris"
+      }
+    ],
+    "correct": [
+      "a",
+      "b",
+      "c"
+    ]
+  },
+  {
+    "id": "t05-015",
+    "topic": 5,
+    "type": "multi",
+    "status": "draft",
+    "prompt": {
+      "uz": "Chakka suyagi piramidasidagi kanallar",
+      "ru": "Каналы пирамиды височной кости"
+    },
+    "options": [
+      {
+        "id": "a",
+        "text": "canalis caroticus"
+      },
+      {
+        "id": "b",
+        "text": "canalis facialis"
+      },
+      {
+        "id": "c",
+        "text": "canalis musculotubarius"
+      },
+      {
+        "id": "d",
+        "text": "canalis opticus"
+      },
+      {
+        "id": "e",
+        "text": "canalis nervi hypoglossi"
+      }
+    ],
+    "correct": [
+      "a",
+      "b",
+      "c"
+    ]
+  },
+  {
+    "id": "t05-016",
+    "topic": 5,
+    "type": "multi",
+    "status": "draft",
+    "prompt": {
+      "uz": "Yuqori ko‘z kosasi yorig‘idan o‘tadigan nervlar",
+      "ru": "Нервы, проходящие через верхнюю глазничную щель"
+    },
+    "options": [
+      {
+        "id": "a",
+        "text": {
+          "uz": "ko‘zni harakatlantiruvchi (III)",
+          "ru": "глазодвигательный (III)"
+        }
+      },
+      {
+        "id": "b",
+        "text": {
+          "uz": "g‘altak (IV)",
+          "ru": "блоковый (IV)"
+        }
+      },
+      {
+        "id": "c",
+        "text": {
+          "uz": "ko‘z nervi (V1)",
+          "ru": "глазной (V1)"
+        }
+      },
+      {
+        "id": "d",
+        "text": {
+          "uz": "uzoqlashtiruvchi (VI)",
+          "ru": "отводящий (VI)"
+        }
+      },
+      {
+        "id": "e",
+        "text": {
+          "uz": "ko‘ruv (II)",
+          "ru": "зрительный (II)"
+        }
+      }
+    ],
+    "correct": [
+      "a",
+      "b",
+      "c",
+      "d"
+    ]
+  },
+  {
+    "id": "t05-017",
+    "topic": 5,
+    "type": "truefalse",
+    "status": "draft",
+    "prompt": {
+      "uz": "Ponasimon bo‘shliq (sinus sphenoidalis) ponasimon suyak tanasida joylashgan.",
+      "ru": "Клиновидная пазуха находится в теле клиновидной кости."
+    },
+    "correct": true
+  },
+  {
+    "id": "t05-018",
+    "topic": 5,
+    "type": "truefalse",
+    "status": "draft",
+    "prompt": {
+      "uz": "Bigizsimon o‘simta (processus styloideus) ponasimon suyakda.",
+      "ru": "Шиловидный отросток принадлежит клиновидной кости."
+    },
+    "explanation": {
+      "uz": "Noto‘g‘ri: chakka suyagida.",
+      "ru": "Неверно: височной кости."
+    },
+    "correct": false
+  },
+  {
+    "id": "t05-019",
+    "topic": 5,
+    "type": "truefalse",
+    "status": "draft",
+    "prompt": {
+      "uz": "Tashqi eshituv yo‘li chakka suyagining nog‘ora qismi bilan chegaralangan.",
+      "ru": "Наружный слуховой проход ограничен барабанной частью височной кости."
+    },
+    "correct": true
+  },
+  {
+    "id": "t05-020",
+    "topic": 5,
+    "type": "truefalse",
+    "status": "draft",
+    "prompt": {
+      "uz": "Ichki eshituv teshigi piramidaning orqa yuzasida joylashgan.",
+      "ru": "Внутреннее слуховое отверстие находится на задней поверхности пирамиды."
+    },
+    "correct": true
+  },
+  {
+    "id": "t05-021",
+    "topic": 5,
+    "type": "truefalse",
+    "status": "draft",
+    "prompt": {
+      "uz": "Yoysimon tepalik (eminentia arcuata) ichida oldingi yarim doira kanal yotadi.",
+      "ru": "Под дугообразным возвышением лежит передний полукружный канал."
+    },
+    "correct": true
+  },
+  {
+    "id": "t05-022",
+    "topic": 5,
+    "type": "truefalse",
+    "status": "draft",
+    "prompt": {
+      "uz": "Kichik qanotlar ponasimon suyak tanasidan pastga va orqaga yo‘nalgan.",
+      "ru": "Малые крылья отходят от тела клиновидной кости вниз и назад."
+    },
+    "explanation": {
+      "uz": "Noto‘g‘ri: kichik qanotlar oldinga va lateral yo‘nalgan; pastga qanotsimon o‘simtalar yo‘nalgan.",
+      "ru": "Неверно: малые крылья направлены вперёд и латерально; вниз отходят крыловидные отростки."
+    },
+    "correct": false
+  },
+  {
+    "id": "t05-023",
+    "topic": 5,
+    "type": "latin",
+    "status": "draft",
+    "prompt": {
+      "uz": "Lotincha yozing: ponasimon suyak",
+      "ru": "Напишите по-латыни: клиновидная кость"
+    },
+    "accepted": [
+      "os sphenoidale"
+    ]
+  },
+  {
+    "id": "t05-024",
+    "topic": 5,
+    "type": "latin",
+    "status": "draft",
+    "prompt": {
+      "uz": "Lotincha yozing: chakka suyagi",
+      "ru": "Напишите по-латыни: височная кость"
+    },
+    "accepted": [
+      "os temporale"
+    ]
+  },
+  {
+    "id": "t05-025",
+    "topic": 5,
+    "type": "latin",
+    "status": "draft",
+    "prompt": {
+      "uz": "Lotincha yozing: turk egari",
+      "ru": "Напишите по-латыни: турецкое седло"
+    },
+    "accepted": [
+      "sella turcica"
+    ]
+  },
+  {
+    "id": "t05-026",
+    "topic": 5,
+    "type": "latin",
+    "status": "draft",
+    "prompt": {
+      "uz": "Lotincha yozing: so‘rg‘ichsimon o‘simta",
+      "ru": "Напишите по-латыни: сосцевидный отросток"
+    },
+    "accepted": [
+      "processus mastoideus"
+    ]
+  },
+  {
+    "id": "t05-027",
+    "topic": 5,
+    "type": "latin",
+    "status": "draft",
+    "prompt": {
+      "uz": "Lotincha yozing: bigizsimon o‘simta",
+      "ru": "Напишите по-латыни: шиловидный отросток"
+    },
+    "accepted": [
+      "processus styloideus"
+    ]
+  },
+  {
+    "id": "t05-028",
+    "topic": 5,
+    "type": "latin",
+    "status": "draft",
+    "prompt": {
+      "uz": "Lotincha yozing: oval teshik",
+      "ru": "Напишите по-латыни: овальное отверстие"
+    },
+    "accepted": [
+      "foramen ovale"
+    ]
+  },
+  {
+    "id": "t05-029",
+    "topic": 5,
+    "type": "matching",
+    "status": "draft",
+    "prompt": {
+      "uz": "Teshik va undan o‘tadigan tuzilmani moslang",
+      "ru": "Сопоставьте отверстие и проходящее через него образование"
+    },
+    "pairs": [
+      {
+        "left": "canalis opticus",
+        "right": "n. opticus"
+      },
+      {
+        "left": "foramen rotundum",
+        "right": "n. maxillaris"
+      },
+      {
+        "left": "foramen ovale",
+        "right": "n. mandibularis"
+      },
+      {
+        "left": "foramen spinosum",
+        "right": "a. meningea media"
+      },
+      {
+        "left": "canalis caroticus",
+        "right": "a. carotis interna"
+      }
+    ]
+  },
+  {
+    "id": "t05-030",
+    "topic": 5,
+    "type": "matching",
+    "status": "draft",
+    "prompt": {
+      "uz": "Chakka suyagi tuzilmasi va qismini moslang",
+      "ru": "Сопоставьте образование и часть височной кости"
+    },
+    "pairs": [
+      {
+        "left": "processus mastoideus",
+        "right": "pars petrosa"
+      },
+      {
+        "left": "processus zygomaticus",
+        "right": "pars squamosa"
+      },
+      {
+        "left": "meatus acusticus externus",
+        "right": "pars tympanica"
+      }
+    ]
+  },
+  {
+    "id": "t05-031",
+    "topic": 5,
+    "type": "matching",
+    "status": "draft",
+    "prompt": {
+      "uz": "Ponasimon suyak tuzilmasi va qismini moslang",
+      "ru": "Сопоставьте образование и часть клиновидной кости"
+    },
+    "pairs": [
+      {
+        "left": "sella turcica",
+        "right": "corpus"
+      },
+      {
+        "left": "canalis opticus",
+        "right": "ala minor"
+      },
+      {
+        "left": "foramen ovale",
+        "right": "ala major"
+      },
+      {
+        "left": "fossa pterygoidea",
+        "right": "processus pterygoideus"
+      }
+    ]
+  },
+  {
+    "id": "t05-032",
+    "topic": 5,
+    "type": "ordering",
+    "status": "draft",
+    "prompt": {
+      "uz": "Katta qanot teshiklarini oldindan orqaga tartiblang",
+      "ru": "Расположите отверстия большого крыла спереди назад"
+    },
+    "items": [
+      "foramen rotundum",
+      "foramen ovale",
+      "foramen spinosum"
+    ]
+  },
+  {
+    "id": "t05-033",
+    "topic": 5,
+    "type": "ordering",
+    "status": "draft",
+    "prompt": {
+      "uz": "Yuz nervi yo‘lini tartiblang",
+      "ru": "Расположите этапы пути лицевого нерва по порядку"
+    },
+    "items": [
+      "porus acusticus internus",
+      "canalis facialis",
+      "foramen stylomastoideum"
+    ]
+  },
+  {
+    "id": "t05-034",
+    "topic": 5,
+    "type": "cloze",
+    "status": "draft",
+    "prompt": {
+      "uz": "Lotincha atamalarni yozing",
+      "ru": "Впишите латинские термины"
+    },
+    "text": {
+      "uz": "Turk egari oldida {{1}}, orqasida {{2}} joylashgan.",
+      "ru": "Турецкое седло спереди ограничено {{1}}, сзади — {{2}}."
+    },
+    "blanks": [
+      [
+        "tuberculum sellae"
+      ],
+      [
+        "dorsum sellae"
+      ]
+    ]
+  },
+  {
+    "id": "t05-035",
+    "topic": 5,
+    "type": "cloze",
+    "status": "draft",
+    "prompt": {
+      "uz": "Lotincha atamalarni yozing",
+      "ru": "Впишите латинские термины"
+    },
+    "text": {
+      "uz": "Chakka suyagining yonoq o‘simtasi yonoq suyagining chakka o‘simtasi bilan birga {{1}} hosil qiladi.",
+      "ru": "Скуловой отросток височной кости вместе с височным отростком скуловой кости образует {{1}}."
+    },
+    "blanks": [
+      [
+        "arcus zygomaticus"
+      ]
+    ]
+  },
+  {
+    "id": "t05-036",
+    "topic": 5,
+    "type": "cloze",
+    "status": "draft",
+    "prompt": {
+      "uz": "Lotincha atamalarni yozing",
+      "ru": "Впишите латинские термины"
+    },
+    "text": {
+      "uz": "Ichki uyqu arteriyasi {{1}} orqali kalla bo‘shlig‘iga kiradi; ichki eshituv yo‘lidan {{2}} va VIII nervlar o‘tadi.",
+      "ru": "Внутренняя сонная артерия входит в череп через {{1}}; через внутренний слуховой проход проходят {{2}} и VIII нервы."
+    },
+    "blanks": [
+      [
+        "canalis caroticus"
+      ],
+      [
+        "VII",
+        "n. facialis",
+        "nervus facialis"
+      ]
+    ]
+  },
+  {
+    "id": "t05-037",
+    "topic": 5,
+    "type": "hotspot",
+    "status": "draft",
+    "prompt": {
+      "uz": "Gipofiz chuqurchasini toping",
+      "ru": "Найдите гипофизарную ямку"
+    },
+    "explanation": {
+      "uz": "Fossa hypophysialis — turk egarining markazi.",
+      "ru": "Fossa hypophysialis — центр турецкого седла."
+    },
+    "image": "gray145-sphenoid",
+    "zones": [
+      {
+        "id": "fh",
+        "kind": "circle",
+        "cx": 52.2,
+        "cy": 46,
+        "r": 3.9
+      }
+    ],
+    "correct": [
+      "fh"
+    ]
+  },
+  {
+    "id": "t05-038",
+    "topic": 5,
+    "type": "hotspot",
+    "status": "draft",
+    "prompt": {
+      "uz": "Oval teshikni toping",
+      "ru": "Найдите овальное отверстие"
+    },
+    "explanation": {
+      "uz": "Foramen ovale — o‘ng yoki chap.",
+      "ru": "Foramen ovale — правое или левое."
+    },
+    "image": "gray145-sphenoid",
+    "zones": [
+      {
+        "id": "ovl",
+        "kind": "circle",
+        "cx": 33.1,
+        "cy": 65.5,
+        "r": 2.5
+      },
+      {
+        "id": "ovr",
+        "kind": "circle",
+        "cx": 68.1,
+        "cy": 65.7,
+        "r": 2.5
+      }
+    ],
+    "correct": [
+      "ovl",
+      "ovr"
+    ]
+  },
+  {
+    "id": "t05-039",
+    "topic": 5,
+    "type": "hotspot",
+    "status": "draft",
+    "prompt": {
+      "uz": "So‘rg‘ichsimon o‘simtani toping",
+      "ru": "Найдите сосцевидный отросток"
+    },
+    "explanation": {
+      "uz": "Processus mastoideus.",
+      "ru": "Processus mastoideus."
+    },
+    "image": "gray137-temporal",
+    "zones": [
+      {
+        "id": "mast",
+        "kind": "polygon",
+        "points": [
+          [
+            57,
+            70.2
+          ],
+          [
+            71,
+            66.8
+          ],
+          [
+            74,
+            80.2
+          ],
+          [
+            66,
+            87.3
+          ],
+          [
+            58,
+            82.4
+          ]
+        ]
+      }
+    ],
+    "correct": [
+      "mast"
+    ]
+  },
+  {
+    "id": "t05-040",
+    "topic": 5,
+    "type": "labels",
+    "status": "draft",
+    "prompt": {
+      "uz": "Ponasimon suyak tuzilmalarini belgilang",
+      "ru": "Подпишите образования клиновидной кости"
+    },
+    "image": "gray145-sphenoid",
+    "targets": [
+      {
+        "id": "fh",
+        "x": 52.2,
+        "y": 46,
+        "label": "fossa hypophysialis"
+      },
+      {
+        "id": "ami",
+        "x": 34.5,
+        "y": 27.4,
+        "label": "ala minor"
+      },
+      {
+        "id": "ama",
+        "x": 77.3,
+        "y": 35.9,
+        "label": "ala major"
+      },
+      {
+        "id": "fo",
+        "x": 68.1,
+        "y": 65.7,
+        "label": "foramen ovale"
+      },
+      {
+        "id": "fr",
+        "x": 63.8,
+        "y": 48.2,
+        "label": "foramen rotundum"
+      }
+    ],
+    "distractors": [
+      "foramen magnum",
+      "porus acusticus internus"
+    ]
+  },
+  {
+    "id": "t05-041",
+    "topic": 5,
+    "type": "labels",
+    "status": "draft",
+    "prompt": {
+      "uz": "Chakka suyagi tuzilmalarini belgilang",
+      "ru": "Подпишите образования височной кости"
+    },
+    "image": "gray137-temporal",
+    "targets": [
+      {
+        "id": "sq",
+        "x": 45,
+        "y": 20,
+        "label": "pars squamosa"
+      },
+      {
+        "id": "pz",
+        "x": 20,
+        "y": 49.4,
+        "label": "processus zygomaticus"
+      },
+      {
+        "id": "mae",
+        "x": 50,
+        "y": 57.5,
+        "label": "meatus acusticus externus"
+      },
+      {
+        "id": "pm",
+        "x": 64,
+        "y": 76.8,
+        "label": "processus mastoideus"
+      },
+      {
+        "id": "ps",
+        "x": 44.4,
+        "y": 88.6,
+        "label": "processus styloideus"
+      }
+    ],
+    "distractors": [
+      "sella turcica"
+    ]
+  }
+]

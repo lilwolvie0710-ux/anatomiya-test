@@ -1,7 +1,7 @@
 import { describe, expect, it } from 'vitest';
 import { normalizeAnswer, matchesAny } from '../../src/core/normalize';
 import { gradeAnswer, gradeAll } from '../../src/core/grading';
-import { toGrade, DEFAULT_SCORING } from '../../src/core/scoring';
+import { toGrade, DEFAULT_SCORING, THRESHOLD_SCORING } from '../../src/core/scoring';
 import { encodeBase45, decodeBase45 } from '../../src/core/base45';
 import {
   decryptTest,
@@ -129,12 +129,19 @@ describe('геометрия', () => {
 });
 
 describe('перевод в балл', () => {
-  it('пороги по умолчанию: ≥86 → 2, ≥56 → 1', () => {
-    expect(toGrade(0.86, DEFAULT_SCORING)).toBe(2);
-    expect(toGrade(0.85, DEFAULT_SCORING)).toBe(1);
-    expect(toGrade(0.56, DEFAULT_SCORING)).toBe(1);
-    expect(toGrade(0.55, DEFAULT_SCORING)).toBe(0);
+  it('по умолчанию: 0–2 с шагом 0.1', () => {
     expect(toGrade(1, DEFAULT_SCORING)).toBe(2);
+    expect(toGrade(0.5, DEFAULT_SCORING)).toBe(1);
+    expect(toGrade(24 / 30, DEFAULT_SCORING)).toBe(1.6);
+    expect(toGrade(23 / 30, DEFAULT_SCORING)).toBe(1.5);
+    expect(toGrade(0, DEFAULT_SCORING)).toBe(0);
+  });
+  it('пороги: ≥86 → 2, ≥56 → 1', () => {
+    expect(toGrade(0.86, THRESHOLD_SCORING)).toBe(2);
+    expect(toGrade(0.85, THRESHOLD_SCORING)).toBe(1);
+    expect(toGrade(0.56, THRESHOLD_SCORING)).toBe(1);
+    expect(toGrade(0.55, THRESHOLD_SCORING)).toBe(0);
+    expect(toGrade(1, THRESHOLD_SCORING)).toBe(2);
   });
   it('линейно с шагом 0.1', () => {
     const rule = { mode: 'linear' as const, max: 2, step: 0.1 };
