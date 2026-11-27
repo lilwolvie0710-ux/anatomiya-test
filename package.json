@@ -12,7 +12,8 @@
     "icons": "pwa-assets-generator",
     "xlsx2json": "node scripts/xlsx-to-json.mjs",
     "template": "node scripts/make-template.mjs",
-    "validate": "node scripts/validate-bank.mjs"
+    "validate": "node scripts/validate-bank.mjs",
+    "guide": "node scripts/make-student-guide.mjs"
   },
   "dependencies": {
     "barcode-detector": "^3.2.5",

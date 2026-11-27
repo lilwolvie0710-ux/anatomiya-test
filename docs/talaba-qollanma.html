@@ -1,0 +1,111 @@
+<!doctype html>
+<html lang="uz">
+<head>
+<meta charset="utf-8">
+<title>Anatomiya test — talaba uchun qo‘llanma</title>
+<style>
+  @page { size: A4; margin: 14mm 13mm; }
+  * { box-sizing: border-box; }
+  :root { color-scheme: light; }
+  html { background: #fff; }
+  body { background: #fff; font-family: 'Segoe UI', Arial, sans-serif; font-size: 10.5pt; line-height: 1.38; color: #14171c; margin: 0; }
+  header { display: flex; gap: 16px; align-items: center; border-bottom: 3px solid #0f766e; padding-bottom: 10px; margin-bottom: 10px; }
+  header .qr { width: 118px; flex: none; }
+  header h1 { font-size: 20pt; margin: 0 0 2px; color: #0f766e; }
+  header .sub { font-size: 11pt; margin: 0; }
+  header .url { font-family: Consolas, monospace; font-size: 10.5pt; background: #eef6f5; padding: 3px 6px; border-radius: 5px; display: inline-block; margin-top: 6px; }
+  h2 { font-size: 12.5pt; margin: 12px 0 6px; padding: 5px 9px; background: #0f766e; color: #fff; border-radius: 6px; display: flex; align-items: baseline; gap: 8px; break-after: avoid; }
+  h2 .ico { font-size: 12pt; }
+  h2 .ru-h { font-weight: 400; font-size: 10.5pt; opacity: .9; margin-left: auto; }
+  h3 { font-size: 11pt; margin: 8px 0 4px; color: #0f766e; break-after: avoid; }
+  p { margin: 0 0 3px; }
+  .ru { color: #475066; font-style: italic; }
+  section { break-inside: auto; }
+  .steps { list-style: none; padding: 0; margin: 0; }
+  .steps li { display: flex; gap: 8px; margin: 0 0 5px; break-inside: avoid; }
+  .steps .n { flex: none; width: 20px; height: 20px; border-radius: 50%; background: #0f766e; color: #fff; font-weight: 700; font-size: 9.5pt; display: grid; place-items: center; margin-top: 1px; }
+  .cols { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; }
+  .box { border: 1.5px solid #cfd6df; border-radius: 8px; padding: 8px 10px; break-inside: avoid; }
+  .warn { border-color: #b45309; background: #fff7ed; }
+  .ok { border-color: #15803d; background: #f0fdf4; }
+  table { width: 100%; border-collapse: collapse; font-size: 9.8pt; }
+  td, th { border: 1px solid #cfd6df; padding: 4px 6px; vertical-align: top; text-align: left; }
+  th { background: #eef6f5; }
+  .big { font-size: 11.5pt; font-weight: 700; }
+  b.k { background: #eef0f4; border: 1px solid #cfd6df; border-radius: 4px; padding: 0 4px; font-weight: 600; }
+  footer { margin-top: 10px; font-size: 8.5pt; color: #5b6372; border-top: 1px solid #cfd6df; padding-top: 6px; }
+</style>
+</head>
+<body>
+<header>
+  <div class="qr"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 35 35" shape-rendering="crispEdges"><path fill="#ffffff" d="M0 0h35v35H0z"/><path stroke="#000000" d="M1 1.5h7m3 0h5m1 0h4m3 0h1m2 0h7M1 2.5h1m5 0h1m2 0h1m1 0h1m1 0h3m1 0h1m3 0h2m3 0h1m5 0h1M1 3.5h1m1 0h3m1 0h1m1 0h1m2 0h3m1 0h1m1 0h2m2 0h3m2 0h1m1 0h3m1 0h1M1 4.5h1m1 0h3m1 0h1m1 0h4m2 0h1m1 0h1m3 0h1m1 0h3m1 0h1m1 0h3m1 0h1M1 5.5h1m1 0h3m1 0h1m1 0h1m2 0h2m2 0h1m1 0h2m3 0h3m1 0h1m1 0h3m1 0h1M1 6.5h1m5 0h1m1 0h1m2 0h1m2 0h3m3 0h3m3 0h1m5 0h1M1 7.5h7m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h7M9 8.5h3m1 0h1m1 0h2m5 0h1m2 0h1M1 9.5h1m1 0h5m3 0h6m1 0h1m2 0h1m1 0h1m1 0h1m1 0h5M1 10.5h1m1 0h1m1 0h2m4 0h3m3 0h1m2 0h1m1 0h3m2 0h2m1 0h2m1 0h1M4 11.5h4m2 0h1m5 0h1m2 0h1m1 0h3m2 0h1m2 0h1m1 0h2M2 12.5h3m1 0h1m3 0h1m2 0h1m1 0h3m4 0h1m1 0h1m4 0h4M3 13.5h1m1 0h3m1 0h1m1 0h1m1 0h1m2 0h1m2 0h1m3 0h1m1 0h2m2 0h2m2 0h1M1 14.5h1m1 0h1m1 0h2m1 0h1m4 0h5m3 0h2m1 0h1m2 0h1m2 0h1m1 0h2M1 15.5h2m1 0h1m2 0h5m1 0h1m1 0h1m4 0h1m2 0h1m2 0h2m2 0h1m1 0h1M4 16.5h1m3 0h1m2 0h2m1 0h1m2 0h1m2 0h3m2 0h4m2 0h1M1 17.5h1m2 0h5m1 0h1m1 0h1m4 0h2m1 0h2m1 0h2m1 0h1m1 0h2m3 0h1M2 18.5h1m1 0h1m3 0h2m1 0h3m3 0h2m1 0h1m1 0h1m1 0h1m2 0h2m1 0h2m1 0h1M2 19.5h1m1 0h2m1 0h2m1 0h4m1 0h4m2 0h3m1 0h5m1 0h2M1 20.5h3m4 0h1m1 0h1m2 0h4m1 0h6m2 0h6m1 0h1M2 21.5h2m1 0h3m1 0h3m3 0h1m1 0h1m5 0h2m1 0h1m1 0h3m1 0h2M1 22.5h1m3 0h1m2 0h1m2 0h4m1 0h1m1 0h2m3 0h2m2 0h1m2 0h1m2 0h1M1 23.5h1m1 0h3m1 0h1m2 0h3m1 0h4m1 0h1m1 0h2m3 0h5m1 0h1M1 24.5h1m1 0h2m1 0h1m1 0h2m2 0h1m1 0h1m1 0h1m2 0h5m1 0h1m3 0h3m1 0h1M1 25.5h1m1 0h2m1 0h4m3 0h1m2 0h1m1 0h4m1 0h7M9 26.5h2m1 0h1m2 0h1m1 0h1m1 0h2m1 0h1m2 0h1m3 0h1m1 0h1m1 0h1M1 27.5h7m2 0h4m1 0h3m1 0h1m4 0h2m1 0h1m1 0h1m1 0h1M1 28.5h1m5 0h1m1 0h1m2 0h3m2 0h1m4 0h4m3 0h3m1 0h1M1 29.5h1m1 0h3m1 0h1m1 0h2m1 0h5m2 0h1m3 0h1m1 0h6M1 30.5h1m1 0h3m1 0h1m1 0h2m4 0h4m1 0h1m1 0h5m2 0h1m1 0h3M1 31.5h1m1 0h3m1 0h1m1 0h2m1 0h1m1 0h2m2 0h1m3 0h2m3 0h2m1 0h2M1 32.5h1m5 0h1m2 0h1m1 0h1m1 0h1m2 0h1m1 0h1m1 0h3m2 0h2m1 0h3M1 33.5h7m1 0h2m1 0h3m3 0h1m2 0h1m2 0h3m1 0h1m3 0h1"/></svg>
+</div>
+  <div>
+    <h1>Anatomiya test</h1>
+    <p class="sub"><b>Talaba uchun qo‘llanma</b> · Odam anatomiyasi (HUMAN ANATOMY 1)</p>
+    <p class="sub ru">Инструкция для студента · Анатомия человека</p>
+    <span class="url">https://lilwolvie0710-ux.github.io/anatomiya-test/</span>
+  </div>
+</header>
+
+<section><h2><span class="ico">📲</span>1. Ilovani o‘rnatish (bir marta, internet bilan)<span class="ru-h">1. Установка (один раз, с интернетом)</span></h2>
+<div class="cols">
+  <div class="box">
+    <h3>iPhone (Safari)</h3>
+    <ol class="steps"><li><span class="n">1</span><div><p>QR-kodni skanerlang yoki havolani <b>Safari</b>da oching. Telegram ichida ochilsa: <b class="k">⋯</b> → «Safari’da ochish».</p><p class="ru">Отсканируйте QR или откройте ссылку <b>в Safari</b>. Если открылось в Telegram: <b class="k">⋯</b> → «Открыть в Safari».</p></div></li><li><span class="n">2</span><div><p><b class="k">Ulashish</b> (strelkali kvadrat) → <b>«Bosh ekranga»</b> → «Qo‘shish».</p><p class="ru">Кнопка <b class="k">Поделиться</b> → <b>«На экран “Домой”»</b> → «Добавить».</p></div></li><li><span class="n">3</span><div><p>Ilovani bosh ekrandagi <b>Anatomiya</b> belgisidan oching.</p><p class="ru">Запускайте приложение со значка <b>Anatomiya</b> на главном экране.</p></div></li></ol>
+  </div>
+  <div class="box">
+    <h3>Android (Chrome)</h3>
+    <ol class="steps"><li><span class="n">1</span><div><p>QR-kodni skanerlang yoki havolani <b>Chrome</b>da oching.</p><p class="ru">Отсканируйте QR или откройте ссылку <b>в Chrome</b>.</p></div></li><li><span class="n">2</span><div><p>Menyu <b class="k">⋮</b> → <b>«Ilovani o‘rnatish»</b> (yoki «Bosh ekranga qo‘shish»).</p><p class="ru">Меню <b class="k">⋮</b> → <b>«Установить приложение»</b> (или «Добавить на главный экран»).</p></div></li><li><span class="n">3</span><div><p>Ilovani bosh ekrandagi <b>Anatomiya</b> belgisidan oching.</p><p class="ru">Запускайте приложение со значка <b>Anatomiya</b> на главном экране.</p></div></li></ol>
+  </div>
+</div>
+<div class="box ok" style="margin-top:8px">
+  <p><b>Tekshirish:</b> parvoz rejimini yoqing va ilovani oching — u internetsiz ochilishi kerak. Ochilmasa, internet bilan yana bir marta oching va 1 daqiqa kuting.</p><p class="ru"><b>Проверка:</b> включите авиарежим и откройте приложение — оно должно открыться без интернета. Если нет — откройте ещё раз с интернетом и подождите 1 минуту.</p>
+</div></section>
+
+<section><h2><span class="ico">👤</span>2. Profil<span class="ru-h">2. Профиль</span></h2><ol class="steps"><li><span class="n">1</span><div><p>Bosh sahifada <b>«Profil»</b>ni bosing: <b>F.I.Sh.</b> (pasport bo‘yicha to‘liq), <b>guruh</b> va <b>fakultet</b>ni kiriting → «Saqlash».</p><p class="ru">На главном экране нажмите <b>«Профиль»</b>: введите <b>ФИО</b> (полностью, как в паспорте), <b>группу</b> и <b>факультет</b> → «Сохранить».</p></div></li><li><span class="n">2</span><div><p>Profil bir marta kiritiladi va faqat telefoningizda saqlanadi. U imtihon natijasiga yoziladi — xato bo‘lmasin.</p><p class="ru">Профиль вводится один раз и хранится только в телефоне. Он попадает в результат экзамена — проверьте, что без ошибок.</p></div></li><li><span class="n">3</span><div><p>Tilni almashtirish: <b class="k">⚙︎</b> Sozlamalar → O‘zbekcha / Русский.</p><p class="ru">Сменить язык: <b class="k">⚙︎</b> Настройки → O‘zbekcha / Русский.</p></div></li></ol></section>
+
+<section><h2><span class="ico">🦴</span>3. Mashq (tayyorgarlik)<span class="ru-h">3. Тренировка (подготовка)</span></h2><ol class="steps"><li><span class="n">1</span><div><p><b>«Mashq»</b> → mavzuni tanlang → savollar sonini tanlang → «Boshlash».</p><p class="ru"><b>«Тренировка»</b> → выберите тему → число вопросов → «Начать».</p></div></li><li><span class="n">2</span><div><p>Javob bering va <b>«Tekshirish»</b>ni bosing: to‘g‘ri javob va qisqa izoh chiqadi. Vaqt cheklanmagan.</p><p class="ru">Ответьте и нажмите <b>«Проверить»</b>: появится правильный ответ и объяснение. Время не ограничено.</p></div></li><li><span class="n">3</span><div><p><b>«Statistika»</b>da natijalaringiz, zaif mavzular va rivojlanish grafigi ko‘rinadi.</p><p class="ru">В <b>«Статистике»</b> — ваши результаты, слабые темы и график прогресса.</p></div></li></ol></section>
+
+<section><h2><span class="ico">✍️</span>4. Savol turlari — qanday javob berish<span class="ru-h">4. Типы заданий — как отвечать</span></h2>
+<table>
+<tr><th style="width:27%">Turi / Тип</th><th>Qanday javob beriladi</th><th>Как отвечать</th></tr>
+<tr><td>Bitta / bir nechta javob</td><td>Variant(lar)ni bosing. Bir nechta bo‘lsa — barcha to‘g‘rilarini belgilang.</td><td class="ru">Нажмите вариант(ы). Если несколько — отметьте все верные.</td></tr>
+<tr><td>To‘g‘ri / noto‘g‘ri</td><td>Bitta tugmani bosing.</td><td class="ru">Нажмите одну из двух кнопок.</td></tr>
+<tr><td>Lotincha atama</td><td>Lotin tilida yozing. Katta-kichik harf va ortiqcha bo‘shliq farq qilmaydi, lekin imlo xatosi — xato.</td><td class="ru">Напишите на латыни. Регистр и лишние пробелы не важны, но опечатка — ошибка.</td></tr>
+<tr><td>Moslashtirish</td><td>Chapdagi har bir element uchun ro‘yxatdan mosini tanlang.</td><td class="ru">Для каждого элемента слева выберите пару из списка.</td></tr>
+<tr><td>Tartib bilan joylash</td><td><b class="k">▲</b> <b class="k">▼</b> bilan tartibni o‘zgartiring. Tartib allaqachon to‘g‘ri bo‘lsa — <b>«Saqlash»</b>ni bosing.</td><td class="ru">Меняйте порядок стрелками. Если порядок уже верный — нажмите <b>«Сохранить»</b>.</td></tr>
+<tr><td>Tushirib qoldirilgan so‘z</td><td>Har bir bo‘sh joyga lotincha atamani yozing.</td><td class="ru">Впишите латинский термин в каждое поле.</td></tr>
+<tr><td>Rasmda toping</td><td>Rasmdagi kerakli joyga bosing — belgi paydo bo‘ladi. Qayta bosib o‘zgartirish mumkin.</td><td class="ru">Коснитесь нужного места на рисунке — появится метка. Можно перенести.</td></tr>
+<tr><td>Yozuvlarni joylang</td><td>Yozuvni tanlang, so‘ng rasmdagi raqamli nuqtani bosing (yoki sudrang). Nuqtani qayta bossangiz — tozalanadi.</td><td class="ru">Выберите подпись и коснитесь точки с номером (или перетащите). Повторное касание — очистить.</td></tr>
+</table></section>
+
+<section><h2><span class="ico">📝</span>5. Imtihon tartibi<span class="ru-h">5. Порядок экзамена</span></h2>
+<h3>Darsdan oldin · До занятия</h3>
+<ol class="steps"><li><span class="n">1</span><div><p>Ilova o‘rnatilgan, profil to‘ldirilgan bo‘lsin. Telefon <b>kamida 50%</b> zaryadlangan bo‘lsin.</p><p class="ru">Приложение установлено, профиль заполнен. Телефон заряжен <b>минимум на 50%</b>.</p></div></li><li><span class="n">2</span><div><p>Darsdan oldin ilovani <b>internet bilan</b> bir marta oching — yangilanishlar yuklanadi.</p><p class="ru">Перед занятием один раз откройте приложение <b>с интернетом</b> — подтянутся обновления.</p></div></li></ol>
+<h3>Darsda · На занятии</h3>
+<ol class="steps"><li><span class="n">1</span><div><p>O‘qituvchi Telegram guruhiga <b>test faylini</b> (.json) yuboradi. Uni saqlang: iPhone — «Fayllarga saqlash», Android — «Yuklab olish».</p><p class="ru">Преподаватель присылает в Telegram <b>файл теста</b> (.json). Сохраните его: iPhone — «Сохранить в Файлы», Android — «Загрузки».</p></div></li><li><span class="n">2</span><div><p>Ilovada: <b>«Imtihon» → «Test faylini yuklash»</b> → saqlangan faylni tanlang.</p><p class="ru">В приложении: <b>«Экзамен» → «Загрузить файл теста»</b> → выберите сохранённый файл.</p></div></li><li><span class="n">3</span><div><p>O‘qituvchi aytgan <b>boshlash kodini</b> kiriting (masalan, K7MP-4QX9) → «Keyingi».</p><p class="ru">Введите <b>код старта</b>, который назовёт преподаватель (например, K7MP-4QX9) → «Далее».</p></div></li><li><span class="n">4</span><div><p><b>Parvoz rejimini yoqing</b>, Wi-Fi va mobil internetni o‘chiring. Ekranda «Qurilma oflayn» yozuvi chiqishi kerak.</p><p class="ru"><b>Включите авиарежим</b>, выключите Wi-Fi и мобильные данные. На экране должно появиться «Устройство офлайн».</p></div></li><li><span class="n">5</span><div><p><b>iPhone:</b> yon tugmani <b>3 marta</b> bosing → «Yo‘naltirilgan kirish». Kodni <b>o‘qituvchi kiritadi</b>. (Oldindan: Sozlamalar → Universal kirish → Yo‘naltirilgan kirish → yoqing.) <b>Android:</b> boshlaganda ilova to‘liq ekranga o‘tadi.</p><p class="ru"><b>iPhone:</b> трижды нажмите боковую кнопку → «Гид-доступ». Код <b>вводит преподаватель</b>. (Заранее: Настройки → Универсальный доступ → Гид-доступ → включить.) <b>Android:</b> при старте приложение перейдёт в полноэкранный режим.</p></div></li><li><span class="n">6</span><div><p><b>«Boshlash»</b>ni bosing. Odatda <b>30 ta savol, 40 daqiqa</b>. Savollar va variantlar har bir talabada boshqacha tartibda.</p><p class="ru">Нажмите <b>«Начать»</b>. Обычно <b>30 заданий, 40 минут</b>. Порядок вопросов и вариантов у каждого свой.</p></div></li><li><span class="n">7</span><div><p>Savollar orasida <b>«Keyingi» / «Oldingi»</b> bilan yuring; raqamli ro‘yxat (yuqori chapdagi tugma) orqali istalgan savolga o‘tish mumkin. Javoblar avtomatik saqlanadi.</p><p class="ru">Переходите <b>«Далее» / «Назад»</b>; кнопка с номером вверху слева открывает список всех вопросов. Ответы сохраняются автоматически.</p></div></li><li><span class="n">8</span><div><p>Tugatgach: <b>«Testni topshirish»</b> → tasdiqlang. Vaqt tugasa, test o‘zi topshiriladi.</p><p class="ru">В конце: <b>«Сдать тест»</b> → подтвердите. Когда время выйдет, тест сдастся сам.</p></div></li><li><span class="n">9</span><div><p>Ekranda <b>ball, foiz, vaqt va QR-kod</b> chiqadi. QR-kodni <b>o‘qituvchiga ko‘rsating</b> — u skanerlaydi. Shundan keyin o‘qituvchi Yo‘naltirilgan kirishdan chiqaradi.</p><p class="ru">На экране — <b>балл, процент, время и QR-код</b>. <b>Покажите QR преподавателю</b> — он его отсканирует. После этого преподаватель выключит Гид-доступ.</p></div></li></ol></section>
+
+<section><h2><span class="ico">⚠️</span>6. Qoidalar<span class="ru-h">6. Правила</span></h2>
+<div class="box warn">
+<ol class="steps"><li><span class="n">1</span><div><p><b>Ilovadan chiqish</b> (boshqa ilovani ochish, yig‘ish, sahifani yopish) — qoidabuzarlik. <b>1-marta — ogohlantirish, 2-marta — test avtomatik topshiriladi.</b></p><p class="ru"><b>Уход из приложения</b> (другое приложение, сворачивание, закрытие) — нарушение. <b>1-й раз — предупреждение, 2-й — тест сдаётся автоматически.</b></p></div></li><li><span class="n">2</span><div><p>Test davomida <b>internet paydo bo‘lsa</b> — qoidabuzarlik yoziladi. Parvoz rejimini o‘chirmang.</p><p class="ru">Если во время теста <b>появится интернет</b> — записывается нарушение. Не выключайте авиарежим.</p></div></li><li><span class="n">3</span><div><p>Telefon soatini o‘zgartirish ham qoidabuzarlik sifatida yoziladi.</p><p class="ru">Перевод часов на телефоне тоже записывается как нарушение.</p></div></li><li><span class="n">4</span><div><p>Barcha qoidabuzarliklar vaqti bilan natijaga va QR-kodga yoziladi; o‘qituvchi ularni ko‘radi.</p><p class="ru">Все нарушения со временем попадают в результат и QR-код; преподаватель их видит.</p></div></li><li><span class="n">5</span><div><p>Matnni nusxalash va belgilash o‘chirilgan.</p><p class="ru">Копирование и выделение текста отключены.</p></div></li></ol>
+</div></section>
+
+<section><h2><span class="ico">📊</span>7. Baholash<span class="ru-h">7. Оценка</span></h2>
+<p><span class="big">Ball: 0 dan 2.0 gacha, 0.1 qadam bilan</span> (0; 0.1; 0.2 … 1.9; 2.0). Ball = to‘g‘ri javoblar ulushi × 2, o‘ndan birgacha pastga yaxlitlanadi. Masalan: 30 tadan 24 ta to‘g‘ri → 80% → <b>1.6</b>.</p><p class="ru"><span class="big">Балл: от 0 до 2.0 с шагом 0.1.</span> Балл = доля верных ответов × 2, с округлением вниз до десятых. Например: 24 из 30 верно → 80% → <b>1.6</b>.</p>
+<p>Ballni o‘qituvchi o‘z kaliti bo‘yicha qayta hisoblaydi — QR-kodni o‘zgartirish natija bermaydi.</p><p class="ru">Преподаватель пересчитывает балл по своему ключу — изменять QR бесполезно.</p></section>
+
+<section><h2><span class="ico">❓</span>8. Muammolar va yechimlar<span class="ru-h">8. Если что-то не так</span></h2>
+<table>
+<tr><th style="width:30%">Muammo / Проблема</th><th>Nima qilish kerak</th><th>Что делать</th></tr>
+<tr><td>«Qurilma hali onlayn»</td><td>Parvoz rejimini yoqing va <b>Wi-Fi’ni ham</b> o‘chiring.</td><td class="ru">Включите авиарежим и выключите <b>ещё и Wi-Fi</b>.</td></tr>
+<tr><td>«Kod noto‘g‘ri»</td><td>Kodni qayta kiriting: harflar va raqamlar, chiziqcha shart emas. Fayl aynan shu dars uchunmi — tekshiring.</td><td class="ru">Введите код ещё раз (дефис не обязателен). Проверьте, что файл именно для этого занятия.</td></tr>
+<tr><td>Fayl tanlanmayapti (iPhone)</td><td>Telegram’da faylni bosing → <b class="k">Ulashish</b> → «Fayllarga saqlash», so‘ng ilovadan tanlang.</td><td class="ru">В Telegram нажмите на файл → <b class="k">Поделиться</b> → «Сохранить в Файлы», затем выберите в приложении.</td></tr>
+<tr><td>Ilova yopilib qoldi / telefon o‘chdi</td><td>Ilovani qayta oching — test davom etadi, javoblar saqlangan. Vaqt to‘xtamaydi; chiqish qoidabuzarlik sifatida yoziladi.</td><td class="ru">Откройте приложение снова — тест продолжится, ответы сохранены. Время не останавливается; уход записывается как нарушение.</td></tr>
+<tr><td>QR-kod skanerlanmayapti</td><td>Ekran yorqinligini oshiring. Bo‘lmasa: <b>«Natijani fayl sifatida saqlash»</b> → faylni o‘qituvchiga Telegram’da yuboring.</td><td class="ru">Прибавьте яркость. Если не помогает: <b>«Сохранить результат файлом»</b> → отправьте файл преподавателю в Telegram.</td></tr>
+<tr><td>Oxirgi natijani qayta ko‘rsatish</td><td>Bosh sahifa → <b>«Oxirgi natija»</b>.</td><td class="ru">Главный экран → <b>«Последний результат»</b>.</td></tr>
+</table></section>
+
+<footer>Anatomiya test · https://lilwolvie0710-ux.github.io/anatomiya-test/ · Rasmlar: Gray’s Anatomy (1918, public domain), OpenStax Anatomy &amp; Physiology (CC BY 4.0) — ilovadagi «Manbalar» bo‘limida.</footer>
+</body>
+</html>
